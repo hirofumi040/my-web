@@ -214,39 +214,37 @@ function Hero() {
           </div>
         </div>
 
-        <div className="relative h-[440px] animate-float md:h-[560px]">
-          <div className="absolute inset-x-7 top-4 h-56 border border-black/10 bg-white shadow-soft md:inset-x-10">
-            <div className="flex items-center justify-between border-b border-black/8 px-5 py-4">
-              <span className="text-xs uppercase text-black/45">workflow map</span>
-              <span className="h-2 w-2 rounded-full bg-teal" />
+        <div className="hero-visual animate-float" aria-label="CAD 与 AI 工作流抽象界面">
+          <div className="cad-board">
+            <div className="cad-toolbar">
+              <span>CAD / AI WORKSPACE</span>
+              <i />
             </div>
-            <div className="space-y-4 p-5">
-              {workflowTags.slice(0, 4).map((tag, index) => (
-                <div key={tag} className="flex items-center gap-4">
-                  <span className="w-14 text-xs text-black/45">0{index + 1}</span>
-                  <div className="h-px flex-1 bg-black/10" />
-                  <span className="text-sm">{tag}</span>
-                </div>
-              ))}
+            <div className="cad-plan">
+              <div className="room room-a">报价</div>
+              <div className="room room-b">PPT</div>
+              <div className="room room-c">效果图</div>
+              <div className="room room-d">知识库</div>
+              <span className="dimension dimension-top">14810</span>
+              <span className="dimension dimension-left">6830</span>
             </div>
           </div>
-          <div className="absolute bottom-8 left-0 right-0 mx-auto h-72 max-w-sm border border-black/10 bg-[#fefefe] shadow-soft">
-            <div className="h-full p-5">
-              <div className="mb-6 flex items-center justify-between">
-                <span className="text-xs uppercase text-black/45">design + ai</span>
-                <span className="text-xs text-deepTeal">active</span>
-              </div>
-              <div className="grid h-[210px] grid-cols-3 gap-2">
-                <div className="col-span-2 bg-mist p-4">
-                  <div className="h-full animate-pulse-slow bg-[linear-gradient(135deg,#dce4df,#f9faf8_55%,#bce7df)]" />
-                </div>
-                <div className="space-y-2">
-                  <div className="h-[64px] bg-black/85" />
-                  <div className="h-[64px] bg-teal/80" />
-                  <div className="h-[66px] bg-black/10" />
-                </div>
-              </div>
+
+          <div className="node-panel">
+            <div className="node node-input">
+              <span>Input</span>
+              <strong>CAD / 素材 / 资料</strong>
             </div>
+            <div className="node node-ai">
+              <span>AI Process</span>
+              <strong>识别 / 整理 / 生成</strong>
+            </div>
+            <div className="node node-output">
+              <span>Output</span>
+              <strong>报价 / PPT / 表达</strong>
+            </div>
+            <div className="node-line node-line-a" />
+            <div className="node-line node-line-b" />
           </div>
         </div>
       </div>
