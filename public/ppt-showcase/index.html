@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI PPT 自动化工作流 | 牛博文</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <div class="preview">
+          <img src="./assets/contact-sheet.jpg" alt="AI PPT 自动化生成的汇报页面预览" />
+        </div>
+        <div class="intro">
+          <p class="eyebrow">AI WORKFLOW DEMO</p>
+          <h1>设计师 PPT 自动化工作流</h1>
+          <p>
+            这是一个面向设计师汇报场景的本地自动化流程：自动整理现场图、意向图、平面图等素材，
+            按照模板结构生成可编辑的项目汇报 PPT。
+          </p>
+          <div class="actions">
+            <a class="primary" href="./assets/sample.pptx" download>下载样例 PPT</a>
+            <a class="secondary" href="/">返回个人主页</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <p class="eyebrow">WORKFLOW</p>
+          <h2>从素材整理，到可编辑成稿。</h2>
+        </div>
+        <div class="steps">
+          <article>
+            <span>01</span>
+            <h3>识别项目素材</h3>
+            <p>整理现场图、意向图、平面图和参考资料，降低设计师手动分类成本。</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>匹配页面版式</h3>
+            <p>根据图片数量和内容类型匹配单图、双图、三图等页面结构。</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>生成汇报文件</h3>
+            <p>输出可继续编辑的 PowerPoint 文件，方便设计师二次调整和客户沟通。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="demo" id="demo">
+        <div>
+          <p class="eyebrow">LOCAL AUTOMATION</p>
+          <h2>真实工具在本地运行，网页用于展示流程。</h2>
+          <p>
+            这个演示页不读取访问者电脑文件，只展示项目逻辑。真实流程在本地处理客户资料，
+            目标是减少设计师在汇报前的重复整理和排版时间。
+          </p>
+        </div>
+        <div class="panel">
+          <div class="status" id="status">等待开始</div>
+          <div class="log" id="log">
+            <p>工作目录已绑定</p>
+            <p>等待项目素材...</p>
+          </div>
+          <button id="demoButton" type="button">模拟生成流程</button>
+        </div>
+      </section>
+    </main>
+    <script src="./script.js"></script>
+  </body>
+</html>

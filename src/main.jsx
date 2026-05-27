@@ -29,6 +29,7 @@ const projects = [
   {
     title: "设计师 PPT 自动化工作流",
     meta: "PowerPoint / Image / Template Pipeline",
+    demoHref: "/ppt-showcase/",
     summary:
       "为设计师汇报场景搭建的 PPT 自动化生产流程，把素材整理、版式匹配、图片处理和成稿生成变成可复用的标准流程。",
     details: {
@@ -392,11 +393,9 @@ function Projects() {
         </div>
         <div className="grid gap-4 md:grid-cols-2">
           {projects.map((project, index) => (
-            <button
+            <article
               key={project.title}
-              className="project-card text-left"
-              type="button"
-              onClick={() => setActiveProject({ ...project, index })}
+              className="project-card"
             >
               <div className="mb-8 flex items-start justify-between gap-6">
                 <div>
@@ -416,11 +415,23 @@ function Projects() {
                   </li>
                 ))}
               </ul>
-              <div className="mt-8 inline-flex items-center gap-2 text-sm text-deepTeal">
-                查看项目详情
-                <ArrowRight size={16} />
+              <div className="project-actions">
+                <button
+                  className="project-action"
+                  type="button"
+                  onClick={() => setActiveProject({ ...project, index })}
+                >
+                  查看项目详情
+                  <ArrowRight size={16} />
+                </button>
+                {project.demoHref && (
+                  <a className="project-action project-action-secondary" href={project.demoHref}>
+                    查看作品演示
+                    <ArrowRight size={16} />
+                  </a>
+                )}
               </div>
-            </button>
+            </article>
           ))}
         </div>
       </div>
