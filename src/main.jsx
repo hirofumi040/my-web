@@ -7,6 +7,7 @@ const projects = [
   {
     title: "CAD 自动报价系统",
     meta: "CAD / DXF / Quote Automation",
+    demoHref: "/cad-showcase/index.html",
     summary:
       "面向室内设计报价场景搭建的一套自动化预算系统，把图纸识别、报价匹配、柜体计算和预算生成整合到同一工作流中。",
     details: {
@@ -118,25 +119,25 @@ const workflowTags = ["CAD", "3ds Max", "ComfyUI", "PPT", "Qwen", "Codex", "Work
 
 const capabilities = [
   {
-    title: "设计现场经验",
+    title: "设计经验",
     label: "Design Practice",
     summary:
-      "我不是从工具开始理解设计，而是从量房、CAD、方案深化、效果表现和客户沟通这些真实环节里理解设计流程。",
-    points: ["室内设计与方案深化", "CAD 制图与 3D 效果表现", "理解设计落地和客户表达"],
+      "做过室内设计、方案深化、CAD 制图和客户沟通，知道设计工作里哪些环节最耗时间，也知道方案最后要落到表达和交付上。",
+    points: ["CAD 制图与方案深化", "效果表现与汇报表达", "理解客户沟通和项目落地"],
   },
   {
-    title: "组织沟通与销售能力",
+    title: "沟通推进",
     label: "Communication / Sales",
     summary:
-      "我做过门店管理和校园营销，也参与过真实客户沟通，能把目标拆解到现场执行，并把复杂信息讲清楚。",
-    points: ["团队组织与现场推进", "客户需求理解与方案表达", "营销场景中的沟通转化"],
+      "大学做过学生会主席，也做过门店管理、校园营销和东京留学期间的联谊会组织。相比一个人埋头做事，我更习惯协调人、信息和现场节奏。",
+    points: ["组织活动与现场执行", "客户需求理解与表达", "社交场景组织与沟通"],
   },
   {
-    title: "AI 工作流落地能力",
+    title: "AI 落地尝试",
     label: "AI Workflow",
     summary:
-      "我关注的不是单个 AI 工具，而是 AI 如何接入报价、PPT、效果图、知识管理和原型开发等真实工作流。",
-    points: ["把重复劳动转化为自动化流程", "用 AI 提高设计生产效率", "具备产品化和 Agent 思维"],
+      "我不是只试 AI 生成内容，而是把它放进报价、PPT、效果图、资料检索和网页原型里，看看它能不能真的帮工作变快。",
+    points: ["报价和 PPT 自动化", "AI 图像与效果图流程", "用 Codex 快速做网页原型"],
   },
 ];
 
@@ -189,7 +190,7 @@ function Hero() {
       <div className="absolute inset-0 subtle-grid" />
       <div className="absolute left-1/2 top-28 h-72 w-72 -translate-x-1/2 rounded-full bg-teal/10 blur-3xl" />
       <div className="relative mx-auto grid min-h-[88vh] max-w-6xl items-center gap-12 px-5 py-16 md:grid-cols-[1.05fr_0.95fr] md:px-8 md:py-20">
-        <div className="animate-rise">
+        <div className="hero-copy animate-rise">
           <div className="mb-8 inline-flex items-center gap-2 border border-black/10 bg-white/70 px-3 py-2 text-xs text-black/60 shadow-sm backdrop-blur">
             <Sparkles size={14} className="text-deepTeal" />
             AI Product / Design Workflow
@@ -201,7 +202,10 @@ function Hero() {
             室内设计背景 / AI 工作流探索者
           </p>
           <p className="mt-8 max-w-2xl text-2xl leading-relaxed md:text-3xl">
-            我不是想离开设计，而是想成为真正能把 AI 与设计结合的人。
+            从设计现场出发，把 AI 接进真实工作流。
+          </p>
+          <p className="mt-5 max-w-xl text-base leading-8 text-black/58">
+            我已经搭建了一套 AI 设计工作流雏形：从 CAD 报价、PPT 汇报、ComfyUI 效果图辅助，到资料整理和网页原型。下一步需要更多使用数据和反馈来继续改进。
           </p>
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <a className="btn-primary" href="#projects">
@@ -214,38 +218,11 @@ function Hero() {
           </div>
         </div>
 
-        <div className="hero-visual animate-float" aria-label="CAD 与 AI 工作流抽象界面">
-          <div className="cad-board">
-            <div className="cad-toolbar">
-              <span>CAD / AI WORKSPACE</span>
-              <i />
-            </div>
-            <div className="cad-plan">
-              <div className="room room-a">报价</div>
-              <div className="room room-b">PPT</div>
-              <div className="room room-c">效果图</div>
-              <div className="room room-d">知识库</div>
-              <span className="dimension dimension-top">14810</span>
-              <span className="dimension dimension-left">6830</span>
-            </div>
-          </div>
-
-          <div className="node-panel">
-            <div className="node node-input">
-              <span>Input</span>
-              <strong>CAD / 素材 / 资料</strong>
-            </div>
-            <div className="node node-ai">
-              <span>AI Process</span>
-              <strong>识别 / 整理 / 生成</strong>
-            </div>
-            <div className="node node-output">
-              <span>Output</span>
-              <strong>报价 / PPT / 表达</strong>
-            </div>
-            <div className="node-line node-line-a" />
-            <div className="node-line node-line-b" />
-          </div>
+        <div className="hero-visual animate-float" aria-label="AI 设计工作流抽象视觉">
+          <img
+            src="/hero/ai-design-workflow.png"
+            alt="由 CAD 线稿、表格、文档和 AI 节点组成的抽象工作流视觉"
+          />
         </div>
       </div>
     </section>
@@ -265,7 +242,7 @@ function About() {
             我本科环境设计背景，做过室内设计、方案深化、CAD 制图、3D 效果表现和客户沟通。
           </p>
           <p>
-            现在我更关注 AI 如何进入真实行业流程：让设计师从重复整理、统计和表达工作里释放出来，把更多精力放在判断、沟通和方案本身。
+            最近我一直在试 AI 工具、AI workflow 和 AI coding，重点是把它们接进设计师每天会用到的工作里。
           </p>
           <button className="btn-secondary" type="button" onClick={() => setShowExperience(true)}>
             查看我的经历
@@ -283,7 +260,7 @@ function ExperienceModal({ onClose }) {
     {
       title: "组织与推进能力",
       label: "Team / Execution",
-      text: "曾担任中国电信娄底分公司门店经理，组织团队开展开学季校园营销，并配合公司进入高校场景执行推广。这个经历让我很早接触到目标拆解、人员协作、现场推进和结果反馈。",
+      text: "大学期间担任学生会主席，组织举办过多次学校大型项目；也曾担任中国电信娄底分公司门店经理，组织团队开展开学季校园营销，并配合公司进入高校场景执行推广。这些经历让我很早接触到目标拆解、人员协作、现场推进和结果反馈。",
     },
     {
       title: "设计行业经验",
@@ -298,7 +275,7 @@ function ExperienceModal({ onClose }) {
     {
       title: "沟通与销售能力",
       label: "Sales / Persuasion",
-      text: "在门店管理、校园营销和设计客户沟通中，我持续训练了把复杂信息讲清楚的能力。无论是介绍业务、理解需求，还是推动客户接受方案，我都更关注对方真正关心什么，并把表达转化为行动。",
+      text: "在门店管理、校园营销、设计客户沟通和留学期间多次大型联谊会组织中，我持续训练了把复杂信息讲清楚、把不同人连接起来的能力。无论是介绍业务、理解需求，还是推动对方接受方案，我都更关注对方真正关心什么，并把表达转化为行动。",
     },
     {
       title: "学习能力与生活阅历",
@@ -330,7 +307,7 @@ function ExperienceModal({ onClose }) {
           ))}
         </div>
         <div className="mt-8 border-l-2 border-teal pl-5 text-base leading-8 text-black/62">
-          补充经历：本科环境设计背景，参与导师科研项目与实践设计；共同创办校园设计工作室；参与住宅与商业项目实践；中装杯全国大学生环境设计大赛全国三等奖。
+          补充经历：本科环境设计背景，参与导师科研项目与实践设计；共同创办校园设计工作室；参与住宅与商业项目实践；大学任学生会主席；留学期间组织多次大型联谊会；中装杯全国大学生环境设计大赛全国三等奖。
         </div>
       </div>
     </div>
@@ -344,10 +321,10 @@ function Capabilities() {
         <div className="mb-12 grid gap-6 md:grid-cols-[0.85fr_1.15fr] md:items-end">
           <div>
             <div className="section-label">Capabilities</div>
-            <h2 className="section-title">我想展示的，不只是工具能力。</h2>
+            <h2 className="section-title">我目前有三类能力。</h2>
           </div>
           <p className="text-base leading-8 text-black/58">
-            我的优势来自三条线：设计现场的真实经验、组织沟通与销售能力，以及把 AI 接入工作流的落地能力。
+            设计经验、沟通推进、AI 落地尝试。它们都来自我做过的事，不是为了包装出来的标签。
           </p>
         </div>
         <div className="grid gap-4 md:grid-cols-3">
@@ -383,10 +360,10 @@ function Projects() {
         <div className="mb-12 flex flex-col justify-between gap-5 md:flex-row md:items-end">
           <div>
             <div className="section-label">AI Practice</div>
-            <h2 className="section-title max-w-3xl">把 AI 接进真实生产流程，而不是只展示概念。</h2>
+            <h2 className="section-title max-w-3xl">我做过的 AI 实践。</h2>
           </div>
           <p className="max-w-sm text-sm leading-7 text-black/52">
-            这些项目来自实际工作和个人实验，重点是减少重复劳动、提升表达效率、验证 AI 在生产环节中的位置。
+            这些项目来自工作和个人实验，重点是让 AI 真的帮我省时间、少重复。
           </p>
         </div>
         <div className="grid gap-4 md:grid-cols-2">
@@ -488,14 +465,14 @@ function Thinking() {
       <div className="grid gap-10 md:grid-cols-[0.9fr_1.1fr] md:items-start">
         <div>
           <div className="section-label">Why AI + Design</div>
-          <h2 className="section-title">我关注 AI 如何真正进入真实行业。</h2>
+          <h2 className="section-title">为什么是 AI + 设计。</h2>
         </div>
         <div>
           <p className="text-xl leading-9 text-black/68">
-            相比“AI 替代设计师”，我更感兴趣的是 AI 如何成为设计师身边稳定、可调用、能承担重复流程的工作伙伴。
+            我不太关心“AI 会不会替代设计师”这种大问题。我更关心它现在能不能帮设计师少做一点重复劳动。
           </p>
           <p className="mt-6 border-l-2 border-teal pl-5 text-base leading-8 text-black/58">
-            随着国家层面持续推进“人工智能+”行动，AI 与传统行业的结合正在从工具尝鲜走向流程重构。我关注的正是这种变化在设计行业中的真实落点。
+            报价统计、PPT 汇报、图片整理、资料检索，这些都是很小但很真实的入口。
           </p>
           <div className="mt-10 grid gap-3">
             {ideas.map((idea) => (
@@ -506,7 +483,7 @@ function Thinking() {
             ))}
           </div>
           <p className="mt-10 text-lg leading-8 text-black/68">
-            我希望未来能成为真正能把 AI 与设计结合的人：既理解设计现场，也能理解工具、数据、Agent 和产品逻辑。
+            我希望自己以后能做的，是把设计现场的问题讲清楚，再用 AI 做出可用的解决方案。
           </p>
         </div>
       </div>
@@ -530,9 +507,9 @@ function Contact() {
               <Mail size={18} />
               boweniu1110@icloud.com
             </a>
-            <a className="contact-line" href="tel:+8615603569808">
+            <a className="contact-line" href="tel:+8618473180925">
               <Phone size={18} />
-              +86 15603569808
+              +86 18473180925
             </a>
             <div className="flex flex-col gap-3 pt-3 sm:flex-row">
               <a className="btn-light" href="/resume.pdf" download>
