@@ -329,7 +329,7 @@ function Capabilities() {
             设计现场经验让我知道问题从哪里来，AI 实践让我能把需求和流程做成原型，组织和沟通经历让我能推动事情往前走。
           </p>
         </div>
-        <div className="grid gap-4 md:grid-cols-3">
+        <div className="capability-grid grid gap-4 md:grid-cols-3">
           {capabilities.map((item, index) => (
             <article className="capability-card" key={item.title}>
               <div className="mb-8 flex items-start justify-between gap-5">
@@ -368,11 +368,11 @@ function Projects() {
             这些项目以原型和内部流程为主，覆盖需求发现、流程拆解、原型搭建和结果验证。
           </p>
         </div>
-        <div className="grid gap-4 md:grid-cols-2">
+        <div className="projects-grid">
           {projects.map((project, index) => (
             <article
               key={project.title}
-              className="project-card"
+              className={`project-card ${index < 2 ? "project-card-featured" : ""}`}
             >
               <div className="mb-8 flex items-start justify-between gap-6">
                 <div>
@@ -429,7 +429,12 @@ function ProjectModal({ project, onClose }) {
         <span className="text-xs uppercase text-deepTeal">{project.meta}</span>
         <div className="mt-4 flex items-start justify-between gap-8">
           <h3 className="text-3xl font-medium leading-tight md:text-5xl">{project.title}</h3>
-          <span className="hidden text-sm text-black/35 md:block">0{project.index + 1}</span>
+          <div className="project-modal-aside">
+            <span>0{project.index + 1}</span>
+            {project.meta === "Render Workflow" && (
+              <img src="/banana/banana-spin-transparent-safe.webp" alt="" />
+            )}
+          </div>
         </div>
         <p className="mt-7 max-w-3xl text-lg leading-9 text-black/66">{project.summary}</p>
         <div className="mt-10 grid gap-6 md:grid-cols-3">
