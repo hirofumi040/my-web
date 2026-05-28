@@ -37,19 +37,19 @@ const projects = [
       "为设计师汇报场景搭建的 PPT 自动化生产流程，把素材整理、版式匹配、图片处理和成稿生成变成可复用的标准流程。",
     details: {
       background:
-        "设计师做方案汇报时，真正消耗时间的常常不是设计判断，而是素材整理、图片处理、版式适配、重复排版和反复检查。",
+        "设计师做方案汇报时，消耗时间的常常不是设计判断，而是素材整理、图片处理、版式适配、重复排版和反复检查。",
       action:
         "我为 3 位设计师搭建了从素材到成稿的自动化流程，把现场图、意向图、平面图等资料按类型整理，并自动匹配 PPT 页面结构。",
       value:
-        "这套流程减少了汇报前的机械整理工作，让设计师更快形成一版可编辑成稿，也让团队交付风格更统一。",
+        "这套流程把汇报前的素材整理和初稿生成标准化，让设计师可以在可编辑成稿的基础上继续调整。",
       capability:
-        "体现能力：能把设计师的重复劳动抽象成标准流程，并用自动化方法提高团队出稿效率。",
+        "体现能力：能把设计师的重复劳动抽象成标准流程，并用自动化方法支持团队更稳定地出稿。",
     },
     points: [
       "为 3 位设计师定制从素材到成稿的自动化汇报流程",
       "自动处理现场图、意向图、平面图等多类设计资料",
       "根据素材类型匹配页面版式，减少重复排版",
-      "显著降低方案汇报前的整理成本，提高团队出稿效率",
+      "减少方案汇报前的整理成本，支持团队更稳定出稿",
     ],
   },
   {
@@ -61,16 +61,16 @@ const projects = [
       background:
         "传统效果图制作周期较长，而 AI 图像工具虽然出图很快，但如果脱离 3D 模型和真实空间结构，就容易停留在灵感图层面。",
       action:
-        "我把 ComfyUI 接入 3ds Max 效果图流程，用 AI 快速探索风格和氛围，再回到 3D 模型中控制空间结构、材质关系和最终表达。",
+        "我把 ComfyUI 接入 3ds Max 效果图流程，用 AI 探索风格和氛围，再回到 3D 模型中控制空间结构、材质关系和最终表达。",
       value:
-        "这个流程缩短了前期视觉试错时间，同时保留了 3D 软件对空间准确性的控制，适合用于效果图前期提案。",
+        "这个流程用于前期视觉试错，同时保留 3D 软件对空间准确性的控制，适合用于效果图前期提案。",
       capability:
         "体现能力：能判断 AI 图像生成的边界，并把它放在合适的生产环节里，而不是只追求单张图效果。",
     },
     points: [
       "使用 ComfyUI 辅助效果图生成",
-      "结合 3ds Max 提高效果图效率",
-      "减少传统渲染时间",
+      "结合 3ds Max 控制空间结构和材质关系",
+      "用于前期方案方向验证",
     ],
   },
   {
@@ -84,7 +84,7 @@ const projects = [
       action:
         "我基于通义千问搭建本地 AI 知识助手，通过局域网连接多台设备，实现跨设备资料访问、信息检索和语义问答。",
       value:
-        "这个系统把零散资料变成可对话的知识入口，让我能更快整理碎片知识、设计文化、语言学习和工作资料。",
+        "这个系统把零散资料变成可对话的知识入口，用于整理碎片知识、设计文化、语言学习和工作资料。",
       capability:
         "体现能力：能从个人高频需求出发，理解知识管理、语义检索和本地工作流之间的关系。",
     },
@@ -103,16 +103,16 @@ const projects = [
       background:
         "AI Coding 的核心不只是让 AI 写代码，而是如何描述目标、拆解任务、提供上下文、检查结果，并在真实项目里持续迭代。",
       action:
-        "我使用 Codex 辅助生成这个个人展示网页，从页面规划、文案调整、组件实现到本地构建，完整体验了一次人机协作开发流程。",
+        "我使用 Codex 辅助生成这个个人展示网页，从页面规划、文案调整、组件实现到本地构建，完成了一次人机协作开发流程。",
       value:
         "这个过程让我更理解 AI 产品中的提示设计、上下文管理、任务拆解、结果评估和人机协作边界。",
       capability:
-        "体现能力：能把 AI 当作协作对象使用，快速完成原型验证，并通过人工判断持续修正方向。",
+        "体现能力：能把 AI 当作协作对象使用，完成原型验证，并通过人工判断持续修正方向。",
     },
     points: [
       "使用 AI 辅助生成网页",
       "研究 AI workflow 和 Agent 思维",
-      "探索 AI 是否能真正参与生产流程",
+      "探索 AI 参与生产流程的方式",
     ],
   },
 ];
@@ -131,7 +131,7 @@ const capabilities = [
     title: "产品拆解",
     label: "Product Thinking",
     summary:
-      "我会把一个模糊想法拆成输入、处理、人工确认和输出，先做出能跑的原型，再根据使用反馈继续改。",
+      "我会把一个模糊需求拆成输入、处理、人工确认和输出，先做出能跑的原型，再根据使用反馈继续改。",
     points: ["需求拆解与流程设计", "原型验证与快速迭代", "保留人工复核和判断节点"],
   },
   {
@@ -207,7 +207,7 @@ function Hero() {
             从设计现场出发，做能落地的 AI 产品。
           </p>
           <p className="mt-5 max-w-xl text-base leading-8 text-black/58">
-            我已经搭建过 CAD 报价、PPT 自动化、ComfyUI 效果图辅助、本地知识助手和网页原型。现在想把这些设计场景里的 AI 实践，转化为可验证、可迭代的产品方案。
+            我已经搭建过 CAD 报价、PPT 自动化、ComfyUI 效果图辅助、本地知识助手和网页原型，并持续把这些实践整理成可复用的方法。
           </p>
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <a className="btn-primary" href="#projects">
@@ -277,7 +277,7 @@ function ExperienceModal({ onClose }) {
     {
       title: "沟通与销售能力",
       label: "Sales / Persuasion",
-      text: "在门店管理、校园营销、设计客户沟通和留学期间多次大型联谊会组织中，我持续训练了把复杂信息讲清楚、把不同人连接起来的能力。无论是介绍业务、理解需求，还是推动对方接受方案，我都更关注对方真正关心什么，并把表达转化为行动。",
+      text: "在门店管理、校园营销、设计客户沟通和留学期间多次大型联谊会组织中，我持续训练了把复杂信息讲清楚、把不同人连接起来的能力。无论是介绍业务、理解需求，还是推动对方接受方案，我都更关注对方实际关心什么，并把表达转化为行动。",
     },
     {
       title: "学习能力与生活阅历",
@@ -323,10 +323,10 @@ function Capabilities() {
         <div className="mb-12 grid gap-6 md:grid-cols-[0.85fr_1.15fr] md:items-end">
           <div>
             <div className="section-label">Capabilities</div>
-            <h2 className="section-title">我想展示的是产品能力，而不只是工具能力。</h2>
+            <h2 className="section-title">这里展示的，不只是工具能力。</h2>
           </div>
           <p className="text-base leading-8 text-black/58">
-            设计现场经验提供真实需求，AI 实践提供原型能力，组织和沟通经历帮助我推进事情。这些加在一起，是我切入 AI 产品经理岗位的方式。
+            设计现场经验让我知道问题从哪里来，AI 实践让我能把需求和流程做成原型，组织和沟通经历让我能推动事情往前走。
           </p>
         </div>
         <div className="grid gap-4 md:grid-cols-3">
@@ -362,10 +362,10 @@ function Projects() {
         <div className="mb-12 flex flex-col justify-between gap-5 md:flex-row md:items-end">
           <div>
             <div className="section-label">AI Practice</div>
-            <h2 className="section-title max-w-3xl">我做过的 AI 产品化实验。</h2>
+            <h2 className="section-title max-w-3xl">我做过的 AI 工作流实践与原型。</h2>
           </div>
           <p className="max-w-sm text-sm leading-7 text-black/52">
-            它们还不是成熟产品，但已经覆盖了需求发现、流程拆解、原型搭建和结果验证。
+            这些项目以原型和内部流程为主，覆盖需求发现、流程拆解、原型搭建和结果验证。
           </p>
         </div>
         <div className="grid gap-4 md:grid-cols-2">
@@ -466,15 +466,15 @@ function Thinking() {
     <section id="thinking" className="section">
       <div className="grid gap-10 md:grid-cols-[0.9fr_1.1fr] md:items-start">
         <div>
-          <div className="section-label">Why AI Product</div>
-          <h2 className="section-title">为什么想做 AI 产品经理。</h2>
+          <div className="section-label">Thinking</div>
+          <h2 className="section-title">我怎么看 AI 和真实工作。</h2>
         </div>
         <div>
           <p className="text-xl leading-9 text-black/68">
-            我对 AI 产品经理的理解，不是只会写需求文档，也不是只会体验工具，而是能把一个真实问题拆成产品可以解决的流程。
+            我不太关心 AI 作为一个概念有多热，更关心它能不能进入真实工作，减少重复劳动，帮助人完成判断和表达。
           </p>
           <p className="mt-6 border-l-2 border-teal pl-5 text-base leading-8 text-black/58">
-            我现在做的案例来自设计行业，但想训练的是更通用的产品能力：发现需求、拆解流程、搭建原型、收集反馈。
+            我现在做的案例来自设计行业，但训练的是更通用的能力：发现需求、拆解流程、搭建原型、收集反馈。
           </p>
           <div className="mt-10 grid gap-3">
             {ideas.map((idea) => (
@@ -485,7 +485,7 @@ function Thinking() {
             ))}
           </div>
           <p className="mt-10 text-lg leading-8 text-black/68">
-            我希望以后能站在产品经理的位置，把行业场景、用户需求、AI 能力和实际交付连接起来。
+            我持续关注如何把行业场景、用户需求、AI 能力和实际交付连接起来。
           </p>
         </div>
       </div>
@@ -501,7 +501,7 @@ function Contact() {
           <div>
             <div className="mb-5 text-xs uppercase tracking-[0.24em] text-teal">Contact</div>
             <h2 className="max-w-2xl text-4xl font-medium leading-tight md:text-6xl">
-              期待参与真正能落地的 AI 产品。
+              把 AI 接进真实工作流。
             </h2>
           </div>
           <div className="space-y-6">
@@ -525,7 +525,7 @@ function Contact() {
           </div>
         </div>
         <div className="mt-20 flex flex-col justify-between gap-4 border-t border-white/10 pt-6 text-sm text-white/42 md:flex-row">
-          <span>牛博文 / AI Product Manager Candidate</span>
+          <span>牛博文 / AI Workflow & Product Practice</span>
           <span>Built with React + Tailwind CSS</span>
         </div>
       </div>
