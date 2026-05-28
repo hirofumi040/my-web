@@ -212,13 +212,13 @@ function renderAll() {
 
 function acceptVisibleCabinets() {
   visibleCabinets().forEach((item) => demo.accepted.add(item.id));
-  els.workbenchStatus.textContent = `已将${demo.currentFloor}层识别柜体加入成果清单，可继续切换楼层复核。`;
+  els.workbenchStatus.textContent = `已将${demo.currentFloor}层识别柜体加入报价清单，可继续切换楼层复核。`;
   renderAll();
 }
 
 function runDemo() {
   demo.accepted = new Set(["c1", "c3", "c4", "c5", "c6", "c7", "c8", "c9", "c10"]);
-  els.workbenchStatus.textContent = "最终识别结果已展示：图框、空间、深度和柜体成果清单已生成。";
+  els.workbenchStatus.textContent = "最终识别结果已展示：图框、空间、深度和柜体报价清单已生成。";
   renderAll();
 }
 
