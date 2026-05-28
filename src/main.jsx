@@ -201,7 +201,7 @@ function Hero() {
             牛博文
           </h1>
           <p className="mt-5 text-lg text-black/62 md:text-xl">
-            室内设计背景 / AI 产品方向探索
+            室内设计背景 / AI 工作流与产品化实践
           </p>
           <p className="mt-8 max-w-2xl text-2xl leading-relaxed md:text-3xl">
             从设计现场出发，做能落地的 AI 产品。
