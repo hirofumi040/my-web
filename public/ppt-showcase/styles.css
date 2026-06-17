@@ -34,15 +34,14 @@ main {
 }
 
 .hero,
-.section,
-.demo {
+.section {
   width: min(1120px, calc(100% - 40px));
   margin: 0 auto;
 }
 
 .hero {
   display: grid;
-  min-height: 92vh;
+  min-height: 88vh;
   align-items: center;
   gap: 44px;
   padding: 64px 0;
@@ -50,7 +49,7 @@ main {
 
 @media (min-width: 900px) {
   .hero {
-    grid-template-columns: 1.08fr 0.92fr;
+    grid-template-columns: 0.82fr 1.18fr;
   }
 }
 
@@ -59,13 +58,6 @@ main {
   border: 1px solid var(--line);
   background: #fff;
   box-shadow: 0 24px 80px rgba(21, 21, 21, 0.1);
-}
-
-.preview img {
-  width: 100%;
-  height: min(64vh, 620px);
-  object-fit: cover;
-  object-position: top left;
 }
 
 .eyebrow {
@@ -90,7 +82,7 @@ h1 {
 }
 
 h2 {
-  font-size: clamp(32px, 5vw, 56px);
+  font-size: clamp(28px, 4vw, 44px);
   line-height: 1.08;
   font-weight: 520;
 }
@@ -101,8 +93,7 @@ h3 {
 }
 
 .intro p:not(.eyebrow),
-.demo p,
-.steps p {
+.notes p {
   color: var(--muted);
   line-height: 1.9;
 }
@@ -144,86 +135,35 @@ button {
 }
 
 .section {
-  padding: 96px 0;
+  padding: 0 0 96px;
 }
 
-.section-head {
-  max-width: 680px;
-  margin-bottom: 38px;
-}
-
-.steps {
+.notes {
   display: grid;
-  gap: 16px;
+  gap: 14px;
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 28px;
 }
 
 @media (min-width: 820px) {
-  .steps {
-    grid-template-columns: repeat(3, 1fr);
+  .notes {
+    grid-template-columns: 1.4fr 0.8fr 0.8fr;
   }
 }
 
-.steps article {
-  min-height: 260px;
-  border: 1px solid var(--line);
-  background: #fff;
-  padding: 28px;
+.notes article {
+  min-width: 0;
 }
 
-.steps span {
-  display: block;
-  margin-bottom: 52px;
-  color: var(--deep);
-  font-size: 13px;
-}
-
-.steps p {
-  margin-top: 18px;
-  font-size: 15px;
-}
-
-.demo {
-  display: grid;
-  gap: 36px;
-  align-items: center;
-  padding: 96px 0 120px;
-}
-
-@media (min-width: 840px) {
-  .demo {
-    grid-template-columns: 0.9fr 1.1fr;
-  }
-}
-
-.demo p {
-  margin-top: 22px;
-}
-
-.panel {
-  border: 1px solid var(--line);
-  background: #fff;
-  padding: 28px;
-}
-
-.status {
-  display: inline-flex;
-  margin-bottom: 20px;
-  color: var(--deep);
-  font-size: 13px;
-}
-
-.log {
-  min-height: 168px;
-  border: 1px solid var(--line);
-  background: #fafaf8;
-  padding: 18px;
-}
-
-.log p {
-  margin: 0 0 10px;
+.notes p {
+  margin-top: 14px;
   font-size: 14px;
 }
 
-.panel button {
-  margin-top: 18px;
+.preview img {
+  width: 100%;
+  height: min(68vh, 680px);
+  object-fit: cover;
+  object-position: top left;
 }

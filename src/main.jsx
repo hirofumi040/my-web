@@ -5,58 +5,34 @@ import "./styles.css";
 
 const projects = [
   {
-    title: "CAD 智能识图报价系统",
-    meta: "CAD / DXF / Quote Automation",
-    demoHref: "/cad-showcase/index.html",
+    title: "Design Project Agent",
+    meta: "Interior Design Workspace Agent",
     summary:
-      "面向室内设计前期预算工作的本地网页工具，通过解析 CAD / DXF 图纸，把识别结果整理为可复核的数据清单，用于辅助生成室内设计报价。",
+      "一个面向室内设计公司的本地 AI 工作区助手，自动理解项目文件夹，整理资料，生成汇报，并维护项目状态。",
     details: {
       background:
-        "室内设计前期预算需要反复查看 CAD 图纸、标题栏、楼层空间、柜体尺寸和深度标注。人工整理容易漏项，也很难形成稳定的数据入口。",
+        "室内设计项目资料通常分散在 CAD、PDF、图片、报价单、PPT 等文件里，命名不统一，版本混乱。设计师在整理资料、查找素材、生成汇报和同步项目状态上会消耗大量时间。",
       action:
-        "我搭建了一个本地网页工具，用 CAD / DXF 数据识别公司图框、右下角标题栏、楼层、空间、图纸类型、柜体轮廓、柜体深度和尺寸信息，并支持人工复核识别结果。",
+        "我设计并开发了一个本地 Workspace Agent。它可以扫描项目文件夹，识别文件类型、项目名称、客户信息和资料状态，生成项目索引、整理预案，并在人确认后执行归档、重命名和数据库同步。",
       value:
-        "它把原本分散在图纸查看、人工判断和表格整理里的信息，转成可检查、可导出的数据清单，用于后续报价整理。",
+        "它把 CAD 识图、意向图处理、PPT 汇报生成和项目状态追踪整合成一个完整工作流，让设计师从重复整理中解放出来，把精力留给方案判断和客户沟通。",
       capability:
-        "体现能力：能从真实业务场景里拆出识别规则、数据结构、人工复核和结果导出流程，并把它做成可演示的产品原型。",
+        "体现能力：能把一线设计工作中的零散痛点抽象成产品系统，设计安全确认机制、数据结构、执行日志和可扩展 Skill 架构，并把它做成完整的行业 Agent 原型。",
     },
     points: [
-      "自动识别 CAD 图框边界与右下角标题栏信息",
-      "判断楼层、空间和图纸类型，提取柜体对象",
-      "识别 D300 / D350 / D600 / D800 等柜体深度",
-      "计算柜体长度、高度和投影面积",
-      "支持人工复核识别结果，减少漏项",
-      "支持导出 Excel，用于后续报价整理",
-    ],
-  },
-  {
-    title: "设计师 PPT 自动化工作流",
-    meta: "PowerPoint / Image / Template Pipeline",
-    demoHref: "/ppt-showcase/",
-    summary:
-      "为设计师汇报场景搭建的 PPT 自动化生产流程，把素材整理、版式匹配、图片处理和成稿生成变成可复用的标准流程。",
-    details: {
-      background:
-        "设计师做方案汇报时，消耗时间的常常不是设计判断，而是素材整理、图片处理、版式适配、重复排版和反复检查。",
-      action:
-        "我为 3 位设计师搭建了从素材到成稿的自动化流程，把现场图、意向图、平面图等资料按类型整理，并自动匹配 PPT 页面结构。",
-      value:
-        "这套流程把汇报前的素材整理和初稿生成标准化，让设计师可以在可编辑成稿的基础上继续调整。",
-      capability:
-        "体现能力：能把设计师的重复劳动抽象成标准流程，并用自动化方法支持团队更稳定地出稿。",
-    },
-    points: [
-      "为 3 位设计师定制从素材到成稿的自动化汇报流程",
-      "自动处理现场图、意向图、平面图等多类设计资料",
-      "根据素材类型匹配页面版式，减少重复排版",
-      "减少方案汇报前的整理成本，支持团队更稳定出稿",
+      "项目文件夹扫描与资料索引生成",
+      "文件类型识别、命名建议和整理预案",
+      "CAD / PDF / 图片 / PPT 等多类型资料状态追踪",
+      "意向图处理与汇报 PPT 自动生成 Skill",
+      "SQLite 项目数据库与状态看板",
+      "所有高风险操作先确认，再执行并保留日志",
     ],
   },
   {
     title: "ComfyUI + 3ds Max 效果图工作流",
-    meta: "Render Workflow",
+    meta: "Designer Workflow Optimization / Render Workflow",
     summary:
-      "把 AI 图像生成放到空间表现流程里，用于快速验证氛围、材质和视觉方向。",
+      "设计师工作优化的一部分，把 AI 图像生成放到空间表现流程里，用于快速验证氛围、材质和视觉方向。",
     details: {
       background:
         "传统效果图制作周期较长，而 AI 图像工具虽然出图很快，但如果脱离 3D 模型和真实空间结构，就容易停留在灵感图层面。",
@@ -117,7 +93,7 @@ const projects = [
   },
 ];
 
-const workflowTags = ["CAD", "3ds Max", "ComfyUI", "PPT", "Qwen", "Codex", "Workflow"];
+const workflowTags = ["Agent", "Python", "SQLite", "CAD", "PPT", "ComfyUI", "Workflow"];
 
 const capabilities = [
   {
@@ -172,7 +148,7 @@ function Navigation() {
             能力
           </a>
           <a className="nav-link" href="#projects">
-            AI 实践
+            工作流优化
           </a>
           <a className="nav-link" href="#thinking">
             思考
@@ -207,11 +183,11 @@ function Hero() {
             从设计现场出发，做能落地的 AI 产品。
           </p>
           <p className="mt-5 max-w-xl text-base leading-8 text-black/58">
-            我已经搭建过 CAD 报价、PPT 自动化、ComfyUI 效果图辅助、本地知识助手和网页原型，并持续把这些实践整理成可复用的方法。
+            我正在围绕设计师工作优化做实践：把项目资料管理、汇报生成和状态追踪整合成 Design Project Agent，并继续探索图像辅助、知识管理和 AI Coding 工作流。
           </p>
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
             <a className="btn-primary" href="#projects">
-              查看 AI 实践
+              查看工作流优化
               <ArrowRight size={18} />
             </a>
             <a className="btn-secondary" href="#contact">
@@ -361,18 +337,18 @@ function Projects() {
       <div className="section">
         <div className="mb-12 flex flex-col justify-between gap-5 md:flex-row md:items-end">
           <div>
-            <div className="section-label">AI Practice</div>
-            <h2 className="section-title max-w-3xl">我做过的 AI 工作流实践与原型。</h2>
+            <div className="section-label">Product Experiments</div>
+            <h2 className="section-title max-w-3xl">从设计现场出发的 AI 产品原型。</h2>
           </div>
           <p className="max-w-sm text-sm leading-7 text-black/52">
-            这些项目以原型和内部流程为主，覆盖需求发现、流程拆解、原型搭建和结果验证。
+            Design Project Agent 是主作品：它把项目资料管理、汇报生成和状态追踪整合成一个本地 Agent。其他案例展示我对图像、知识管理和人机协作流程的持续探索。
           </p>
         </div>
         <div className="projects-grid">
           {projects.map((project, index) => (
             <article
               key={project.title}
-              className={`project-card ${index < 2 ? "project-card-featured" : ""}`}
+              className={`project-card ${index < 3 ? "project-card-featured" : ""}`}
             >
               <div className="mb-8 flex items-start justify-between gap-6">
                 <div>
