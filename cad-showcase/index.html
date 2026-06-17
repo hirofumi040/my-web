@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CAD 智能识图报价系统｜最终版展示</title>
+    <link rel="stylesheet" href="./final-demo.css" />
+    <script defer src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <script defer src="./final-demo.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>CAD 智能识图报价系统</h1>
+        <p>从 CAD 图框到空间归属、柜体识别、深度判断、投影面积与报价清单的一体化工作台。</p>
+      </div>
+      <div class="top-actions">
+        <button id="runDemoBtn" class="primary-button" type="button">查看最终识别结果</button>
+        <button id="exportDemoBtn" class="secondary-button" type="button">导出报价清单</button>
+      </div>
+    </header>
+
+    <main class="demo-shell">
+      <aside class="panel source-panel">
+        <section class="panel-section">
+          <h2>资料中心</h2>
+          <label class="upload-card">
+            <span>项目库</span>
+            <strong>标准化项目库已加载</strong>
+            <small>用于匹配柜体类型、空间归属、单位口径与清单字段。</small>
+          </label>
+          <label class="upload-card">
+            <span>CAD / DXF</span>
+            <strong>格兰小镇施工图.dxf</strong>
+            <small>识别图框、标题栏、文字、线段、多段线、尺寸标注。</small>
+          </label>
+          <label class="upload-card">
+            <span>家具尺寸图</span>
+            <strong>柜体深化尺寸图.pdf</strong>
+            <small>识别 300 / 350 / 600 / 800 深度与柜体分段。</small>
+          </label>
+        </section>
+
+        <section class="panel-section">
+          <h2>识别流程</h2>
+          <ol class="pipeline">
+            <li class="done">识别公司图框边界</li>
+            <li class="done">读取右下角标题栏</li>
+            <li class="active">提取楼层与空间</li>
+            <li>识别柜体和深度</li>
+            <li>人工复核后生成清单</li>
+          </ol>
+        </section>
+
+        <section class="panel-section">
+          <h2>图框列表</h2>
+          <div id="frameList" class="frame-list"></div>
+        </section>
+      </aside>
+
+      <section class="panel cad-panel">
+        <div class="workbench-head">
+          <div>
+            <h2>CAD 识别工作台</h2>
+            <p id="workbenchStatus">示例工程已载入，点击图框或柜体查看识别结果。</p>
+          </div>
+          <div class="segmented" role="tablist" aria-label="楼层切换">
+            <button class="active" data-floor="2" type="button">二层</button>
+            <button data-floor="3" type="button">三层</button>
+            <button data-floor="4" type="button">四层</button>
+          </div>
+        </div>
+
+        <div class="cad-view">
+          <img id="floorImage" src="./floor2_marked_cabinets.jpg" alt="CAD 柜体识别示例" />
+          <div id="cadOverlay" class="cad-overlay"></div>
+        </div>
+
+        <div class="inspection-grid">
+          <div class="metric-card">
+            <span>识别图框</span>
+            <strong id="frameCount">0</strong>
+          </div>
+          <div class="metric-card">
+            <span>柜体候选</span>
+            <strong id="cabinetCount">0</strong>
+          </div>
+          <div class="metric-card">
+            <span>需复核</span>
+            <strong id="reviewCount">0</strong>
+          </div>
+          <div class="metric-card">
+            <span>预计柜体面积</span>
+            <strong id="areaTotal">0㎡</strong>
+          </div>
+        </div>
+
+        <section class="cabinet-review">
+          <div class="section-title-row">
+            <h2>柜体识别清单</h2>
+            <button id="acceptAllBtn" class="secondary-button" type="button">全部加入清单</button>
+          </div>
+          <div class="review-table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>状态</th>
+                  <th>楼层</th>
+                  <th>空间</th>
+                  <th>柜体</th>
+                  <th>深度</th>
+                  <th>长度</th>
+                  <th>高度</th>
+                  <th>投影面积</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="cabinetRows"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+
+      <aside class="panel quote-panel">
+        <section class="quote-summary">
+          <div class="summary-total">
+            <span>项目完成度</span>
+            <strong id="grandTotal">0%</strong>
+          </div>
+          <div>
+            <span>识别图框</span>
+            <strong id="baseTotal">0</strong>
+          </div>
+          <div>
+            <span>柜体清单</span>
+            <strong id="cabinetTotal">0</strong>
+          </div>
+          <div>
+            <span>复核完成</span>
+            <strong id="additionTotal">0</strong>
+          </div>
+        </section>
+
+        <section class="panel-section compact-form">
+          <h2>识别参数</h2>
+          <label>
+            <span>计价面积 ㎡</span>
+            <input id="demoArea" type="number" min="0" step="0.01" value="369" />
+          </label>
+          <label>
+            <span>图纸比例</span>
+            <input id="demoBasePrice" type="text" value="1:100" />
+          </label>
+          <label>
+            <span>柜体默认高度 m</span>
+            <input id="demoHeight" type="number" min="0" step="0.01" value="2.4" />
+          </label>
+        </section>
+
+        <section class="panel-section">
+          <h2>生成报价清单</h2>
+          <div class="budget-table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>类别</th>
+                  <th>项目名称</th>
+                  <th>数量</th>
+                  <th>状态</th>
+                </tr>
+              </thead>
+              <tbody id="budgetRows"></tbody>
+            </table>
+          </div>
+        </section>
+      </aside>
+    </main>
+  </body>
+</html>
