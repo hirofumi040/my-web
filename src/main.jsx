@@ -3,6 +3,8 @@ import ReactDOM from "react-dom/client";
 import { ArrowRight, Download, Mail, Phone, Sparkles, X } from "lucide-react";
 import "./styles.css";
 
+const publicPath = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\//, "")}`;
+
 const projects = [
   {
     title: "Design Project Agent",
@@ -198,7 +200,7 @@ function Hero() {
 
         <div className="hero-visual animate-float" aria-label="AI 设计工作流抽象视觉">
           <img
-            src="/hero/ai-design-workflow.png"
+            src={publicPath("/hero/ai-design-workflow.png")}
             alt="由 CAD 线稿、表格、文档和 AI 节点组成的抽象工作流视觉"
           />
         </div>
@@ -408,7 +410,7 @@ function ProjectModal({ project, onClose }) {
           <div className="project-modal-aside">
             <span>0{project.index + 1}</span>
             {project.meta === "Render Workflow" && (
-              <img src="/banana/banana-spin-transparent-safe.webp" alt="" />
+              <img src={publicPath("/banana/banana-spin-transparent-safe.webp")} alt="" />
             )}
           </div>
         </div>
@@ -495,7 +497,7 @@ function Contact() {
               +86 18473180925
             </a>
             <div className="flex flex-col gap-3 pt-3 sm:flex-row">
-              <a className="btn-light" href="/resume.pdf" download>
+              <a className="btn-light" href={publicPath("/resume.pdf")} download>
                 <Download size={18} />
                 下载简历
               </a>
