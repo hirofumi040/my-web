@@ -1,5 +1,5 @@
 {
-  "name": "bowen-ai-portfolio",
+  "name": "my-web",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy:cloudflare": "npx wrangler pages deploy dist --project-name bowen-ai-portfolio"
+    "deploy:cloudflare": "npx wrangler pages deploy dist --project-name my-web"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.2.1",
