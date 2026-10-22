@@ -57,7 +57,6 @@ nav a:hover, nav a[aria-current="page"] { color: #000; }
 .breadcrumb a { color: #424245; }
 .breadcrumb a:hover { color: var(--blue); }
 .breadcrumb + main { min-height: calc(100svh - 178px); }
-.eyebrow { margin: 0 0 26px; color: var(--muted); font-size: 11px; font-weight: 600; letter-spacing: .12em; }
 h1, h2, h3 { color: #1d1d1f; }
 h1, h2 { margin: 0 0 24px; font-size: 44px; line-height: 1.18; letter-spacing: -.035em; font-weight: 600; }
 h3 { margin: 0 0 16px; font-size: 21px; line-height: 1.35; font-weight: 600; letter-spacing: -.015em; }
@@ -95,9 +94,8 @@ h3 { margin: 0 0 16px; font-size: 21px; line-height: 1.35; font-weight: 600; let
 .about p { margin: 0; }
 .contact { display: block; padding-top: 26px; margin-top: 36px; border-top: 1px solid var(--line); font-size: 22px; }
 .contact span { display: block; color: var(--blue); font-size: 15px; margin-top: 18px; overflow-wrap: anywhere; }
-.wechat-qr { display: block; width: 260px; max-width: 100%; margin-top: 26px; }
+.wechat-qr { display: block; width: 260px; max-width: 100%; aspect-ratio: 888 / 960; overflow: hidden; margin-top: 26px; }
 .wechat-qr img { display: block; width: 100%; height: auto; mix-blend-mode: multiply; }
-.wechat-qr > span { display: block; margin-top: 12px; font-size: 12px; text-align: center; color: var(--muted); }
 footer { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 30px max(40px, calc((100% - 1020px) / 2)); background: #f5f5f7; color: var(--muted); font-size: 11px; }
 footer a { color: #424245; font-size: 13px; }
 footer a span { margin-left: 14px; color: var(--muted); font-size: 11px; }
@@ -164,7 +162,6 @@ dialog > img { display: block; max-width: 100%; max-height: 72vh; object-fit: co
   .section { padding: 52px 22px 64px; }
   .breadcrumb { padding: 24px 22px 0; font-size: 11px; }
   h1, h2 { font-size: 34px; }
-  .eyebrow { margin-bottom: 22px; font-size: 10px; }
   .cap-grid, .management-grid, .about { grid-template-columns: 1fr; gap: 32px; }
   .cap-grid { margin-top: 38px; }
   .cap-grid h3 { font-size: 21px; }
