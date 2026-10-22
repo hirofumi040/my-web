@@ -181,6 +181,7 @@ dialog > img { display: block; max-width: 100%; max-height: 72vh; object-fit: co
   .flow-run .asset { width: 190px; flex-basis: 190px; }
   dialog { padding: 15px; max-width: 94vw; }
 }
+.resume-download { margin-top: 8px; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .row > div, .flow-track, .board-images img { animation: none; }
