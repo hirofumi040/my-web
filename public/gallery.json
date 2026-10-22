@@ -3,600 +3,3064 @@
     "id": "001",
     "category": "人物形象",
     "description": "灰底女性胸像，浅棕金色松散中长发，米白色细肩带上衣，细圆形吊坠。",
-    "image": "/gallery/001.jpg"
+    "origin": "generated",
+    "image": "/library/87/87bf61d7dfb36a2fce88a697e671fa9a94fbf88b3e6178e3bbb2a23b1ba6b223-thumb.webp",
+    "full": "/library/87/87bf61d7dfb36a2fce88a697e671fa9a94fbf88b3e6178e3bbb2a23b1ba6b223.webp"
   },
   {
     "id": "002",
     "category": "人物形象",
     "description": "浅金色长发女性正面头肩像，侧分蓬松发型，穿黑色圆领上衣。",
-    "image": "/gallery/002.jpg"
+    "origin": "generated",
+    "image": "/library/2c/2cc081b700204c5dac240e99cded9e110a44f08fb86b216989ae3c5626d5bb4b-thumb.webp",
+    "full": "/library/2c/2cc081b700204c5dac240e99cded9e110a44f08fb86b216989ae3c5626d5bb4b.webp"
   },
   {
     "id": "003",
     "category": "人物形象",
     "description": "浅棕色波浪长发女性肩部肖像，穿白色背心，灰色背景。",
-    "image": "/gallery/003.jpg"
+    "origin": "generated",
+    "image": "/library/9a/9a42a7a252d42b83fb6410269bbbfb37a33551caf51b54bd0f11f99359b83d91-thumb.webp",
+    "full": "/library/9a/9a42a7a252d42b83fb6410269bbbfb37a33551caf51b54bd0f11f99359b83d91.webp"
   },
   {
     "id": "004",
     "category": "人物形象",
     "description": "棕色长直发女性肩部肖像，戴粗金色链项链，穿浅米色露肩衣。",
-    "image": "/gallery/004.jpg"
+    "origin": "generated",
+    "image": "/library/d1/d1d1f9ef837531df86fc4360e91b3b27649028975849e71121f7b8a0b60603cb-thumb.webp",
+    "full": "/library/d1/d1d1f9ef837531df86fc4360e91b3b27649028975849e71121f7b8a0b60603cb.webp"
   },
   {
     "id": "005",
     "category": "人物形象",
     "description": "浅棕色短发男性正面肖像，穿灰色圆领衫，灰色背景。",
-    "image": "/gallery/005.jpg"
+    "origin": "generated",
+    "image": "/library/9f/9fbb5f2b26a6d771da0759d39e955c8d60c240b94224259d18ba0f3c0ea4dec2-thumb.webp",
+    "full": "/library/9f/9fbb5f2b26a6d771da0759d39e955c8d60c240b94224259d18ba0f3c0ea4dec2.webp"
   },
   {
     "id": "006",
     "category": "人物形象",
     "description": "深棕色后梳长发女性头肩像，黑色无袖上衣，珍珠项链和花形耳饰。",
-    "image": "/gallery/006.jpg"
+    "origin": "generated",
+    "image": "/library/fd/fdba2177db62558e8cd19f694c8d03ea3d4e287df738b16f051c6d8e1c9732f0-thumb.webp",
+    "full": "/library/fd/fdba2177db62558e8cd19f694c8d03ea3d4e287df738b16f051c6d8e1c9732f0.webp"
   },
   {
     "id": "007",
     "category": "人物形象",
     "description": "棕色蓬松短发留短胡须男性正面肖像，穿黑色圆领衫。",
-    "image": "/gallery/007.jpg"
+    "origin": "generated",
+    "image": "/library/bf/bf21c974648e611b586ac5966d259aa96f259c58b48007f71980e78c1a4f87eb-thumb.webp",
+    "full": "/library/bf/bf21c974648e611b586ac5966d259aa96f259c58b48007f71980e78c1a4f87eb.webp"
   },
   {
     "id": "008",
     "category": "人物形象",
     "description": "黑色长直发女性正面头像，留细碎刘海，穿白色方领上衣，浅色背景。",
-    "image": "/gallery/008.jpg"
+    "origin": "generated",
+    "image": "/library/41/41c97aae3b2d9bc5f583c318360c5c38d33c4d40d7ad4c838c83bc7fbe8cff34-thumb.webp",
+    "full": "/library/41/41c97aae3b2d9bc5f583c318360c5c38d33c4d40d7ad4c838c83bc7fbe8cff34.webp"
   },
   {
     "id": "009",
     "category": "人物形象",
     "description": "黑色长波浪发女性半身肖像，穿香槟色缎面抹胸衣。",
-    "image": "/gallery/009.jpg"
+    "origin": "generated",
+    "image": "/library/b2/b223d14730e81a661fe4f8f306d669a75c31b3a07be8733da212f0743329a702-thumb.webp",
+    "full": "/library/b2/b223d14730e81a661fe4f8f306d669a75c31b3a07be8733da212f0743329a702.webp"
   },
   {
     "id": "010",
     "category": "人物形象",
     "description": "棕色蓬松卷发男性正面肖像，穿米白色针织衫。",
-    "image": "/gallery/010.jpg"
+    "origin": "generated",
+    "image": "/library/9c/9c62d5b37804c737585bce3d7cce84ce391c5254112e96172c4e6c7b4d638df9-thumb.webp",
+    "full": "/library/9c/9c62d5b37804c737585bce3d7cce84ce391c5254112e96172c4e6c7b4d638df9.webp"
   },
   {
     "id": "011",
     "category": "人物形象",
     "description": "红棕色盘发女性正面浅灰背景头肩照",
-    "image": "/gallery/011.jpg"
+    "origin": "generated",
+    "image": "/library/4b/4b9e8933f5ff3c138ae99e37e7d3e967e34bbeb52df1a949ddc98c3e8e98a9c3-thumb.webp",
+    "full": "/library/4b/4b9e8933f5ff3c138ae99e37e7d3e967e34bbeb52df1a949ddc98c3e8e98a9c3.webp"
   },
   {
     "id": "012",
     "category": "人物形象",
     "description": "白底女性胸像，黑色长直发与薄碎刘海，穿白色方领长袖上衣。",
-    "image": "/gallery/012.jpg"
+    "origin": "generated",
+    "image": "/library/67/67f745971b90d3b9fa7d83f59617ada2436834ee426a6ed0cbbd5c53b161a2e9-thumb.webp",
+    "full": "/library/67/67f745971b90d3b9fa7d83f59617ada2436834ee426a6ed0cbbd5c53b161a2e9.webp"
   },
   {
     "id": "013",
     "category": "人物形象",
     "description": "浅棕色及肩波浪发女性肖像，白色背心配圆形吊坠项链。",
-    "image": "/gallery/013.jpg"
+    "origin": "generated",
+    "image": "/library/c5/c5734a33bb2864d08fa081960f0831f9726b9d07fcfd9ee4b6fccf07b7d108cb-thumb.webp",
+    "full": "/library/c5/c5734a33bb2864d08fa081960f0831f9726b9d07fcfd9ee4b6fccf07b7d108cb.webp"
   },
   {
     "id": "014",
     "category": "人物形象",
     "description": "棕色短卷发留短胡须男性正面肖像，穿深色西装与敞领白衬衫。",
-    "image": "/gallery/014.jpg"
+    "origin": "generated",
+    "image": "/library/9e/9ea273fe6a52b98e7f4ff4d2b60e6a96e4c0c122a1a2c9c23b7ce495973bb919-thumb.webp",
+    "full": "/library/9e/9ea273fe6a52b98e7f4ff4d2b60e6a96e4c0c122a1a2c9c23b7ce495973bb919.webp"
   },
   {
     "id": "015",
     "category": "人物形象",
     "description": "浅金棕色凌乱短发男性正面头像，戴小耳饰，穿白色西装式外套与浅色衬衫。",
-    "image": "/gallery/015.jpg"
+    "origin": "generated",
+    "image": "/library/20/20b5ee8dba48fca10df6429777418c43e43d64dca4dc0f89ead03b80f0ef7d73-thumb.webp",
+    "full": "/library/20/20b5ee8dba48fca10df6429777418c43e43d64dca4dc0f89ead03b80f0ef7d73.webp"
   },
   {
     "id": "016",
     "category": "人物形象",
     "description": "深色中分头发束起的女性正面头像，穿灰色圆领上衣，浅灰背景。",
-    "image": "/gallery/016.jpg"
+    "origin": "generated",
+    "image": "/library/10/101291b493409b81b465c312a9920156a43f77048a64b17a207c49f1c7e72d5a-thumb.webp",
+    "full": "/library/10/101291b493409b81b465c312a9920156a43f77048a64b17a207c49f1c7e72d5a.webp"
   },
   {
     "id": "017",
     "category": "人物形象",
     "description": "白底女性胸像，深棕半束长卷发与散落碎发，金色挂脖上衣和垂坠发饰耳饰。",
-    "image": "/gallery/017.jpg"
+    "origin": "generated",
+    "image": "/library/7a/7add46fb36df3059a80d5a9225c3064b85d5503042f28cdca958801aff7fc7bc-thumb.webp",
+    "full": "/library/7a/7add46fb36df3059a80d5a9225c3064b85d5503042f28cdca958801aff7fc7bc.webp"
   },
   {
     "id": "018",
     "category": "人物形象",
     "description": "浅棕色长波浪发女性肩部肖像，穿白色细肩带上衣，灰背景。",
-    "image": "/gallery/018.jpg"
+    "origin": "generated",
+    "image": "/library/b2/b2ca71a740027e900715a2183443cb37a7f6d2ce45c46aae3028b008674061be-thumb.webp",
+    "full": "/library/b2/b2ca71a740027e900715a2183443cb37a7f6d2ce45c46aae3028b008674061be.webp"
   },
   {
     "id": "019",
     "category": "人物形象",
     "description": "浅棕金色披肩波浪发女性正面肖像，穿白色细肩带衣。",
-    "image": "/gallery/019.jpg"
+    "origin": "generated",
+    "image": "/library/c4/c44741788e092e636dc7ac0a384afdcc0f294a1b597e8d07991b8ec778f51e54-thumb.webp",
+    "full": "/library/c4/c44741788e092e636dc7ac0a384afdcc0f294a1b597e8d07991b8ec778f51e54.webp"
   },
   {
     "id": "020",
     "category": "人物形象",
     "description": "黑色凌乱短发男性正面肖像，穿黑色圆领T恤，灰背景。",
-    "image": "/gallery/020.jpg"
+    "origin": "generated",
+    "image": "/library/d7/d72944b2d3ea42769d9d5dfb5ade3d2ef4c14c26949328cc4306b5c8305d020d-thumb.webp",
+    "full": "/library/d7/d72944b2d3ea42769d9d5dfb5ade3d2ef4c14c26949328cc4306b5c8305d020d.webp"
   },
   {
     "id": "021",
     "category": "人物形象",
     "description": "浅棕色长发女性正面头像，穿浅米色针织上衣，浅灰背景。",
-    "image": "/gallery/021.jpg"
+    "origin": "generated",
+    "image": "/library/1d/1d3eb30e63c131023a47bc2ded06fe0b0c160253f8bfbc2e10ce26c4b91b6564-thumb.webp",
+    "full": "/library/1d/1d3eb30e63c131023a47bc2ded06fe0b0c160253f8bfbc2e10ce26c4b91b6564.webp"
   },
   {
     "id": "022",
     "category": "人物形象",
     "description": "浅底女性胸像，浅棕金色长波浪发，穿黑色西装和黑色系带领上衣。",
-    "image": "/gallery/022.jpg"
+    "origin": "generated",
+    "image": "/library/59/59787a344d0cb52fb36f414ca400fbbac7c132bdc86d8474d7b03c85e45f020b-thumb.webp",
+    "full": "/library/59/59787a344d0cb52fb36f414ca400fbbac7c132bdc86d8474d7b03c85e45f020b.webp"
   },
   {
     "id": "023",
     "category": "人物形象",
     "description": "灰底男性头像，棕色密集短卷发，黑色圆领上衣，正面平视。",
-    "image": "/gallery/023.jpg"
+    "origin": "generated",
+    "image": "/library/6f/6f779e52a2c4d4281eb555f959b6f5101684f39d69c53c471f49c1b7baf2d7db-thumb.webp",
+    "full": "/library/6f/6f779e52a2c4d4281eb555f959b6f5101684f39d69c53c471f49c1b7baf2d7db.webp"
   },
   {
     "id": "024",
     "category": "人物形象",
     "description": "灰底女性设定板，棕色长发、多角度头像，黑色无袖及膝裙配黑丝袜和高跟鞋全身三视图。",
-    "image": "/gallery/024.jpg"
+    "origin": "generated",
+    "image": "/library/6f/6f6f870c8756d94673f5010a1df2b37128076908c4a7c5da67c3e2765223c02f-thumb.webp",
+    "full": "/library/6f/6f6f870c8756d94673f5010a1df2b37128076908c4a7c5da67c3e2765223c02f.webp"
   },
   {
     "id": "025",
     "category": "人物形象",
     "description": "白底女性头像，黑色半束长卷发，米白高领上衣，水滴形耳环。",
-    "image": "/gallery/025.jpg"
+    "origin": "generated",
+    "image": "/library/79/797e3ade541fe133691c9e93f2102de7a9a9f11034bf268407c64c32751b4d71-thumb.webp",
+    "full": "/library/79/797e3ade541fe133691c9e93f2102de7a9a9f11034bf268407c64c32751b4d71.webp"
   },
   {
     "id": "026",
     "category": "人物形象",
     "description": "浅灰金色蓬松短发男性头肩像，白色亮面敞领上衣和小耳饰，灰背景。",
-    "image": "/gallery/026.jpg"
+    "origin": "generated",
+    "image": "/library/f3/f3f0c48887062e2f259f0db07f9c0feaac1104e5348cea2a51058786d2199540-thumb.webp",
+    "full": "/library/f3/f3f0c48887062e2f259f0db07f9c0feaac1104e5348cea2a51058786d2199540.webp"
   },
   {
     "id": "027",
     "category": "人物形象",
     "description": "金棕色中分盘发女性头肩像，黑色圆领上衣，白色背景。",
-    "image": "/gallery/027.jpg"
+    "origin": "generated",
+    "image": "/library/e8/e8bd22b6d627258ea4588481b4551c3c0f9020a7922710c2370f16eced9391cf-thumb.webp",
+    "full": "/library/e8/e8bd22b6d627258ea4588481b4551c3c0f9020a7922710c2370f16eced9391cf.webp"
   },
   {
     "id": "028",
     "category": "人物形象",
     "description": "棕色蓬松侧分短发，额前少量垂发；闭唇轻笑，轻微倾头；轻微胡茬，皮肤纹理可见；浅灰背景，均匀正面柔光",
-    "image": "/gallery/028.jpg"
+    "origin": "generated",
+    "image": "/library/d4/d4999855bb52af8c436b76fd79eb9b62aeac11cbd474cfc40842989c580a6598-thumb.webp",
+    "full": "/library/d4/d4999855bb52af8c436b76fd79eb9b62aeac11cbd474cfc40842989c580a6598.webp"
   },
   {
     "id": "029",
     "category": "人物形象",
     "description": "红棕色蓬松长卷发女性头肩像，酒红亮片挂脖服装配银色项链和长耳饰。",
-    "image": "/gallery/029.jpg"
+    "origin": "generated",
+    "image": "/library/f7/f721a10e639da7b0eae070e6285d56d2043d2c475d61c17688a2b49a684609ef-thumb.webp",
+    "full": "/library/f7/f721a10e639da7b0eae070e6285d56d2043d2c475d61c17688a2b49a684609ef.webp"
   },
   {
     "id": "030",
     "category": "人物形象",
     "description": "金棕色长波浪发女性肩部肖像，穿浅灰色背心与细项链。",
-    "image": "/gallery/030.jpg"
+    "origin": "generated",
+    "image": "/library/c4/c422d35fcde71c2c33770b3878b28e0fec292376bf50338148277f965435b2ab-thumb.webp",
+    "full": "/library/c4/c422d35fcde71c2c33770b3878b28e0fec292376bf50338148277f965435b2ab.webp"
   },
   {
     "id": "031",
     "category": "人物形象",
     "description": "灰底男性胸像，棕色蓬松短发和胡茬，深色西装配敞领白衬衫。",
-    "image": "/gallery/031.jpg"
+    "origin": "generated",
+    "image": "/library/56/5626e01ff0e9a95711a2c920515e48347a3744ae65329859d15d50d2e9b80517-thumb.webp",
+    "full": "/library/56/5626e01ff0e9a95711a2c920515e48347a3744ae65329859d15d50d2e9b80517.webp"
   },
   {
     "id": "032",
     "category": "人物形象",
     "description": "浅棕披肩波浪发女性正面肖像，穿白色背心，灰背景。",
-    "image": "/gallery/032.jpg"
+    "origin": "generated",
+    "image": "/library/a9/a97dda83bc39ffdb2f5b09b597757d21c20830655c5664a2a42eafc783282cc8-thumb.webp",
+    "full": "/library/a9/a97dda83bc39ffdb2f5b09b597757d21c20830655c5664a2a42eafc783282cc8.webp"
   },
   {
     "id": "033",
     "category": "人物形象",
     "description": "浅棕波浪中长发女性正面肖像，黑色抹胸上衣，佩戴多层项链。",
-    "image": "/gallery/033.jpg"
+    "origin": "generated",
+    "image": "/library/97/97ce13c01ce91d5843fc388a2e53c6b5a0f42295c24e05b7cdebf8f071f61991-thumb.webp",
+    "full": "/library/97/97ce13c01ce91d5843fc388a2e53c6b5a0f42295c24e05b7cdebf8f071f61991.webp"
   },
   {
     "id": "034",
     "category": "人物形象",
     "description": "棕色下颌长度短发女性正面头肩像，穿深蓝圆领针织上衣，灰背景。",
-    "image": "/gallery/034.jpg"
+    "origin": "generated",
+    "image": "/library/0c/0c7996a3aca7dc039a5e17901566786f806726e5a643c88163547376254989ba-thumb.webp",
+    "full": "/library/0c/0c7996a3aca7dc039a5e17901566786f806726e5a643c88163547376254989ba.webp"
   },
   {
     "id": "035",
     "category": "人物形象",
     "description": "黑色卷短发男性正面头像，留淡胡茬，穿灰色圆领上衣。",
-    "image": "/gallery/035.jpg"
+    "origin": "generated",
+    "image": "/library/1f/1f15a693743ba662ac070ab68465d4f2c046736d17c9f4649a33b52a40064f34-thumb.webp",
+    "full": "/library/1f/1f15a693743ba662ac070ab68465d4f2c046736d17c9f4649a33b52a40064f34.webp"
   },
   {
     "id": "036",
     "category": "人物形象",
     "description": "棕色凌乱短发男性头肩像，黑色圆领上衣和灰背景。",
-    "image": "/gallery/036.jpg"
+    "origin": "generated",
+    "image": "/library/f7/f75efe04476aa8aafb87127bba373a394ca1332083a39ea60fe1dcd4da0caec5-thumb.webp",
+    "full": "/library/f7/f75efe04476aa8aafb87127bba373a394ca1332083a39ea60fe1dcd4da0caec5.webp"
   },
   {
     "id": "037",
     "category": "人物形象",
     "description": "浅棕色波浪长发女性正面头肩像，米色细吊带上衣，浅灰背景。",
-    "image": "/gallery/037.jpg"
+    "origin": "generated",
+    "image": "/library/ec/ecbb2d2ada547e31486fdea5c2520c9ce7948d64c700c9096a8b462d5017823e-thumb.webp",
+    "full": "/library/ec/ecbb2d2ada547e31486fdea5c2520c9ce7948d64c700c9096a8b462d5017823e.webp"
   },
   {
     "id": "038",
     "category": "人物形象",
     "description": "浅金棕色长发女性正面头肩像，穿白色背心，戴叠层细项链，浅灰背景。",
-    "image": "/gallery/038.jpg"
+    "origin": "generated",
+    "image": "/library/19/1953e6b049a9f9f387f11dd7b819bc016bc60fefa91103e3d9a3bd36580c612b-thumb.webp",
+    "full": "/library/19/1953e6b049a9f9f387f11dd7b819bc016bc60fefa91103e3d9a3bd36580c612b.webp"
   },
   {
     "id": "039",
     "category": "人物形象",
     "description": "棕金长发女性戴细框眼镜，穿黑色无袖上衣，戴珍珠项链和耳饰。",
-    "image": "/gallery/039.jpg"
+    "origin": "generated",
+    "image": "/library/2e/2e5030bf4377d7cd68f315754877478c5315ca38570881f473ba8114f0ca3acf-thumb.webp",
+    "full": "/library/2e/2e5030bf4377d7cd68f315754877478c5315ca38570881f473ba8114f0ca3acf.webp"
   },
   {
     "id": "040",
     "category": "人物形象",
     "description": "白底女性胸像，浅棕色半束长发和碎发，白色翻领衬衫，细项链。",
-    "image": "/gallery/040.jpg"
+    "origin": "generated",
+    "image": "/library/5c/5cc3fa9aa448863501fdec13bb75f97c0374517f0a93870e41f0b75361b3c180-thumb.webp",
+    "full": "/library/5c/5cc3fa9aa448863501fdec13bb75f97c0374517f0a93870e41f0b75361b3c180.webp"
   },
   {
     "id": "041",
     "category": "人物形象",
     "description": "浅棕色长卷发女性正面头肩像，戴细金色项链，浅灰背景。",
-    "image": "/gallery/041.jpg"
+    "origin": "generated",
+    "image": "/library/05/053460c589e6a87cef685200fc5826edadb975610d7af3bd3f129bccf5666121-thumb.webp",
+    "full": "/library/05/053460c589e6a87cef685200fc5826edadb975610d7af3bd3f129bccf5666121.webp"
   },
   {
     "id": "042",
     "category": "人物形象",
     "description": "深棕色侧分短发女性正面头肩像，穿蓝色针织上衣，灰色背景。",
-    "image": "/gallery/042.jpg"
+    "origin": "generated",
+    "image": "/library/17/179a4d2bd8785c45553b83fc50d5261ba0a1cced38608ce2109650d1681b16a4-thumb.webp",
+    "full": "/library/17/179a4d2bd8785c45553b83fc50d5261ba0a1cced38608ce2109650d1681b16a4.webp"
   },
   {
     "id": "043",
     "category": "人物形象",
     "description": "金棕色蓬松长卷发女性半身像，米色蕾丝吊带上衣，暖色侧光。",
-    "image": "/gallery/043.jpg"
+    "origin": "generated",
+    "image": "/library/e7/e7e7b6a977b363e339255535974d5330cf11afa56028e3c433223b22588f4c26-thumb.webp",
+    "full": "/library/e7/e7e7b6a977b363e339255535974d5330cf11afa56028e3c433223b22588f4c26.webp"
   },
   {
     "id": "044",
     "category": "人物形象",
     "description": "金棕长波浪发眼镜女性肖像，黑色无袖衣搭珍珠项链和花形耳饰。",
-    "image": "/gallery/044.jpg"
+    "origin": "generated",
+    "image": "/library/b8/b8adaf4a83a8d69187df92dad42bbc0090596b8e5b69d95ecf6b21d5be63fff1-thumb.webp",
+    "full": "/library/b8/b8adaf4a83a8d69187df92dad42bbc0090596b8e5b69d95ecf6b21d5be63fff1.webp"
   },
   {
     "id": "045",
     "category": "人物形象",
     "description": "深棕色短发留短胡须男性正面肖像，穿深色圆领针织衣。",
-    "image": "/gallery/045.jpg"
+    "origin": "generated",
+    "image": "/library/c0/c03ce1a1855adad13f93dc4bda406e2f1541590f6b2224c985cf681764b7e0e8-thumb.webp",
+    "full": "/library/c0/c03ce1a1855adad13f93dc4bda406e2f1541590f6b2224c985cf681764b7e0e8.webp"
   },
   {
     "id": "046",
     "category": "人物形象",
     "description": "黑色凌乱短发男性正面头像，穿浅灰圆领上衣，露齿微笑。",
-    "image": "/gallery/046.jpg"
+    "origin": "generated",
+    "image": "/library/39/396049536375ac3ffaada7d17b8c94001e5ec03a4c04e84fb43ceb2566e8f60b-thumb.webp",
+    "full": "/library/39/396049536375ac3ffaada7d17b8c94001e5ec03a4c04e84fb43ceb2566e8f60b.webp"
   },
   {
     "id": "047",
     "category": "人物形象",
     "description": "白底男性全身三视图，赤膊穿黑西裤和黑皮鞋，正侧背并排。",
-    "image": "/gallery/047.jpg"
+    "origin": "generated",
+    "image": "/library/6e/6e2c2d208e0eb52746c9f75aecc23e81a0ca66a60df72bc6b4736484b679c9a7-thumb.webp",
+    "full": "/library/6e/6e2c2d208e0eb52746c9f75aecc23e81a0ca66a60df72bc6b4736484b679c9a7.webp"
   },
   {
     "id": "048",
     "category": "人物形象",
     "description": "深灰底女性胸像，浅棕金色长波浪发，金色细框眼镜，黑色无袖高领，配珍珠项链。",
-    "image": "/gallery/048.jpg"
+    "origin": "generated",
+    "image": "/library/69/69e658e153a9db8157a39ddf5979fbfd67672de3f83990ee82c1b4f8a8f07280-thumb.webp",
+    "full": "/library/69/69e658e153a9db8157a39ddf5979fbfd67672de3f83990ee82c1b4f8a8f07280.webp"
   },
   {
     "id": "049",
     "category": "人物形象",
     "description": "灰底女性胸像，浅棕金色中长卷发，穿黑色背心，正面平视。",
-    "image": "/gallery/049.jpg"
+    "origin": "generated",
+    "image": "/library/67/6712be36d141cd3f57483a76df2631b6122357bf467c1d4b05c661198cafb0ca-thumb.webp",
+    "full": "/library/67/6712be36d141cd3f57483a76df2631b6122357bf467c1d4b05c661198cafb0ca.webp"
   },
   {
     "id": "050",
     "category": "人物形象",
     "description": "棕色微卷短发男性正面肖像，穿深蓝色圆领针织衫。",
-    "image": "/gallery/050.jpg"
+    "origin": "generated",
+    "image": "/library/b4/b46121d5317ddaba4a9a22c095b288f9c2c0fc7d928ee07372619ea650c00330-thumb.webp",
+    "full": "/library/b4/b46121d5317ddaba4a9a22c095b288f9c2c0fc7d928ee07372619ea650c00330.webp"
   },
   {
     "id": "051",
     "category": "人物形象",
     "description": "黑色长卷发女性正面头肩像，穿浅金色细肩带上衣，灰色背景。",
-    "image": "/gallery/051.jpg"
+    "origin": "generated",
+    "image": "/library/40/40d52397082e89245287348054f60b493e62a68eb8c39cabbc0f085e6d45256e-thumb.webp",
+    "full": "/library/40/40d52397082e89245287348054f60b493e62a68eb8c39cabbc0f085e6d45256e.webp"
   },
   {
     "id": "052",
     "category": "人物形象",
     "description": "棕金色长发女性正面头肩像，穿黑西装外套和黑上衣，佩戴珍珠项链及耳饰。",
-    "image": "/gallery/052.jpg"
+    "origin": "generated",
+    "image": "/library/1b/1b446e5d121f3b94e820d7ee6963ed15fecb1d017131370e767e44005d16838c-thumb.webp",
+    "full": "/library/1b/1b446e5d121f3b94e820d7ee6963ed15fecb1d017131370e767e44005d16838c.webp"
   },
   {
     "id": "053",
     "category": "人物形象",
     "description": "浅棕色短发男性正面肖像，穿黑色圆领T恤，嘴角略微上扬。",
-    "image": "/gallery/053.jpg"
+    "origin": "generated",
+    "image": "/library/ba/bae9a763b27fc81af9af5e4df2f3f7e8f426eedb7060837bf7b2fc46f5fe0f27-thumb.webp",
+    "full": "/library/ba/bae9a763b27fc81af9af5e4df2f3f7e8f426eedb7060837bf7b2fc46f5fe0f27.webp"
   },
   {
     "id": "054",
     "category": "人物形象",
     "description": "深根浅棕色波浪长发女性头肩像，白色吊带上衣与金色小吊坠。",
-    "image": "/gallery/054.jpg"
+    "origin": "generated",
+    "image": "/library/dd/dd8b430bb5bc226502ae657367190065fa6ee40e6e9e423d87b7131ba5a3ba7c-thumb.webp",
+    "full": "/library/dd/dd8b430bb5bc226502ae657367190065fa6ee40e6e9e423d87b7131ba5a3ba7c.webp"
   },
   {
     "id": "055",
     "category": "人物形象",
     "description": "棕色短发、黑框眼镜男性正面头肩照",
-    "image": "/gallery/055.jpg"
+    "origin": "generated",
+    "image": "/library/86/863e52d4323f62d66f234fb1b7f3d08d1af03caea2ad04388a7dd8b9cc0e5866-thumb.webp",
+    "full": "/library/86/863e52d4323f62d66f234fb1b7f3d08d1af03caea2ad04388a7dd8b9cc0e5866.webp"
   },
   {
     "id": "056",
     "category": "人物形象",
     "description": "四格男性头像设定板，浅棕蓬松短发，黑色皮外套，正侧背多个角度。",
-    "image": "/gallery/056.jpg"
+    "origin": "generated",
+    "image": "/library/6d/6d8712b5a2ec69af1071851504c2160ed2a9ec879ddc941baca91edbcd77625e-thumb.webp",
+    "full": "/library/6d/6d8712b5a2ec69af1071851504c2160ed2a9ec879ddc941baca91edbcd77625e.webp"
   },
   {
     "id": "057",
     "category": "人物形象",
     "description": "棕色短卷发留短胡须男性肖像，穿深色外套和敞领白衬衫。",
-    "image": "/gallery/057.jpg"
+    "origin": "generated",
+    "image": "/library/b9/b96cc8a7b49014218718174e4a7ad677031b4ce4177a5c9f70a8f837dfdddd49-thumb.webp",
+    "full": "/library/b9/b96cc8a7b49014218718174e4a7ad677031b4ce4177a5c9f70a8f837dfdddd49.webp"
   },
   {
     "id": "058",
     "category": "人物形象",
     "description": "女性设定板，浅棕波波短发头像及白衬衫配米色长裤的正侧背全身。",
-    "image": "/gallery/058.jpg"
+    "origin": "generated",
+    "image": "/library/6f/6f37183c73f593abb1d6a4bb353afaffff926d960bf916da95d04359c50290b6-thumb.webp",
+    "full": "/library/6f/6f37183c73f593abb1d6a4bb353afaffff926d960bf916da95d04359c50290b6.webp"
   },
   {
     "id": "059",
     "category": "人物形象",
     "description": "灰底女性胸像，金棕色中长波浪发，白色细肩带上衣，佩细吊坠项链。",
-    "image": "/gallery/059.jpg"
+    "origin": "generated",
+    "image": "/library/60/609344feccc31713025b86d6d0726104f5235f2534971ef78e7cdd0b273ff40c-thumb.webp",
+    "full": "/library/60/609344feccc31713025b86d6d0726104f5235f2534971ef78e7cdd0b273ff40c.webp"
   },
   {
     "id": "060",
     "category": "人物形象",
     "description": "棕色齐肩直发女性正面头像，穿灰色圆领上衣，浅灰背景。",
-    "image": "/gallery/060.jpg"
+    "origin": "generated",
+    "image": "/library/36/36be757b338a89cb76947e301395546253cde7c6a92ac322e1aac1d035e91a39-thumb.webp",
+    "full": "/library/36/36be757b338a89cb76947e301395546253cde7c6a92ac322e1aac1d035e91a39.webp"
   },
   {
     "id": "061",
     "category": "人物形象",
     "description": "深棕色半盘长发女性半身肖像，佩戴长耳饰，穿金色挂脖衣。",
-    "image": "/gallery/061.jpg"
+    "origin": "generated",
+    "image": "/library/ac/ac145b620efaeecceff13c15ef01d8b5b32a44f118b24880c5f7f384b916ebe6-thumb.webp",
+    "full": "/library/ac/ac145b620efaeecceff13c15ef01d8b5b32a44f118b24880c5f7f384b916ebe6.webp"
   },
   {
     "id": "062",
     "category": "人物形象",
     "description": "多名男女穿黑色金边学院制服的正面全身群像，分为前后两排。",
-    "image": "/gallery/062.jpg"
+    "origin": "generated",
+    "image": "/library/9a/9ac6bd6dc6d487d340437bbe23464a58cd851ad88edb98e255e94d1ca01d1a33-thumb.webp",
+    "full": "/library/9a/9ac6bd6dc6d487d340437bbe23464a58cd851ad88edb98e255e94d1ca01d1a33.webp"
   },
   {
     "id": "063",
     "category": "人物形象",
     "description": "棕色短卷发男性正面头肩像，浅灰色圆领上衣，浅灰背景。",
-    "image": "/gallery/063.jpg"
+    "origin": "generated",
+    "image": "/library/f6/f658e47acc400e2a9fed360ac85b5b309e7a65ec0cacf6358dbe325c0794c8ed-thumb.webp",
+    "full": "/library/f6/f658e47acc400e2a9fed360ac85b5b309e7a65ec0cacf6358dbe325c0794c8ed.webp"
   },
   {
     "id": "064",
     "category": "人物形象",
     "description": "浅棕金发女性正面头像，头发松散挽起，穿黑色细肩带上衣并戴细项链。",
-    "image": "/gallery/064.jpg"
+    "origin": "generated",
+    "image": "/library/1b/1b097d25a3bb1cac4805c06da439d2055d633b05ad39d8e98bc161d62f190143-thumb.webp",
+    "full": "/library/1b/1b097d25a3bb1cac4805c06da439d2055d633b05ad39d8e98bc161d62f190143.webp"
   },
   {
     "id": "065",
     "category": "人物形象",
     "description": "浅棕色短发男性正面头肩像，穿深灰圆领上衣，浅灰背景。",
-    "image": "/gallery/065.jpg"
+    "origin": "generated",
+    "image": "/library/1e/1e1e302fda456b8b50895fba6f293ce429a33a33062a3327f96216ba4e6e1c62-thumb.webp",
+    "full": "/library/1e/1e1e302fda456b8b50895fba6f293ce429a33a33062a3327f96216ba4e6e1c62.webp"
   },
   {
     "id": "066",
     "category": "人物形象",
     "description": "棕色后梳短发留短胡须男性肖像，穿黑色圆领针织衣。",
-    "image": "/gallery/066.jpg"
+    "origin": "generated",
+    "image": "/library/bf/bf8fc7bc020b109f57ab4320b9eec41cd885d46c46853543cd55deb474bca5cb-thumb.webp",
+    "full": "/library/bf/bf8fc7bc020b109f57ab4320b9eec41cd885d46c46853543cd55deb474bca5cb.webp"
   },
   {
     "id": "067",
     "category": "人物形象",
     "description": "深棕色短发男性正面头像，留短胡茬，穿黑色西装和敞领白衬衫。",
-    "image": "/gallery/067.jpg"
+    "origin": "generated",
+    "image": "/library/0e/0e2f31ad6f81c815c77ac7d77ad38aa2b473eba85c47819b8d4f5efeb4991a6e-thumb.webp",
+    "full": "/library/0e/0e2f31ad6f81c815c77ac7d77ad38aa2b473eba85c47819b8d4f5efeb4991a6e.webp"
   },
   {
     "id": "068",
     "category": "人物形象",
     "description": "浅棕色披肩波浪发女性肩部肖像，穿白色背心并佩戴细项链。",
-    "image": "/gallery/068.jpg"
+    "origin": "generated",
+    "image": "/library/a4/a4a145a85240b5c04576827aa3a1ce9fb8b6e2f6846c5aa42b5857c8558c5bac-thumb.webp",
+    "full": "/library/a4/a4a145a85240b5c04576827aa3a1ce9fb8b6e2f6846c5aa42b5857c8558c5bac.webp"
   },
   {
     "id": "069",
     "category": "人物形象",
     "description": "棕色蓬松短发男性头肩像，黑色圆领上衣，灰色背景。",
-    "image": "/gallery/069.jpg"
+    "origin": "generated",
+    "image": "/library/f5/f5447b9195ce55ff1cbc8b87cf729045bfce7cb4a193842171427baffa9c486f-thumb.webp",
+    "full": "/library/f5/f5447b9195ce55ff1cbc8b87cf729045bfce7cb4a193842171427baffa9c486f.webp"
   },
   {
     "id": "070",
     "category": "人物形象",
     "description": "深棕长发女性正面肖像，黑色无袖上衣配珍珠项链与耳饰。",
-    "image": "/gallery/070.jpg"
+    "origin": "generated",
+    "image": "/library/9d/9da13198e82bfcd44dea408a419b8b37f07325eb6ca9ff5c6389e2e03dbdf3a4-thumb.webp",
+    "full": "/library/9d/9da13198e82bfcd44dea408a419b8b37f07325eb6ca9ff5c6389e2e03dbdf3a4.webp"
   },
   {
     "id": "071",
     "category": "场景素材",
     "description": "红金色豪华圆形大厅多角度场景板，镜面地面、楼层栏杆与红色幕布。",
-    "image": "/gallery/071.jpg"
+    "origin": "generated",
+    "image": "/library/99/9982260f9a892ef5449b5ffe418e8be80e39f449ab9693a45acad55f339b5413-thumb.webp",
+    "full": "/library/99/9982260f9a892ef5449b5ffe418e8be80e39f449ab9693a45acad55f339b5413.webp"
   },
   {
     "id": "072",
     "category": "场景素材",
     "description": "夜间室内游泳池多角度板，蓝色池水、暖灯柱廊、大窗和池边地面细节。",
-    "image": "/gallery/072.jpg"
+    "origin": "generated",
+    "image": "/library/d2/d27757536ac5423f6a095a77b18e0a2218e96b4b7269b75e56e2f445e5d8d8aa-thumb.webp",
+    "full": "/library/d2/d27757536ac5423f6a095a77b18e0a2218e96b4b7269b75e56e2f445e5d8d8aa.webp"
   },
   {
     "id": "073",
     "category": "场景素材",
     "description": "四格室内场景板，深木色墙面、红黑沙发和低茶几，暖金灯带围绕圆形地面区域。",
-    "image": "/gallery/073.jpg"
+    "origin": "generated",
+    "image": "/library/4e/4e1ea3cd9cc303e1a6b7f0ad100912843a1c5283f893016903de5bee598d16e5-thumb.webp",
+    "full": "/library/4e/4e1ea3cd9cc303e1a6b7f0ad100912843a1c5283f893016903de5bee598d16e5.webp"
   },
   {
     "id": "074",
     "category": "场景素材",
     "description": "红金色暗光娱乐空间多角度板，镜面走道、栏杆、舞台和密集桌椅。",
-    "image": "/gallery/074.jpg"
+    "origin": "generated",
+    "image": "/library/fc/fc5469b9116f52a7daa6aabb0167e858c1aa0b01959a2726d6bd8b6d8bc070cd-thumb.webp",
+    "full": "/library/fc/fc5469b9116f52a7daa6aabb0167e858c1aa0b01959a2726d6bd8b6d8bc070cd.webp"
   },
   {
     "id": "075",
     "category": "场景素材",
     "description": "四格客厅场景板，深木墙面和置物架，褐色沙发扶手椅、茶几、花纹地毯，暖灯照明。",
-    "image": "/gallery/075.jpg"
+    "origin": "generated",
+    "image": "/library/68/68c72959840e6046b01d34b3af04bc1eec24d56d600f43e50b48bdfdeeaca154-thumb.webp",
+    "full": "/library/68/68c72959840e6046b01d34b3af04bc1eec24d56d600f43e50b48bdfdeeaca154.webp"
   },
   {
     "id": "076",
     "category": "场景素材",
     "description": "明亮长廊多视角场景板，白色高窗和米色墙面，木地板及长条花纹地毯。",
-    "image": "/gallery/076.jpg"
+    "origin": "generated",
+    "image": "/library/6a/6a482df2d9eb343f195dab489c538e9f47a8af58e9fa8d01fe8de8f64981466d-thumb.webp",
+    "full": "/library/6a/6a482df2d9eb343f195dab489c538e9f47a8af58e9fa8d01fe8de8f64981466d.webp"
   },
   {
     "id": "077",
     "category": "场景素材",
     "description": "四格书房场景板，木质书架、书桌与皮椅，暖色壁灯和窗外景观，米色地毯。",
-    "image": "/gallery/077.jpg"
+    "origin": "generated",
+    "image": "/library/53/53446f8f17fd6d13fa2bffb268906df5a59cfb4804d7a604a9c47762193e10e6-thumb.webp",
+    "full": "/library/53/53446f8f17fd6d13fa2bffb268906df5a59cfb4804d7a604a9c47762193e10e6.webp"
   },
   {
     "id": "078",
     "category": "场景素材",
     "description": "暖色办公室四视角场景板，包含木质办公桌、皮椅、书架、沙发与窗帘。",
-    "image": "/gallery/078.jpg"
+    "origin": "generated",
+    "image": "/library/0e/0e4b60683a9770b66e1ad4e27ca6643f84a25ce8f499018845676e1abd8bdf63-thumb.webp",
+    "full": "/library/0e/0e4b60683a9770b66e1ad4e27ca6643f84a25ce8f499018845676e1abd8bdf63.webp"
   },
   {
     "id": "079",
     "category": "场景素材",
     "description": "米金色豪华卧室四视角场景板，中心大床、吊灯、床头灯、木门与装饰墙板。",
-    "image": "/gallery/079.jpg"
+    "origin": "generated",
+    "image": "/library/1b/1b127a1881178719e35e20648d48a08222ff7941340cbdb053e7c6cea6f6fc20-thumb.webp",
+    "full": "/library/1b/1b127a1881178719e35e20648d48a08222ff7941340cbdb053e7c6cea6f6fc20.webp"
   },
   {
     "id": "080",
     "category": "场景素材",
     "description": "深红木墙面室内多视角板，中央高背皮椅与小边桌，暖灯与花纹地毯，含局部细节。",
-    "image": "/gallery/080.jpg"
+    "origin": "generated",
+    "image": "/library/63/63810d8e9c1c2d5305733ba9f2f1c69f208c012fb73bc79ea43231fa92e4093f-thumb.webp",
+    "full": "/library/63/63810d8e9c1c2d5305733ba9f2f1c69f208c012fb73bc79ea43231fa92e4093f.webp"
   },
   {
     "id": "081",
     "category": "场景素材",
     "description": "暖光卧室内景，有木质书桌、办公椅、单人床、绿色沙发、台灯及墙面软木板。",
-    "image": "/gallery/081.jpg"
+    "origin": "generated",
+    "image": "/library/37/37bcf325061eae21612cd892a6121ce55a66c1456f573fc4aec558d55df4a6f1-thumb.webp",
+    "full": "/library/37/37bcf325061eae21612cd892a6121ce55a66c1456f573fc4aec558d55df4a6f1.webp"
   },
   {
     "id": "082",
     "category": "场景素材",
     "description": "教室多视角场景板，成排木课桌椅、黑板和高窗，木地板上有暖色日光。",
-    "image": "/gallery/082.jpg"
+    "origin": "generated",
+    "image": "/library/73/73c891265e91c5276f09eaccde710e3c899c0a1b5ff94a024c295105113a5048-thumb.webp",
+    "full": "/library/73/73c891265e91c5276f09eaccde710e3c899c0a1b5ff94a024c295105113a5048.webp"
   },
   {
     "id": "083",
     "category": "场景素材",
     "description": "红金色暗光娱乐空间多角度板，镜面墙、栏杆、桌椅和远处舞台。",
-    "image": "/gallery/083.jpg"
+    "origin": "generated",
+    "image": "/library/ef/efcd715c07e2363b838d6fe2ea841ace75c2a8c2f2bfc2635b2acb24a7c1dd48-thumb.webp",
+    "full": "/library/ef/efcd715c07e2363b838d6fe2ea841ace75c2a8c2f2bfc2635b2acb24a7c1dd48.webp"
   },
   {
     "id": "084",
     "category": "场景素材",
     "description": "四格深红木室内场景板，圆形地面区域、黑皮沙发和低茶几，金色暖灯环绕。",
-    "image": "/gallery/084.jpg"
+    "origin": "generated",
+    "image": "/library/7d/7d4cf3d10fa3a03c0ed3cabbda1683001de9be1f26c35b9e52e46bf5979ad11a-thumb.webp",
+    "full": "/library/7d/7d4cf3d10fa3a03c0ed3cabbda1683001de9be1f26c35b9e52e46bf5979ad11a.webp"
   },
   {
     "id": "085",
     "category": "场景素材",
     "description": "金棕色石材浴室多角度板，长洗手台、大镜面和玻璃淋浴间。",
-    "image": "/gallery/085.jpg"
+    "origin": "generated",
+    "image": "/library/de/decdb5e03633c1ea3ddacc70d47f036eefddc46da26da6eb9ca747454253703f-thumb.webp",
+    "full": "/library/de/decdb5e03633c1ea3ddacc70d47f036eefddc46da26da6eb9ca747454253703f.webp"
   },
   {
     "id": "086",
     "category": "场景素材",
     "description": "明亮古典走廊多角度板，白墙深木墙裙、花纹地面与窗边树影。",
-    "image": "/gallery/086.jpg"
+    "origin": "generated",
+    "image": "/library/a7/a72e80afdaa8d36675372bc9c7c36f736c6f646b89c9721d99c7fcdae524adf3-thumb.webp",
+    "full": "/library/a7/a72e80afdaa8d36675372bc9c7c36f736c6f646b89c9721d99c7fcdae524adf3.webp"
   },
   {
     "id": "087",
     "category": "场景素材",
     "description": "暖棕色客厅多角度板，沙发、扶手椅、黑色茶几和玻璃隔断。",
-    "image": "/gallery/087.jpg"
+    "origin": "generated",
+    "image": "/library/ea/ea64d9f7a76aa14422aa01fe0193292ccdd9f2f7d84fb62879e013bf2bf6eb63-thumb.webp",
+    "full": "/library/ea/ea64d9f7a76aa14422aa01fe0193292ccdd9f2f7d84fb62879e013bf2bf6eb63.webp"
   },
   {
     "id": "088",
     "category": "场景素材",
     "description": "四格客厅场景板，褐色沙发与扶手椅，木饰墙面和吧架，落地窗外有绿植。",
-    "image": "/gallery/088.jpg"
+    "origin": "generated",
+    "image": "/library/85/8588e4f0802b4295fb797dae8da5adb4edf617c75aad0cedc9ab4b9262b873ce-thumb.webp",
+    "full": "/library/85/8588e4f0802b4295fb797dae8da5adb4edf617c75aad0cedc9ab4b9262b873ce.webp"
   },
   {
     "id": "089",
     "category": "场景素材",
     "description": "暖灯照明的城市建筑入口场景板，含玻璃门、街灯、绿植与人行道细部。",
-    "image": "/gallery/089.jpg"
+    "origin": "generated",
+    "image": "/library/a3/a37d278ab8506469d158f82d9b1888145a8558fea6bfca0c43b77b813f3500be-thumb.webp",
+    "full": "/library/a3/a37d278ab8506469d158f82d9b1888145a8558fea6bfca0c43b77b813f3500be.webp"
   },
   {
     "id": "090",
     "category": "场景素材",
     "description": "日光木质课桌教室三视角空间图",
-    "image": "/gallery/090.jpg"
+    "origin": "generated",
+    "image": "/library/b6/b6d7cb604b1e53d382e396d3497409f026084fdb8add585f5f9033da29f50b1f-thumb.webp",
+    "full": "/library/b6/b6d7cb604b1e53d382e396d3497409f026084fdb8add585f5f9033da29f50b1f.webp"
   },
   {
     "id": "091",
     "category": "场景素材",
     "description": "暖色灯光现代客厅多角度板，可见大沙发、茶几、电视与走廊。",
-    "image": "/gallery/091.jpg"
+    "origin": "generated",
+    "image": "/library/99/992319571444ef6309632fdfaf320c4ae1491b61755e15d470822013a7a0b31e-thumb.webp",
+    "full": "/library/99/992319571444ef6309632fdfaf320c4ae1491b61755e15d470822013a7a0b31e.webp"
   },
   {
     "id": "092",
     "category": "场景素材",
     "description": "暖色书房多角度板，整墙书柜、桌椅和通向大窗的空间，窗外城市景观。",
-    "image": "/gallery/092.jpg"
+    "origin": "generated",
+    "image": "/library/ed/ed5facdb274b595df6b9be28ea962e2c53b9559838349de0fd60121c7a0ad69f-thumb.webp",
+    "full": "/library/ed/ed5facdb274b595df6b9be28ea962e2c53b9559838349de0fd60121c7a0ad69f.webp"
   },
   {
     "id": "093",
     "category": "场景素材",
     "description": "四格书房多视角板，木书架、宽书桌、沙发和办公椅，暖灯照明，墙上黑色矩形屏幕。",
-    "image": "/gallery/093.jpg"
+    "origin": "generated",
+    "image": "/library/65/6553032751eb44a978cb9c5596f13f18c4f00cb8aa3d04f8db0a415ebcb9c854-thumb.webp",
+    "full": "/library/65/6553032751eb44a978cb9c5596f13f18c4f00cb8aa3d04f8db0a415ebcb9c854.webp"
   },
   {
     "id": "094",
     "category": "场景素材",
     "description": "古典走廊多角度板，白墙木墙裙、吊灯与大片窗户，地面有斜向日光。",
-    "image": "/gallery/094.jpg"
+    "origin": "generated",
+    "image": "/library/ca/ca4d7bf23d3442d55fba2869cf1c7d4b61503156e2147ab2f31ced3a5e1afdfa-thumb.webp",
+    "full": "/library/ca/ca4d7bf23d3442d55fba2869cf1c7d4b61503156e2147ab2f31ced3a5e1afdfa.webp"
   },
   {
     "id": "095",
     "category": "场景素材",
     "description": "四格书房场景板，深木书架和书桌，皮椅与地毯，窗边有暖色壁灯。",
-    "image": "/gallery/095.jpg"
+    "origin": "generated",
+    "image": "/library/5e/5ee73b9bfd512470f5a383e6f38c0718264b0ca9d92b30a74099657691dc72f2-thumb.webp",
+    "full": "/library/5e/5ee73b9bfd512470f5a383e6f38c0718264b0ca9d92b30a74099657691dc72f2.webp"
   },
   {
     "id": "096",
     "category": "场景素材",
     "description": "深红棕色走廊多角度及细节场景板，砖墙、雕花木门、壁灯和反光地面形成纵深。",
-    "image": "/gallery/096.jpg"
+    "origin": "generated",
+    "image": "/library/27/27376f6403ba5ea981f974b6214a5a8e627fb08c9a4943c509958d3d41d26ba3-thumb.webp",
+    "full": "/library/27/27376f6403ba5ea981f974b6214a5a8e627fb08c9a4943c509958d3d41d26ba3.webp"
   },
   {
     "id": "097",
     "category": "场景素材",
     "description": "红金色豪华圆形大厅四角度板，镜面地面反射灯光，周边有楼梯和栏杆。",
-    "image": "/gallery/097.jpg"
+    "origin": "generated",
+    "image": "/library/c0/c0b689ba9d62a471e52008cb12f64f6a0619202f12948233a77572173cbe50ac-thumb.webp",
+    "full": "/library/c0/c0b689ba9d62a471e52008cb12f64f6a0619202f12948233a77572173cbe50ac.webp"
   },
   {
     "id": "098",
     "category": "场景素材",
     "description": "华丽卧室四个视角拼接，设有大床、吊灯、床头灯、墙面装饰线和木门。",
-    "image": "/gallery/098.jpg"
+    "origin": "generated",
+    "image": "/library/05/0553a10e1fb7d11e1956d388404dbaef2bd97aa261599a148a4751d95a199a48-thumb.webp",
+    "full": "/library/05/0553a10e1fb7d11e1956d388404dbaef2bd97aa261599a148a4751d95a199a48.webp"
   },
   {
     "id": "099",
     "category": "场景素材",
     "description": "深色木质书房多角度板，含书桌、书柜与棕色沙发的暖光室内。",
-    "image": "/gallery/099.jpg"
+    "origin": "generated",
+    "image": "/library/9a/9ae25346402835d76799253763f9521b87609a81ab936fdfeaaa7a769ab29ace-thumb.webp",
+    "full": "/library/9a/9ae25346402835d76799253763f9521b87609a81ab936fdfeaaa7a769ab29ace.webp"
   },
   {
     "id": "100",
     "category": "场景素材",
     "description": "暖光浴室多角度与细节场景板，显示洗手台、镜面、玻璃淋浴间、石材墙面和花洒。",
-    "image": "/gallery/100.jpg"
+    "origin": "generated",
+    "image": "/library/0f/0fd1c9fe1b9ed470623523791932f0807be4e7dc9272255c8d78fc76bc4b16ed-thumb.webp",
+    "full": "/library/0f/0fd1c9fe1b9ed470623523791932f0807be4e7dc9272255c8d78fc76bc4b16ed.webp"
+  },
+  {
+    "id": "101",
+    "category": "人物形象",
+    "description": "女性生成肖像；中分浅金长发、浅蓝眼睛、米白吊带；浅色干净背景，独立头肩构图。",
+    "origin": "reference",
+    "image": "/library/cf/cf89c8f6bcd708ac421999486082b600f467cd67db43d778656216da67afffb5-thumb.webp",
+    "full": "/library/cf/cf89c8f6bcd708ac421999486082b600f467cd67db43d778656216da67afffb5.webp"
+  },
+  {
+    "id": "102",
+    "category": "人物形象",
+    "description": "女性生成肖像；浅金长发半束、蓝色眼睛、白色吊带；浅色干净背景，独立头肩构图。",
+    "origin": "reference",
+    "image": "/library/46/46e8d3d4c3d2220adcb1bcd1dd570afb21660a94d3bc2f3b38149a9371193ab6-thumb.webp",
+    "full": "/library/46/46e8d3d4c3d2220adcb1bcd1dd570afb21660a94d3bc2f3b38149a9371193ab6.webp"
+  },
+  {
+    "id": "103",
+    "category": "人物形象",
+    "description": "浅金棕色长发女性正面头肩像，穿白色圆领背心，戴细项链。",
+    "origin": "generated",
+    "image": "/library/18/18f9ca9aef4e47fe84e9e97e55748a9312f611d0ab784943140936f01c72d056-thumb.webp",
+    "full": "/library/18/18f9ca9aef4e47fe84e9e97e55748a9312f611d0ab784943140936f01c72d056.webp"
+  },
+  {
+    "id": "104",
+    "category": "人物形象",
+    "description": "浅棕色长发女性正面头像，穿米白圆领针织上衣，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/34/347df2527ef8cbdbe500df0cb38c6ed975ac1a77841af12afd09f07586b4cd87-thumb.webp",
+    "full": "/library/34/347df2527ef8cbdbe500df0cb38c6ed975ac1a77841af12afd09f07586b4cd87.webp"
+  },
+  {
+    "id": "105",
+    "category": "人物形象",
+    "description": "棕色长波浪发、浅榛色眼睛与雀斑；金色圈耳环、白色细肩带上衣，保留颈部与上胸小痣；自然闭口平静表情，接近正面头肩构图，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/28/2801c071d7a137f592e7802cd62f68428433f41d112b72db3facd541e915a3f5-thumb.webp",
+    "full": "/library/28/2801c071d7a137f592e7802cd62f68428433f41d112b72db3facd541e915a3f5.webp"
+  },
+  {
+    "id": "106",
+    "category": "人物形象",
+    "description": "女性生成肖像；中分浅金长发、浅色眼睛、浅绿针织开衫；浅色干净背景，独立头肩构图。",
+    "origin": "reference",
+    "image": "/library/12/124a77de1a84717719ea99a749c7dcdb7289b181c63f47934fdf36e34b739ec1-thumb.webp",
+    "full": "/library/12/124a77de1a84717719ea99a749c7dcdb7289b181c63f47934fdf36e34b739ec1.webp"
+  },
+  {
+    "id": "107",
+    "category": "人物形象",
+    "description": "金色长波浪发女性正面肩部肖像，穿棕色细肩带上衣与吊坠项链。",
+    "origin": "generated",
+    "image": "/library/c9/c97ebb24e0bade871da7f7abd2b42f8382dabaf7c901dfef4353403b582abb84-thumb.webp",
+    "full": "/library/c9/c97ebb24e0bade871da7f7abd2b42f8382dabaf7c901dfef4353403b582abb84.webp"
+  },
+  {
+    "id": "108",
+    "category": "人物形象",
+    "description": "女性生成肖像；中分金棕长波浪发、蓝色眼睛、浅米圆领上衣；浅色干净背景，独立头肩构图。",
+    "origin": "reference",
+    "image": "/library/ab/ab9e0b3fd6fc5664f433782f9af67606060443e2a257a3dc92d29b1c7fa51eda-thumb.webp",
+    "full": "/library/ab/ab9e0b3fd6fc5664f433782f9af67606060443e2a257a3dc92d29b1c7fa51eda.webp"
+  },
+  {
+    "id": "109",
+    "category": "人物形象",
+    "description": "女性生成肖像；侧分金色长卷发、浅色眼睛、黑色圆领上衣；浅色干净背景，独立头肩构图。",
+    "origin": "reference",
+    "image": "/library/c7/c7eaabd687002b900ea7cbbbd71c0063a1827fe1fea0909ba5e7ae7f011ce088-thumb.webp",
+    "full": "/library/c7/c7eaabd687002b900ea7cbbbd71c0063a1827fe1fea0909ba5e7ae7f011ce088.webp"
+  },
+  {
+    "id": "110",
+    "category": "人物形象",
+    "description": "黑棕偏分盘发、少量碎发；自然闭口、轻微嘴角上提；可见眼线睫毛妆、砖红唇色；浅灰背景、柔和正面光",
+    "origin": "generated",
+    "image": "/library/df/dfb29894c8f2486ecb1c06ea4333bc17482bdef71afff97e56dbf14300ff5c33-thumb.webp",
+    "full": "/library/df/dfb29894c8f2486ecb1c06ea4333bc17482bdef71afff97e56dbf14300ff5c33.webp"
+  },
+  {
+    "id": "111",
+    "category": "人物形象",
+    "description": "棕色长波浪发女性正面肖像，米白色西装搭黑色系带领衬衣。",
+    "origin": "generated",
+    "image": "/library/cc/cc3fb0da6697410d1d928e7749cce83342debbd1190a729bc215d153f09b3040-thumb.webp",
+    "full": "/library/cc/cc3fb0da6697410d1d928e7749cce83342debbd1190a729bc215d153f09b3040.webp"
+  },
+  {
+    "id": "112",
+    "category": "人物形象",
+    "description": "金色侧分波浪发女性正面肖像，穿米白色翻领衬衫。",
+    "origin": "reference",
+    "image": "/library/ae/ae247346f8bd1123dc2a92b6fa73c336235aba604bef54fe3030342df705b5de-thumb.webp",
+    "full": "/library/ae/ae247346f8bd1123dc2a92b6fa73c336235aba604bef54fe3030342df705b5de.webp"
+  },
+  {
+    "id": "113",
+    "category": "人物形象",
+    "description": "白底女性略侧转胸像，棕色中分波浪长发、闭唇，穿深绿色宽圆领上衣，一侧肩部朝前。",
+    "origin": "reference",
+    "image": "/library/7f/7fce20e89abbed71324b11007166493aab39e28aee6f6c7a357100ce5e01721a-thumb.webp",
+    "full": "/library/7f/7fce20e89abbed71324b11007166493aab39e28aee6f6c7a357100ce5e01721a.webp"
+  },
+  {
+    "id": "114",
+    "category": "人物形象",
+    "description": "深棕色侧分短发女性正面头像，穿蓝色圆领针织上衣，灰色背景。",
+    "origin": "generated",
+    "image": "/library/38/381c74a91db3606d7709e92a0f2f9c4d67f5dd601b7e63d591756395e73f85b4-thumb.webp",
+    "full": "/library/38/381c74a91db3606d7709e92a0f2f9c4d67f5dd601b7e63d591756395e73f85b4.webp"
+  },
+  {
+    "id": "115",
+    "category": "人物形象",
+    "description": "黑色长卷发女性正面半身像，穿米金色细肩带上衣，白色背景。",
+    "origin": "generated",
+    "image": "/library/44/443ddcbdf1cefb1aeeef87347a73bd27380aaa0f8fcb47c5a429a74d11efe578-thumb.webp",
+    "full": "/library/44/443ddcbdf1cefb1aeeef87347a73bd27380aaa0f8fcb47c5a429a74d11efe578.webp"
+  },
+  {
+    "id": "116",
+    "category": "人物形象",
+    "description": "棕色长卷发女性正面半身像，穿黑色西装外套和黑色上衣，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/46/46573399295238a3682860162e003a37c4b7f91e5181116a2736356a83f73811-thumb.webp",
+    "full": "/library/46/46573399295238a3682860162e003a37c4b7f91e5181116a2736356a83f73811.webp"
+  },
+  {
+    "id": "117",
+    "category": "人物形象",
+    "description": "灰底女性胸像，浅棕金色中长波浪发，穿白色背心，正面平视。",
+    "origin": "generated",
+    "image": "/library/4e/4e121646240a0b424300ea7d8b683f57564dbd75bca6fc006cff98456b9bdf44-thumb.webp",
+    "full": "/library/4e/4e121646240a0b424300ea7d8b683f57564dbd75bca6fc006cff98456b9bdf44.webp"
+  },
+  {
+    "id": "118",
+    "category": "人物形象",
+    "description": "灰底女性胸像，棕金色中长波浪发，穿米白色背心，佩金色圆形吊坠。",
+    "origin": "generated",
+    "image": "/library/52/528247818e06bebba8326880b37268c4e06a7702de078d6c31434ce1d0c4e1f0-thumb.webp",
+    "full": "/library/52/528247818e06bebba8326880b37268c4e06a7702de078d6c31434ce1d0c4e1f0.webp"
+  },
+  {
+    "id": "119",
+    "category": "人物形象",
+    "description": "灰底女性胸像，黑色侧分长卷发，黑西装内搭白色低领上衣，佩小耳饰。",
+    "origin": "generated",
+    "image": "/library/59/59ec6d4aa4e51939203e5c37beffa4b5ed36ac414795d9fb3e7065030f3f6b9d-thumb.webp",
+    "full": "/library/59/59ec6d4aa4e51939203e5c37beffa4b5ed36ac414795d9fb3e7065030f3f6b9d.webp"
+  },
+  {
+    "id": "120",
+    "category": "人物形象",
+    "description": "灰底女性胸像，浅棕色中分长卷发，穿黑色深V领西装。",
+    "origin": "generated",
+    "image": "/library/7e/7e5ef235b9752c5b09d5d0e692664b2361e716812e36fecc29f52fbe205ac773-thumb.webp",
+    "full": "/library/7e/7e5ef235b9752c5b09d5d0e692664b2361e716812e36fecc29f52fbe205ac773.webp"
+  },
+  {
+    "id": "121",
+    "category": "人物形象",
+    "description": "浅棕色波浪中长发、灰绿色眼睛女性正面胸像，黑色细肩带上衣，浅灰背景，闭口中性表情。",
+    "origin": "generated",
+    "image": "/library/d3/d3da6c557bddf95b9b0920855537819312051d2e921e19cc60cf83186fee0b11-thumb.webp",
+    "full": "/library/d3/d3da6c557bddf95b9b0920855537819312051d2e921e19cc60cf83186fee0b11.webp"
+  },
+  {
+    "id": "122",
+    "category": "人物形象",
+    "description": "浅棕色波浪长发、灰绿色眼睛女性正面胸像，米白色细肩带上衣，浅色背景，闭口中性表情。",
+    "origin": "generated",
+    "image": "/library/4a/4aaabb158d34f60e484742eb5c82046cae4423b0a6ad83c64e10b30577405d88-thumb.webp",
+    "full": "/library/4a/4aaabb158d34f60e484742eb5c82046cae4423b0a6ad83c64e10b30577405d88.webp"
+  },
+  {
+    "id": "123",
+    "category": "人物形象",
+    "description": "黑色齐肩直发女性正面头像，留薄刘海，穿白色高领褶皱上衣。",
+    "origin": "generated",
+    "image": "/library/12/12dfa5bf93fa73c78d354a8258a774f835126dda10562240b3e86e56ccf11675-thumb.webp",
+    "full": "/library/12/12dfa5bf93fa73c78d354a8258a774f835126dda10562240b3e86e56ccf11675.webp"
+  },
+  {
+    "id": "124",
+    "category": "人物形象",
+    "description": "红棕偏分低盘发、鬓角碎发；闭口直视，嘴角近水平；可见睫毛妆、淡粉棕唇色及面部雀斑；中灰背景、柔和侧前光",
+    "origin": "generated",
+    "image": "/library/ae/ae9d858a355d598ad19b8d54f05fd50f3bf634f558971ab9f7f2fc29fa41583a-thumb.webp",
+    "full": "/library/ae/ae9d858a355d598ad19b8d54f05fd50f3bf634f558971ab9f7f2fc29fa41583a.webp"
+  },
+  {
+    "id": "125",
+    "category": "人物形象",
+    "description": "浅金中分低束发、两侧细碎发；正面闭口，目光平静；可见睫毛妆、自然粉棕唇色；中灰背景、均匀柔光",
+    "origin": "generated",
+    "image": "/library/b2/b25e1e3c24483028cddd4f68e8f3be0922a3552c0091c249c3acfe8eb2cd6b56-thumb.webp",
+    "full": "/library/b2/b25e1e3c24483028cddd4f68e8f3be0922a3552c0091c249c3acfe8eb2cd6b56.webp"
+  },
+  {
+    "id": "126",
+    "category": "人物形象",
+    "description": "白底女性头肩像，浅金色侧分长波浪发，白色圆领上衣，正面平视。",
+    "origin": "reference",
+    "image": "/library/60/607d723bae7f7ccb56d38724356d69c55dcb58515813338fdd001ef693277455-thumb.webp",
+    "full": "/library/60/607d723bae7f7ccb56d38724356d69c55dcb58515813338fdd001ef693277455.webp"
+  },
+  {
+    "id": "127",
+    "category": "人物形象",
+    "description": "浅棕色编盘发女性正面肖像，穿米白色V领上衣，白背景。",
+    "origin": "reference",
+    "image": "/library/a1/a1823ade33a3a0fd68e2b066ed4c2bef0792f3e7e8c8bf83f5d4b3c2da18aef6-thumb.webp",
+    "full": "/library/a1/a1823ade33a3a0fd68e2b066ed4c2bef0792f3e7e8c8bf83f5d4b3c2da18aef6.webp"
+  },
+  {
+    "id": "128",
+    "category": "人物形象",
+    "description": "灰底女性正面胸像，深棕色中分低马尾、两侧长碎发垂脸，闭唇，穿黑色圆领上衣。",
+    "origin": "reference",
+    "image": "/library/6d/6d18edc7e4b358e0f32db16d86988afa4a81466141e8beab76abd55ca10f7dcc-thumb.webp",
+    "full": "/library/6d/6d18edc7e4b358e0f32db16d86988afa4a81466141e8beab76abd55ca10f7dcc.webp"
+  },
+  {
+    "id": "129",
+    "category": "人物形象",
+    "description": "灰底女性正面胸像，黑色高发髻、头侧少量碎发，微张唇，穿黑色宽圆领上衣。",
+    "origin": "reference",
+    "image": "/library/46/4656480c298cda597f3479f9513800c10765304e509eb95d4047a7fdfa6f0dab-thumb.webp",
+    "full": "/library/46/4656480c298cda597f3479f9513800c10765304e509eb95d4047a7fdfa6f0dab.webp"
+  },
+  {
+    "id": "130",
+    "category": "人物形象",
+    "description": "金色蓬松侧分长发女性头肩像，黑色圆领上衣，浅背景。",
+    "origin": "reference",
+    "image": "/library/fa/fa56adc684f6ae39e0cc6abc3ed8c454d397f17b7e72da16043945d38f6d532b-thumb.webp",
+    "full": "/library/fa/fa56adc684f6ae39e0cc6abc3ed8c454d397f17b7e72da16043945d38f6d532b.webp"
+  },
+  {
+    "id": "131",
+    "category": "人物形象",
+    "description": "红棕色盘发、雀斑肌肤女性正面浅灰背景头肩照",
+    "origin": "generated",
+    "image": "/library/d7/d7958e43fe5321c9d6f8819d1c70bffe861ec25150e1d3ca6095c13c5f6d7103-thumb.webp",
+    "full": "/library/d7/d7958e43fe5321c9d6f8819d1c70bffe861ec25150e1d3ca6095c13c5f6d7103.webp"
+  },
+  {
+    "id": "132",
+    "category": "人物形象",
+    "description": "棕色松散盘发女性正面肖像，脸部有雀斑，穿浅色圆领衣。",
+    "origin": "reference",
+    "image": "/library/92/929dec46ec966f49f1c539b4b6aa32fe83a9be1bc871b97c7114b388b68b57b0-thumb.webp",
+    "full": "/library/92/929dec46ec966f49f1c539b4b6aa32fe83a9be1bc871b97c7114b388b68b57b0.webp"
+  },
+  {
+    "id": "133",
+    "category": "人物形象",
+    "description": "浅金色高盘发、蓝色眼睛女性正面头肩照，脸侧散落发丝，米色圆领针织上衣，浅色背景。",
+    "origin": "generated",
+    "image": "/library/99/9921f23a9cbbd473e4526acbb529690f101fe28aeec70be447d759fdce2ec073-thumb.webp",
+    "full": "/library/99/9921f23a9cbbd473e4526acbb529690f101fe28aeec70be447d759fdce2ec073.webp"
+  },
+  {
+    "id": "134",
+    "category": "人物形象",
+    "description": "黑色高丸子头、灰绿色眼睛女性正面头肩照，深灰圆领短袖上衣，浅灰背景，闭口中性表情。",
+    "origin": "generated",
+    "image": "/library/8b/8b9b063a833a6d1705f9a1fcd48063d2dc0d04579341de8b040afc560203970f-thumb.webp",
+    "full": "/library/8b/8b9b063a833a6d1705f9a1fcd48063d2dc0d04579341de8b040afc560203970f.webp"
+  },
+  {
+    "id": "135",
+    "category": "人物形象",
+    "description": "胸部以上正面半身肖像，人物正视镜头，神态沉稳平静无明显笑意，身穿深麻灰色圆领T恤，留深棕色蓬松短卷发，带有修剪整齐的络腮胡，绿眼睛，浅灰色纯色背景，布光均匀柔和。",
+    "origin": "reference",
+    "image": "/library/24/2467fe3fbbf2a7d075eeb79d3852170ed6a170bfe1d1f3f10b6926cf6060f1de-thumb.webp",
+    "full": "/library/24/2467fe3fbbf2a7d075eeb79d3852170ed6a170bfe1d1f3f10b6926cf6060f1de.webp"
+  },
+  {
+    "id": "136",
+    "category": "人物形象",
+    "description": "正面胸像构图，男性正视镜头，神情沉稳平和。留棕色蓬松短卷发，发丝带有自然凌乱纹理；面部长有同色系短络腮胡与胡须。身着深麻黑色圆领T恤，领口为基础罗纹款式。背景为纯净浅灰色，光线均匀柔和，画面清晰干净。",
+    "origin": "reference",
+    "image": "/library/22/2242719f24817557a2aedb82a8ad23b1e265c701d0db76d3b0b4388ff21c012f-thumb.webp",
+    "full": "/library/22/2242719f24817557a2aedb82a8ad23b1e265c701d0db76d3b0b4388ff21c012f.webp"
+  },
+  {
+    "id": "137",
+    "category": "人物形象",
+    "description": "棕色短发、短胡茬男性正面头肩照",
+    "origin": "generated",
+    "image": "/library/8b/8b0265c9517b924b828fd71b09cdf6b7c1a6e8cea554ba4aa4f4b9c862594a37-thumb.webp",
+    "full": "/library/8b/8b0265c9517b924b828fd71b09cdf6b7c1a6e8cea554ba4aa4f4b9c862594a37.webp"
+  },
+  {
+    "id": "138",
+    "category": "人物形象",
+    "description": "灰底男性正面胸像，棕色蓬松短卷发、浓胡须，闭唇直视镜头，穿黑色圆领上衣。",
+    "origin": "reference",
+    "image": "/library/a8/a89fa64df40b2547712a9240794b0f004694bb25bd1876b4f6a2937756f0d801-thumb.webp",
+    "full": "/library/a8/a89fa64df40b2547712a9240794b0f004694bb25bd1876b4f6a2937756f0d801.webp"
+  },
+  {
+    "id": "139",
+    "category": "人物形象",
+    "description": "05_硬朗成熟男；臣服课堂；威廉·阿斯特 William Astor；成人独立头像",
+    "origin": "reference",
+    "image": "/library/f3/f3957f42098eb3e63f47291ed9a7dbaff4df5ce62239ad47e51ccd31ca639dd6-thumb.webp",
+    "full": "/library/f3/f3957f42098eb3e63f47291ed9a7dbaff4df5ce62239ad47e51ccd31ca639dd6.webp"
+  },
+  {
+    "id": "140",
+    "category": "人物形象",
+    "description": "白底男性正面头肩像，黑色侧分蓬松短发、浓眉，嘴唇略分开，穿黑色圆领上衣。",
+    "origin": "reference",
+    "image": "/library/55/558baba3aaf1e284a46ab875ab7af9e9b8273476a0ca888f382437a9b9f9add8-thumb.webp",
+    "full": "/library/55/558baba3aaf1e284a46ab875ab7af9e9b8273476a0ca888f382437a9b9f9add8.webp"
+  },
+  {
+    "id": "141",
+    "category": "人物形象",
+    "description": "深色卷短发男性正面头肩像，有淡胡茬，穿黑色敞领衬衫。",
+    "origin": "generated",
+    "image": "/library/0e/0efe9a9fb584697428384ec9aeca7d89e219fabdb83e3cdd95528c197db7c007-thumb.webp",
+    "full": "/library/0e/0efe9a9fb584697428384ec9aeca7d89e219fabdb83e3cdd95528c197db7c007.webp"
+  },
+  {
+    "id": "142",
+    "category": "人物形象",
+    "description": "棕色凌乱短发男性正面头像，穿深灰敞领衬衫，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/26/26933f58585c6d843919449b450310c1f12665950514f8f2b96c547221ce9534-thumb.webp",
+    "full": "/library/26/26933f58585c6d843919449b450310c1f12665950514f8f2b96c547221ce9534.webp"
+  },
+  {
+    "id": "143",
+    "category": "人物形象",
+    "description": "灰底男性头像，黑色短卷发，无明显胡须，穿灰色针织圆领上衣。",
+    "origin": "generated",
+    "image": "/library/57/575fbf6ab2b35dcc2624d7148c4809306ecf9f97a2c6b911fe4ee1b9580805d9-thumb.webp",
+    "full": "/library/57/575fbf6ab2b35dcc2624d7148c4809306ecf9f97a2c6b911fe4ee1b9580805d9.webp"
+  },
+  {
+    "id": "144",
+    "category": "人物形象",
+    "description": "灰底男性胸像，深棕短发与短胡须，黑色敞领衬衫，正面平视。",
+    "origin": "generated",
+    "image": "/library/80/80c63787aa0da4eeaf86cdfc3c9f22d87ef9c3997ca6744e774f08e1db725256-thumb.webp",
+    "full": "/library/80/80c63787aa0da4eeaf86cdfc3c9f22d87ef9c3997ca6744e774f08e1db725256.webp"
+  },
+  {
+    "id": "145",
+    "category": "人物形象",
+    "description": "深棕色短卷发留短胡须男性正面肖像，穿黑色敞领衬衫。",
+    "origin": "generated",
+    "image": "/library/bf/bfeb3c7a492d0b7f29aeaf19c4a685915cf67438f38e1d547d357fe741cd9b5d-thumb.webp",
+    "full": "/library/bf/bfeb3c7a492d0b7f29aeaf19c4a685915cf67438f38e1d547d357fe741cd9b5d.webp"
+  },
+  {
+    "id": "146",
+    "category": "人物形象",
+    "description": "黑色短卷发留短胡须男性半身肖像，穿深灰色圆领T恤。",
+    "origin": "generated",
+    "image": "/library/d0/d0b7aae93f280b5bfa88ada6b716e301ddbe531c7fde2c302a886a986881f6d6-thumb.webp",
+    "full": "/library/d0/d0b7aae93f280b5bfa88ada6b716e301ddbe531c7fde2c302a886a986881f6d6.webp"
+  },
+  {
+    "id": "147",
+    "category": "人物形象",
+    "description": "棕灰色短发胡茬男性正面头肩像，灰色圆领上衣，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/f4/f4e9a72ff889da47e528ca756aca276af77c8afea6e652e8754641630d5863fd-thumb.webp",
+    "full": "/library/f4/f4e9a72ff889da47e528ca756aca276af77c8afea6e652e8754641630d5863fd.webp"
+  },
+  {
+    "id": "148",
+    "category": "人物形象",
+    "description": "深棕卷短发胡须男性头肩像，黑色西装和黑色衬衫，浅背景。",
+    "origin": "generated",
+    "image": "/library/fb/fb08e2bd935f168711bcb349d3b5c68fdcf5806e4614719dcda87c7d7c44586d-thumb.webp",
+    "full": "/library/fb/fb08e2bd935f168711bcb349d3b5c68fdcf5806e4614719dcda87c7d7c44586d.webp"
+  },
+  {
+    "id": "149",
+    "category": "人物形象",
+    "description": "浅灰背景男性正面胸像，棕色短发、浅胡茬，深蓝西装配白衬衫和蓝领带，正面平视、嘴唇闭合。",
+    "origin": "generated",
+    "image": "/library/69/693dbcbbd79845b5ecfc4baf952933ce977374510a2bad9aa03fb8ef529bf86e-thumb.webp",
+    "full": "/library/69/693dbcbbd79845b5ecfc4baf952933ce977374510a2bad9aa03fb8ef529bf86e.webp"
+  },
+  {
+    "id": "150",
+    "category": "人物形象",
+    "description": "浅灰背景男性正面胸像，深棕短发、浅胡茬，深色西装与敞领白衬衫，正面平视、嘴唇闭合。",
+    "origin": "generated",
+    "image": "/library/ad/ad064acb49209eeda6d6e8d4c610ff963b910f044e25e2bf3d3041e3196cc03f-thumb.webp",
+    "full": "/library/ad/ad064acb49209eeda6d6e8d4c610ff963b910f044e25e2bf3d3041e3196cc03f.webp"
+  },
+  {
+    "id": "151",
+    "category": "人物形象",
+    "description": "浅灰背景男性正面胸像，棕色短发、浅胡茬，深蓝外套与浅蓝敞领衬衫，正面平视、嘴唇闭合。",
+    "origin": "generated",
+    "image": "/library/9c/9c858b799ee66e8c1b9e61b1bead51ab1ef158920acff29ad1523ea4938051c4-thumb.webp",
+    "full": "/library/9c/9c858b799ee66e8c1b9e61b1bead51ab1ef158920acff29ad1523ea4938051c4.webp"
+  },
+  {
+    "id": "152",
+    "category": "人物形象",
+    "description": "浅灰背景男性正面胸像，棕色短发带灰色鬓发、浅胡茬，黑色圆领上衣，正面平视、嘴唇闭合。",
+    "origin": "generated",
+    "image": "/library/6e/6e41bce87d8793ea2f7dce2d2d30df1990de60bf4e15ec5bcdf666c99933f289-thumb.webp",
+    "full": "/library/6e/6e41bce87d8793ea2f7dce2d2d30df1990de60bf4e15ec5bcdf666c99933f289.webp"
+  },
+  {
+    "id": "153",
+    "category": "人物形象",
+    "description": "棕色蓬松短卷发男性正面肖像，穿白色圆领T恤。",
+    "origin": "reference",
+    "image": "/library/b0/b0ecc5b6a4032b0d5a5d9126fe37643e208561ab4a4e3a811c974057cf790b7a-thumb.webp",
+    "full": "/library/b0/b0ecc5b6a4032b0d5a5d9126fe37643e208561ab4a4e3a811c974057cf790b7a.webp"
+  },
+  {
+    "id": "154",
+    "category": "人物形象",
+    "description": "灰底男性头像，棕色蓬松短发，白色圆领T恤，正面平视。",
+    "origin": "reference",
+    "image": "/library/87/870a3220d7d745403e403eaf73724c4ea68cbc42a891aa130e799d583135732f-thumb.webp",
+    "full": "/library/87/870a3220d7d745403e403eaf73724c4ea68cbc42a891aa130e799d583135732f.webp"
+  },
+  {
+    "id": "155",
+    "category": "人物形象",
+    "description": "棕色卷短发男性正面头肩像，穿黑色圆领上衣，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/02/0233bf68a2ef4e6ac926564b78dfb6992810fe586c8832536e504c578c782f58-thumb.webp",
+    "full": "/library/02/0233bf68a2ef4e6ac926564b78dfb6992810fe586c8832536e504c578c782f58.webp"
+  },
+  {
+    "id": "156",
+    "category": "人物形象",
+    "description": "棕色短发男性正面头肩像，穿黑色圆领上衣，浅灰色背景。",
+    "origin": "generated",
+    "image": "/library/10/10f2fb3b33e25e110277d4565888d6e5104eb07c50183bb3b19c319bdb423927-thumb.webp",
+    "full": "/library/10/10f2fb3b33e25e110277d4565888d6e5104eb07c50183bb3b19c319bdb423927.webp"
+  },
+  {
+    "id": "157",
+    "category": "人物形象",
+    "description": "黑色凌乱短发男性正面半身像，穿黑西装、白衬衫与黑领带，白背景。",
+    "origin": "generated",
+    "image": "/library/29/2960c4ff55cbd7e0f197057a40846a1f9a863f4c52dbe26c551da1b53b2c9ea9-thumb.webp",
+    "full": "/library/29/2960c4ff55cbd7e0f197057a40846a1f9a863f4c52dbe26c551da1b53b2c9ea9.webp"
+  },
+  {
+    "id": "158",
+    "category": "人物形象",
+    "description": "棕色卷短发男性正面半身像，穿浅灰圆领上衣，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/30/30aeea17875483a74abf8d6162f39844211a71f40b0c66db9e319cf6c44c728f-thumb.webp",
+    "full": "/library/30/30aeea17875483a74abf8d6162f39844211a71f40b0c66db9e319cf6c44c728f.webp"
+  },
+  {
+    "id": "159",
+    "category": "人物形象",
+    "description": "黑色凌乱短发男性正面头肩像，穿深色针织上衣，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/47/4708b76818c0150797645e7883cf293a4080c690bed74ad850fa473ad37f4ddf-thumb.webp",
+    "full": "/library/47/4708b76818c0150797645e7883cf293a4080c690bed74ad850fa473ad37f4ddf.webp"
+  },
+  {
+    "id": "160",
+    "category": "人物形象",
+    "description": "灰底男性正面头像，浅金棕色短发，穿黑色圆领T恤。",
+    "origin": "generated",
+    "image": "/library/56/56d481bdf82e4080b97a418ffaa18303757a32a5a98a5013fe20144276ecc06f-thumb.webp",
+    "full": "/library/56/56d481bdf82e4080b97a418ffaa18303757a32a5a98a5013fe20144276ecc06f.webp"
+  },
+  {
+    "id": "161",
+    "category": "人物形象",
+    "description": "浅底男性胸像，棕色蓬松短发，穿黑色圆领T恤，正面平视。",
+    "origin": "generated",
+    "image": "/library/68/687875373934e551924e7e2d1f4eda34583a1c87dd0e4cf0c5cb7aa7a9a59b1e-thumb.webp",
+    "full": "/library/68/687875373934e551924e7e2d1f4eda34583a1c87dd0e4cf0c5cb7aa7a9a59b1e.webp"
+  },
+  {
+    "id": "162",
+    "category": "人物形象",
+    "description": "灰底男性胸像，深棕蓬松短发，穿黑色运动背心，正面平视。",
+    "origin": "generated",
+    "image": "/library/6d/6de83611ccb6d3da82f41486b3a2013111c40fd22f1c2cbb3c8871f2e8a42f71-thumb.webp",
+    "full": "/library/6d/6de83611ccb6d3da82f41486b3a2013111c40fd22f1c2cbb3c8871f2e8a42f71.webp"
+  },
+  {
+    "id": "163",
+    "category": "人物形象",
+    "description": "灰底男性胸像，棕色短发，黑色贴身圆领T恤，正面平视。",
+    "origin": "generated",
+    "image": "/library/6e/6edb846f63e67027e0ffc357d1f36ed193456942534d5eeeee67a7cdbac649a4-thumb.webp",
+    "full": "/library/6e/6edb846f63e67027e0ffc357d1f36ed193456942534d5eeeee67a7cdbac649a4.webp"
+  },
+  {
+    "id": "164",
+    "category": "人物形象",
+    "description": "浅灰底男性胸像，棕色蓬松短发，深色西装配白色敞领衬衫。",
+    "origin": "generated",
+    "image": "/library/79/793bffcc7abc658dc5ef31d3c8d15ef4f489bf73b3a3df42472526786b8bff49-thumb.webp",
+    "full": "/library/79/793bffcc7abc658dc5ef31d3c8d15ef4f489bf73b3a3df42472526786b8bff49.webp"
+  },
+  {
+    "id": "165",
+    "category": "人物形象",
+    "description": "浅灰底男性胸像，黑色蓬松短卷发，穿黑色运动背心，正面平视。",
+    "origin": "generated",
+    "image": "/library/82/82c97e89a1b0ffcc627ad86f2c7097f7f44b3dc5f5ce6fade00ef8a817d89858-thumb.webp",
+    "full": "/library/82/82c97e89a1b0ffcc627ad86f2c7097f7f44b3dc5f5ce6fade00ef8a817d89858.webp"
+  },
+  {
+    "id": "166",
+    "category": "人物形象",
+    "description": "黑色蓬松中短发男性正面肖像，穿深蓝色圆领上衣。",
+    "origin": "generated",
+    "image": "/library/9d/9d9ac9c47b2b243c41c7e134420e218f42b4b4cc3ab98b84bae9e1f6740d2605-thumb.webp",
+    "full": "/library/9d/9d9ac9c47b2b243c41c7e134420e218f42b4b4cc3ab98b84bae9e1f6740d2605.webp"
+  },
+  {
+    "id": "167",
+    "category": "人物形象",
+    "description": "棕色短卷发男性半身肖像，穿深灰色圆领T恤。",
+    "origin": "generated",
+    "image": "/library/a3/a3da2c841e004f2b070c0be78292a6bed26cd72bf8b2cdcd060453d35e0f62bf-thumb.webp",
+    "full": "/library/a3/a3da2c841e004f2b070c0be78292a6bed26cd72bf8b2cdcd060453d35e0f62bf.webp"
+  },
+  {
+    "id": "168",
+    "category": "人物形象",
+    "description": "深棕色密卷短发男性正面肖像，穿深灰色针织上衣。",
+    "origin": "generated",
+    "image": "/library/ba/bad73f9bd1950fb7548a086d7a4cf677d4a04c999b7636d138b7b3fcdcc7e1d5-thumb.webp",
+    "full": "/library/ba/bad73f9bd1950fb7548a086d7a4cf677d4a04c999b7636d138b7b3fcdcc7e1d5.webp"
+  },
+  {
+    "id": "169",
+    "category": "人物形象",
+    "description": "棕色凌乱短发男性正面半身肖像，穿黑色背心。",
+    "origin": "generated",
+    "image": "/library/c0/c0fda04727b2df7226ee5c275f4535c7d10134d4b51ef35336c1f35f95b4044c-thumb.webp",
+    "full": "/library/c0/c0fda04727b2df7226ee5c275f4535c7d10134d4b51ef35336c1f35f95b4044c.webp"
+  },
+  {
+    "id": "170",
+    "category": "人物形象",
+    "description": "棕色短卷发男性正面肖像，穿深色圆领T恤。",
+    "origin": "generated",
+    "image": "/library/d0/d0af225e6c171870487def706b73e88cba6ecd0edbf4f314611f6d173408054f-thumb.webp",
+    "full": "/library/d0/d0af225e6c171870487def706b73e88cba6ecd0edbf4f314611f6d173408054f.webp"
+  },
+  {
+    "id": "171",
+    "category": "人物形象",
+    "description": "浅棕色凌乱短发男性头肩像，敞领棕色衬衫，浅色背景。",
+    "origin": "generated",
+    "image": "/library/ea/ea79129498173064cfe4f7a46e7ac549e0d5e63b88ebc60f00b5bceaa40d1712-thumb.webp",
+    "full": "/library/ea/ea79129498173064cfe4f7a46e7ac549e0d5e63b88ebc60f00b5bceaa40d1712.webp"
+  },
+  {
+    "id": "172",
+    "category": "人物形象",
+    "description": "棕色蓬松短发男性正面头肩像，深色圆领上衣，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/ec/ec12b2f575db6dce1fa1876b0a9a4a826d727158cc1b5febce6097d66ea41423-thumb.webp",
+    "full": "/library/ec/ec12b2f575db6dce1fa1876b0a9a4a826d727158cc1b5febce6097d66ea41423.webp"
+  },
+  {
+    "id": "173",
+    "category": "人物形象",
+    "description": "棕色凌乱短发男性正面头肩像，黑色圆领上衣，浅灰背景。",
+    "origin": "generated",
+    "image": "/library/f8/f8b3cccc4cb1fe08972ac747e636c90caa3d9374b035a70052414a3ee1d76026-thumb.webp",
+    "full": "/library/f8/f8b3cccc4cb1fe08972ac747e636c90caa3d9374b035a70052414a3ee1d76026.webp"
+  },
+  {
+    "id": "174",
+    "category": "人物形象",
+    "description": "06_阳光清秀男；宿管的秘密；詹姆斯·沃克；成人独立头像",
+    "origin": "reference",
+    "image": "/library/20/20ee51dab8e0e5b4e33c72c7a16afd58aba2cd78ee599ca8de0deb6b31384422-thumb.webp",
+    "full": "/library/20/20ee51dab8e0e5b4e33c72c7a16afd58aba2cd78ee599ca8de0deb6b31384422.webp"
+  },
+  {
+    "id": "175",
+    "category": "人物形象",
+    "description": "黑色短发男子单人正面闭嘴头肩照，黑色西装、白衬衫与黑领带，浅灰白背景。",
+    "origin": "generated",
+    "image": "/library/2f/2f272ef1bb8d48c87680b2b3a574fd6598117de1ae29c3cbc679a717074b5c2f-thumb.webp",
+    "full": "/library/2f/2f272ef1bb8d48c87680b2b3a574fd6598117de1ae29c3cbc679a717074b5c2f.webp"
+  },
+  {
+    "id": "176",
+    "category": "人物形象",
+    "description": "神情严肃的白人小男孩",
+    "origin": "reference",
+    "image": "/library/b3/b37c110d101dd05012889386a8466628a0372035d5fc72db11e522b1b8991876-thumb.webp",
+    "full": "/library/b3/b37c110d101dd05012889386a8466628a0372035d5fc72db11e522b1b8991876.webp"
+  },
+  {
+    "id": "177",
+    "category": "人物形象",
+    "description": "金发蓝眼的小男孩",
+    "origin": "reference",
+    "image": "/library/30/304e14e4e80d2eb6826bfa941cd6edeec27edd1a2b0eaebcd3e4cb8c75eab4b7-thumb.webp",
+    "full": "/library/30/304e14e4e80d2eb6826bfa941cd6edeec27edd1a2b0eaebcd3e4cb8c75eab4b7.webp"
+  },
+  {
+    "id": "178",
+    "category": "人物形象",
+    "description": "浅棕色短发男童正面头肩像，面部有细小雀斑，穿深绿色圆领上衣。",
+    "origin": "generated",
+    "image": "/library/26/26468ffe82de87b9078c865075d3d31996477f797d30dc0762c29e5a0e1ac688-thumb.webp",
+    "full": "/library/26/26468ffe82de87b9078c865075d3d31996477f797d30dc0762c29e5a0e1ac688.webp"
+  },
+  {
+    "id": "179",
+    "category": "人物形象",
+    "description": "白底男童胸像，金棕色侧分短发，穿蓝色纽扣领长袖上衣。",
+    "origin": "generated",
+    "image": "/library/5e/5e150352d91dd9e576a8be42222560c106be0f9d7468588e480cc53f8a4170db-thumb.webp",
+    "full": "/library/5e/5e150352d91dd9e576a8be42222560c106be0f9d7468588e480cc53f8a4170db.webp"
+  },
+  {
+    "id": "180",
+    "category": "人物形象",
+    "description": "红棕色齐耳卷发儿童正面肖像，穿白色圆领上衣，白色背景。",
+    "origin": "generated",
+    "image": "/library/b4/b49d56180cd3d775fef8e235d36a6c8f9f8163dcc99f67f8ffdaea5546e8edfb-thumb.webp",
+    "full": "/library/b4/b49d56180cd3d775fef8e235d36a6c8f9f8163dcc99f67f8ffdaea5546e8edfb.webp"
+  },
+  {
+    "id": "181",
+    "category": "人物形象",
+    "description": "白底男童胸像，棕色短卷发，灰色圆领上衣，正面平视。",
+    "origin": "generated",
+    "image": "/library/6b/6bfe72768c039a6d71d558e7eb395fd9c8068beac9259805cbee3de802f31fd4-thumb.webp",
+    "full": "/library/6b/6bfe72768c039a6d71d558e7eb395fd9c8068beac9259805cbee3de802f31fd4.webp"
+  },
+  {
+    "id": "182",
+    "category": "人物形象",
+    "description": "浅棕发女童正面头像，梳两条辫子，穿浅蓝开衫与白色上衣。",
+    "origin": "generated",
+    "image": "/library/0e/0eb1639aa40d9b6bf02079bd181ea8f6ef7880abcea475484a5ce2f5bd9329a3-thumb.webp",
+    "full": "/library/0e/0eb1639aa40d9b6bf02079bd181ea8f6ef7880abcea475484a5ce2f5bd9329a3.webp"
+  },
+  {
+    "id": "183",
+    "category": "服装素材",
+    "description": "白底人台服装三视图：黑色七分袖上身、红黑大格纹收腰长裙，配珍珠项链及手链；正面、侧面、背面并列。",
+    "origin": "generated",
+    "image": "/library/d8/d8ae2846c0c24c9c3663882eb4d96adbb689ff1210910708a03cdddf7b58fe88-thumb.webp",
+    "full": "/library/d8/d8ae2846c0c24c9c3663882eb4d96adbb689ff1210910708a03cdddf7b58fe88.webp"
+  },
+  {
+    "id": "184",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；白色翻领衬衫叠穿灰色无袖短背心，配黑色短裙和黑色短靴。",
+    "origin": "generated",
+    "image": "/library/c3/c3be3e968faa73ecf34658526ec7993a6d07b5693fc6cdd6cfa5e1d98f878cbf-thumb.webp",
+    "full": "/library/c3/c3be3e968faa73ecf34658526ec7993a6d07b5693fc6cdd6cfa5e1d98f878cbf.webp"
+  },
+  {
+    "id": "185",
+    "category": "服装素材",
+    "description": "白衬衫、黑色领带与黑色短裙女装三视图",
+    "origin": "generated",
+    "image": "/library/bd/bdc094faeb6c22fccfc6af1964e9d5121193f2f2d4fc16536ab413e957af1e68-thumb.webp",
+    "full": "/library/bd/bdc094faeb6c22fccfc6af1964e9d5121193f2f2d4fc16536ab413e957af1e68.webp"
+  },
+  {
+    "id": "186",
+    "category": "服装素材",
+    "description": "黑色金边西装制服搭配白衬衫、酒红领结、灰色百褶裙与黑长袜，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/2a/2a0ad50010f8978c4c57ef577ed9ad8557dd702f141947344de16826bf324a51-thumb.webp",
+    "full": "/library/2a/2a0ad50010f8978c4c57ef577ed9ad8557dd702f141947344de16826bf324a51.webp"
+  },
+  {
+    "id": "187",
+    "category": "服装素材",
+    "description": "黑色金边西装式制服配白衬衫、酒红领结、灰百褶裙、黑长袜及黑皮鞋，人台三视图。",
+    "origin": "generated",
+    "image": "/library/41/414727ebe6434128adcaf96a3053826f1e485d488d1915d16fabc55a8dcaf432-thumb.webp",
+    "full": "/library/41/414727ebe6434128adcaf96a3053826f1e485d488d1915d16fabc55a8dcaf432.webp"
+  },
+  {
+    "id": "188",
+    "category": "服装素材",
+    "description": "白底人台黑色制服西装三视图，金色滚边、灰马甲、白衬衫和深红领带，配黑长裤。",
+    "origin": "generated",
+    "image": "/library/83/8329efeecdbc9ac80ee8e1e922da83c1461c9661ed21a25c73214e2555d73039-thumb.webp",
+    "full": "/library/83/8329efeecdbc9ac80ee8e1e922da83c1461c9661ed21a25c73214e2555d73039.webp"
+  },
+  {
+    "id": "189",
+    "category": "服装素材",
+    "description": "白底人台制服三视图，白色短袖纽扣衬衫配深蓝包臀短裙和蓝色领巾。",
+    "origin": "generated",
+    "image": "/library/89/89244a01423d7b4ca10f4f157460457179511c14b3a502124eface56eee11a15-thumb.webp",
+    "full": "/library/89/89244a01423d7b4ca10f4f157460457179511c14b3a502124eface56eee11a15.webp"
+  },
+  {
+    "id": "190",
+    "category": "服装素材",
+    "description": "白底无头布面人台正面、侧面、背面三视图；棕色褶皱长袖上衣配米白短裙、同色长靴与浅色单肩包。",
+    "origin": "generated",
+    "image": "/library/fe/feb78d0d0042a1116136d9889ee36cd05e645e15cdc5428fc795913d98d8cad4-thumb.webp",
+    "full": "/library/fe/feb78d0d0042a1116136d9889ee36cd05e645e15cdc5428fc795913d98d8cad4.webp"
+  },
+  {
+    "id": "191",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；象牙白蕾丝吊带上衣配米色高腰阔腿长裤、棕色腰带与编织手提包。",
+    "origin": "generated",
+    "image": "/library/43/439cbb4f990490f44e10691c7fb52ab12b2fc6028a67e2cb806bc636b87e68d8-thumb.webp",
+    "full": "/library/43/439cbb4f990490f44e10691c7fb52ab12b2fc6028a67e2cb806bc636b87e68d8.webp"
+  },
+  {
+    "id": "192",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；白色挂脖垂褶短上衣配抽褶荷叶边短裙，背颈绑带，佩戴手表。",
+    "origin": "generated",
+    "image": "/library/13/130f348b6225bb939c2a30fe7f77826517ea39b323c0bb37a7db6a10822a84d0-thumb.webp",
+    "full": "/library/13/130f348b6225bb939c2a30fe7f77826517ea39b323c0bb37a7db6a10822a84d0.webp"
+  },
+  {
+    "id": "193",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；浅薄荷绿色短款针织开衫配浅色碎花短裙。",
+    "origin": "generated",
+    "image": "/library/f4/f4dc8b7280a6cbad1da055ca254c0434ac3feb68dda9e2329632ba66f752f19b-thumb.webp",
+    "full": "/library/f4/f4dc8b7280a6cbad1da055ca254c0434ac3feb68dda9e2329632ba66f752f19b.webp"
+  },
+  {
+    "id": "194",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；黑色圆领长袖短款裙装，配黑色露趾高跟鞋。",
+    "origin": "generated",
+    "image": "/library/37/377741cb6df4389d1f17bf90a84149a8a25316f55df0bb51eaf52282e9b3719e-thumb.webp",
+    "full": "/library/37/377741cb6df4389d1f17bf90a84149a8a25316f55df0bb51eaf52282e9b3719e.webp"
+  },
+  {
+    "id": "195",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；白色翻领长袖短衬衫，前胸抽褶、腰部纽扣收束；仅展示上衣单品。",
+    "origin": "generated",
+    "image": "/library/32/32819e176fafb5b98f00bb954838274306b61654efd6a1ab2aa725704f0137df-thumb.webp",
+    "full": "/library/32/32819e176fafb5b98f00bb954838274306b61654efd6a1ab2aa725704f0137df.webp"
+  },
+  {
+    "id": "196",
+    "category": "服装素材",
+    "description": "白底人台服装三视图：黑色双排金扣西装与过膝直筒裙，白色褶边领口与袖口，配金色及珍珠多层项链、白手套；正面、侧面、背面并列。",
+    "origin": "generated",
+    "image": "/library/04/042e1f35782d36381c1b9e742977b778cb0392aafa5c9a4f5c2d7eea925fe741-thumb.webp",
+    "full": "/library/04/042e1f35782d36381c1b9e742977b778cb0392aafa5c9a4f5c2d7eea925fe741.webp"
+  },
+  {
+    "id": "197",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；浅粉米色露肩褶皱上衣配同色高腰阔腿长裤、腰带及金色饰品。",
+    "origin": "generated",
+    "image": "/library/e8/e8501754ff42bd18c5f778917bc24c2fadf155a49a73f2dc851fb8c9d9678b78-thumb.webp",
+    "full": "/library/e8/e8501754ff42bd18c5f778917bc24c2fadf155a49a73f2dc851fb8c9d9678b78.webp"
+  },
+  {
+    "id": "198",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；白色无袖圆领背心，配多层细项链；仅展示上衣单品。",
+    "origin": "generated",
+    "image": "/library/07/07b38e76bd61704ed83e45f791aa89dc149bea014db5ac82871055306638ff3d-thumb.webp",
+    "full": "/library/07/07b38e76bd61704ed83e45f791aa89dc149bea014db5ac82871055306638ff3d.webp"
+  },
+  {
+    "id": "199",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；象牙白光泽翻领长袖衬衫，领口敞开，弧形下摆；仅展示上衣单品。",
+    "origin": "generated",
+    "image": "/library/a6/a636c2c048c709744c3b512adcdd5a8f8257458df2bb6e7ca7a79130b16e7aa3-thumb.webp",
+    "full": "/library/a6/a636c2c048c709744c3b512adcdd5a8f8257458df2bb6e7ca7a79130b16e7aa3.webp"
+  },
+  {
+    "id": "200",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；灰绿色宽松长袖衬衫，胸前双贴袋、弧形下摆；仅展示上衣单品。",
+    "origin": "generated",
+    "image": "/library/8f/8f4dab8019da07f788fd897380e65ccdf523b351123a40a4be8d3dad426f6052-thumb.webp",
+    "full": "/library/8f/8f4dab8019da07f788fd897380e65ccdf523b351123a40a4be8d3dad426f6052.webp"
+  },
+  {
+    "id": "201",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；浅灰白色翻领长袖衬衫，前襟纽扣、弧形下摆；仅展示上衣单品。",
+    "origin": "generated",
+    "image": "/library/59/597fdee22c690e647fd13097a0fc77561ce5fc99becd53e98de59177f192b4c6-thumb.webp",
+    "full": "/library/59/597fdee22c690e647fd13097a0fc77561ce5fc99becd53e98de59177f192b4c6.webp"
+  },
+  {
+    "id": "202",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；米白色无袖高领针织上衣配同色直筒长裤与深棕色腰带。",
+    "origin": "generated",
+    "image": "/library/4f/4f90967991c56766f2a6e88d30b68452c2602030173e2a978ee77f25effc78bd-thumb.webp",
+    "full": "/library/4f/4f90967991c56766f2a6e88d30b68452c2602030173e2a978ee77f25effc78bd.webp"
+  },
+  {
+    "id": "203",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；浅棕色短袖针织上衣配白色高腰阔腿长裤与棕色腰带。",
+    "origin": "generated",
+    "image": "/library/3c/3c3907c6feff3b060b829176c135839891e516c107b0399f29c2bc83c23d0e4e-thumb.webp",
+    "full": "/library/3c/3c3907c6feff3b060b829176c135839891e516c107b0399f29c2bc83c23d0e4e.webp"
+  },
+  {
+    "id": "204",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；浅米色圆领长袖修身上衣配白色高腰九分长裤。",
+    "origin": "generated",
+    "image": "/library/ae/aed30938d27205fc64422574ea2be45517750aefba346281afc0021b1c6af6d3-thumb.webp",
+    "full": "/library/ae/aed30938d27205fc64422574ea2be45517750aefba346281afc0021b1c6af6d3.webp"
+  },
+  {
+    "id": "205",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；浅灰色宽松圆领长袖针织毛衣，袖口和下摆罗纹收边，佩戴手表；仅展示上衣单品。",
+    "origin": "generated",
+    "image": "/library/a3/a34e94a103f409579a6f31093191d21310234719d7652d1c3193bf0d27797d7b-thumb.webp",
+    "full": "/library/a3/a34e94a103f409579a6f31093191d21310234719d7652d1c3193bf0d27797d7b.webp"
+  },
+  {
+    "id": "206",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；白色卷袖翻领衬衫扎入黑色高腰直筒牛仔长裤。",
+    "origin": "generated",
+    "image": "/library/6f/6fa2510ae6f834e89c85ad4dd1743e965d50d5b0bef081572519a3582ee64171-thumb.webp",
+    "full": "/library/6f/6fa2510ae6f834e89c85ad4dd1743e965d50d5b0bef081572519a3582ee64171.webp"
+  },
+  {
+    "id": "207",
+    "category": "服装素材",
+    "description": "白色前系结长袖衬衫搭配深色牛仔短裤，在无脸人台上展示正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/20/20c415d258a22d94ef8a9a5c866c7cddb4b9fb7949a379464303968cae390ef1-thumb.webp",
+    "full": "/library/20/20c415d258a22d94ef8a9a5c866c7cddb4b9fb7949a379464303968cae390ef1.webp"
+  },
+  {
+    "id": "208",
+    "category": "服装素材",
+    "description": "白底人台米灰色紧身短裙三视图，方领配短款长袖开衫和黑色小手包。",
+    "origin": "generated",
+    "image": "/library/60/60672f85c9f56e5108ba9136d3d095475c1df58768bada15c2826c813f857e54-thumb.webp",
+    "full": "/library/60/60672f85c9f56e5108ba9136d3d095475c1df58768bada15c2826c813f857e54.webp"
+  },
+  {
+    "id": "209",
+    "category": "服装素材",
+    "description": "白色系结露腰衬衫与牛仔短裤的人台三视，腰后有花形装饰图案。",
+    "origin": "generated",
+    "image": "/library/b0/b011d34796ad25020bee5f9711fb982f3b7d2787b2341339322d0aa40aac12c8-thumb.webp",
+    "full": "/library/b0/b011d34796ad25020bee5f9711fb982f3b7d2787b2341339322d0aa40aac12c8.webp"
+  },
+  {
+    "id": "210",
+    "category": "服装素材",
+    "description": "酒红色露肩长袖上衣搭黑色短裙与丝袜的人台三视，胸前有长系带。",
+    "origin": "generated",
+    "image": "/library/b5/b590f023b6525dab8b93bdf827fe49f1109b35d6ad6d2940aaf615e2843a89a1-thumb.webp",
+    "full": "/library/b5/b590f023b6525dab8b93bdf827fe49f1109b35d6ad6d2940aaf615e2843a89a1.webp"
+  },
+  {
+    "id": "211",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；象牙白露肩褶皱长礼服，裙摆及地，前侧开衩，配细项链。",
+    "origin": "generated",
+    "image": "/library/12/12e1b156d9ebf3fed82730af4336f8202eb7d8d07ba68140d24a4c9e1c997315-thumb.webp",
+    "full": "/library/12/12e1b156d9ebf3fed82730af4336f8202eb7d8d07ba68140d24a4c9e1c997315.webp"
+  },
+  {
+    "id": "212",
+    "category": "服装素材",
+    "description": "灰色细肩带及踝长裙，腰间窄带、裙身点状装饰和侧开衩，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/2f/2f5626016692056177b3333a410784efff77e3a896bbc05a9c5f54910dc9188b-thumb.webp",
+    "full": "/library/2f/2f5626016692056177b3333a410784efff77e3a896bbc05a9c5f54910dc9188b.webp"
+  },
+  {
+    "id": "213",
+    "category": "服装素材",
+    "description": "香槟色无肩带短裙，胸腰处有刺绣纹理、裙摆斜向褶皱，人台正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/39/39597fd6b043a178982b851bff76649a26b210b3628b325ebd6e7dabc38e2558-thumb.webp",
+    "full": "/library/39/39597fd6b043a178982b851bff76649a26b210b3628b325ebd6e7dabc38e2558.webp"
+  },
+  {
+    "id": "214",
+    "category": "服装素材",
+    "description": "白底人台浅粉色抹胸短裙三视图，紧身上身和背后大蝴蝶结，裙边较直。",
+    "origin": "generated",
+    "image": "/library/7f/7f5a1b88d323fd46c596dc4f5fc34db75413a90c6b8469fc5a49338842a7de86-thumb.webp",
+    "full": "/library/7f/7f5a1b88d323fd46c596dc4f5fc34db75413a90c6b8469fc5a49338842a7de86.webp"
+  },
+  {
+    "id": "215",
+    "category": "服装素材",
+    "description": "香槟金色吊带修身短裙的人台三视，胸部褶皱和蕾丝束腰细节。",
+    "origin": "generated",
+    "image": "/library/b0/b0b5ff3678c7fdb12aafb689462cbb3fffbf8b4afea8ae28507064f20bfee0bd-thumb.webp",
+    "full": "/library/b0/b0b5ff3678c7fdb12aafb689462cbb3fffbf8b4afea8ae28507064f20bfee0bd.webp"
+  },
+  {
+    "id": "216",
+    "category": "服装素材",
+    "description": "白色人台展示浅金米色露肩褶皱短裙，配项链和小包，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/f2/f2f5b5ae736b318c0d000ed8296952b83620a2b87352c282fa7fedfe7cd9a92f-thumb.webp",
+    "full": "/library/f2/f2f5b5ae736b318c0d000ed8296952b83620a2b87352c282fa7fedfe7cd9a92f.webp"
+  },
+  {
+    "id": "217",
+    "category": "服装素材",
+    "description": "白底人台三视图：酒红色无袖挂脖雪纺短裙，层叠荷叶裙摆，侧面及背部露背，后颈有长飘带。",
+    "origin": "generated",
+    "image": "/library/37/376bcb76cb50330cec8e676310f29c5840d623d1a5b2ec1c5872c664fb7f1603-thumb.webp",
+    "full": "/library/37/376bcb76cb50330cec8e676310f29c5840d623d1a5b2ec1c5872c664fb7f1603.webp"
+  },
+  {
+    "id": "218",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；黑色短开衫叠穿白色方领上衣，配深灰色斜门襟短裙。",
+    "origin": "generated",
+    "image": "/library/df/df8700b8a1ca4af0b3fee22291bf995f9b6e17295451b404b8b569bcd140bd15-thumb.webp",
+    "full": "/library/df/df8700b8a1ca4af0b3fee22291bf995f9b6e17295451b404b8b569bcd140bd15.webp"
+  },
+  {
+    "id": "219",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；黑色收腰翻领西装外套，单扣门襟与长袖，配细项链；仅展示外套单品。",
+    "origin": "generated",
+    "image": "/library/33/33c87abc9ef24518e364080c4a94fd21a9db966ceed3dbdac05934ea521ca4fa-thumb.webp",
+    "full": "/library/33/33c87abc9ef24518e364080c4a94fd21a9db966ceed3dbdac05934ea521ca4fa.webp"
+  },
+  {
+    "id": "220",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；米白色卷袖翻领衬衫配米色高腰褶裥九分长裤，细腰带收腰。",
+    "origin": "generated",
+    "image": "/library/b1/b14d6df8b8a9598a3e171e847dafb55ce36aefc9c8253acd2cbd9acc7b5556f0-thumb.webp",
+    "full": "/library/b1/b14d6df8b8a9598a3e171e847dafb55ce36aefc9c8253acd2cbd9acc7b5556f0.webp"
+  },
+  {
+    "id": "221",
+    "category": "服装素材",
+    "description": "灰底人台职业穿搭三视图，黑西装配白衬衫、短裙及蕾丝吊带丝袜，黑色高跟鞋。",
+    "origin": "generated",
+    "image": "/library/6d/6daae9a091dcac900ae87de736637ce623ef31d31dc08dd7a556a27b5c26adc9-thumb.webp",
+    "full": "/library/6d/6daae9a091dcac900ae87de736637ce623ef31d31dc08dd7a556a27b5c26adc9.webp"
+  },
+  {
+    "id": "222",
+    "category": "服装素材",
+    "description": "灰底人台职业装三视图，白色长袖衬衫配黑领带、黑短裙和蕾丝吊带丝袜，高跟鞋。",
+    "origin": "generated",
+    "image": "/library/91/91e20fa87823bd7c67aed51f90ca8c4f2b1c2ce2844f7477c6f78c090cd8b882-thumb.webp",
+    "full": "/library/91/91e20fa87823bd7c67aed51f90ca8c4f2b1c2ce2844f7477c6f78c090cd8b882.webp"
+  },
+  {
+    "id": "223",
+    "category": "服装素材",
+    "description": "黑色挂脖露背紧身短裙人台三视，腰间金色链条，胸前挂工作牌。",
+    "origin": "generated",
+    "image": "/library/9e/9e01a6d765e38b60d3627c379cec4b991cbcfe60a2407be723b0788a847c5f76-thumb.webp",
+    "full": "/library/9e/9e01a6d765e38b60d3627c379cec4b991cbcfe60a2407be723b0788a847c5f76.webp"
+  },
+  {
+    "id": "224",
+    "category": "服装素材",
+    "description": "白色人台展示白色衬衫、黑色背带短裙、黑丝袜和挂胸证件，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/f5/f58afb2347c22205e7753577932dd9593a9df45120c0466384dbee896d802cab-thumb.webp",
+    "full": "/library/f5/f58afb2347c22205e7753577932dd9593a9df45120c0466384dbee896d802cab.webp"
+  },
+  {
+    "id": "225",
+    "category": "服装素材",
+    "description": "白底无头人台全身展示：金色装饰黑色短西装、胸前打结白衬衫、开衩黑短裙、黑丝袜与高跟鞋。",
+    "origin": "generated",
+    "image": "/library/ad/ad7f741aad8c7f298221a2a687f299521e3bb2013652d23e62ea88c97fd461c7-thumb.webp",
+    "full": "/library/ad/ad7f741aad8c7f298221a2a687f299521e3bb2013652d23e62ea88c97fd461c7.webp"
+  },
+  {
+    "id": "226",
+    "category": "服装素材",
+    "description": "白底无头人台正面全身：短袖翻领白衬衫在胸前打结，配白腰带、开衩黑短裙、黑丝袜和高跟鞋。",
+    "origin": "generated",
+    "image": "/library/b7/b70a0aa6aeadcf5d0919fcb969ec8d55aa492fc3ef8d235e8a8da90741497037-thumb.webp",
+    "full": "/library/b7/b70a0aa6aeadcf5d0919fcb969ec8d55aa492fc3ef8d235e8a8da90741497037.webp"
+  },
+  {
+    "id": "227",
+    "category": "服装素材",
+    "description": "白底人台全身穿搭：短袖白色翻领衬衫束入黑色开衩短裙，配白腰带、黑丝袜与黑高跟鞋。",
+    "origin": "generated",
+    "image": "/library/e0/e043288d58f19cb96090eea9cdc1794769a1b4a51dbf12c45e55fef534cbe999-thumb.webp",
+    "full": "/library/e0/e043288d58f19cb96090eea9cdc1794769a1b4a51dbf12c45e55fef534cbe999.webp"
+  },
+  {
+    "id": "228",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；白色毛绒领连帽短上衣配深蓝牛仔短裤、白色堆袜与运动鞋，搭配银色肩包。",
+    "origin": "generated",
+    "image": "/library/52/52d96bc5d7e124e51b6a1ad5d867d4c4c32d29bb6777a4c3fd74fe5da43c53df-thumb.webp",
+    "full": "/library/52/52d96bc5d7e124e51b6a1ad5d867d4c4c32d29bb6777a4c3fd74fe5da43c53df.webp"
+  },
+  {
+    "id": "229",
+    "category": "服装素材",
+    "description": "黑色皮衣、白色短上衣、黑短裤和黑色高靴在人台上展示正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/18/186d996ab786540915b6b9f69523884ed06c4ce41cf7d393612e61795beb5884-thumb.webp",
+    "full": "/library/18/186d996ab786540915b6b9f69523884ed06c4ce41cf7d393612e61795beb5884.webp"
+  },
+  {
+    "id": "230",
+    "category": "服装素材",
+    "description": "粉色波点束身上衣配黑色短外套、分层短裙和颈饰，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/38/383145ba13cf837b7acf68b5bfbb952f3349fcd606eb6c4b91a4735caed7a986-thumb.webp",
+    "full": "/library/38/383145ba13cf837b7acf68b5bfbb952f3349fcd606eb6c4b91a4735caed7a986.webp"
+  },
+  {
+    "id": "231",
+    "category": "服装素材",
+    "description": "白底人台黑色穿搭三视图，皮质短外套配连体短衣、黑丝袜与高跟鞋。",
+    "origin": "generated",
+    "image": "/library/6d/6d25d5b590aa6b91441d9c4eb579c92d7cbb13acc51006f5ab3eab717add8808-thumb.webp",
+    "full": "/library/6d/6d25d5b590aa6b91441d9c4eb579c92d7cbb13acc51006f5ab3eab717add8808.webp"
+  },
+  {
+    "id": "232",
+    "category": "服装素材",
+    "description": "白底人台三视图，红色蕾丝七分袖上衣配黑色紧身皮短裙、黑丝袜和高跟鞋，颈部黑带。",
+    "origin": "generated",
+    "image": "/library/86/8693c23e719b2f204fcba80a311572552f639d7d448369cfca47305b4d2b1f70-thumb.webp",
+    "full": "/library/86/8693c23e719b2f204fcba80a311572552f639d7d448369cfca47305b4d2b1f70.webp"
+  },
+  {
+    "id": "233",
+    "category": "服装素材",
+    "description": "黑色短皮夹克配短裤和过膝高跟靴的人台三视，配黑色手袋。",
+    "origin": "generated",
+    "image": "/library/c0/c0a50edcce5c359f60a610c5e5f02c4caae88f1fbe94e6eafe85ed00cd82f120-thumb.webp",
+    "full": "/library/c0/c0a50edcce5c359f60a610c5e5f02c4caae88f1fbe94e6eafe85ed00cd82f120.webp"
+  },
+  {
+    "id": "234",
+    "category": "服装素材",
+    "description": "黑色短皮夹克、短裤和过膝高跟靴的人台三视，配腰带与手袋。",
+    "origin": "generated",
+    "image": "/library/cb/cbb2d43ecc68d5f1ae364910795e0a74ec2b76a7a6b549f552641c95830409f6-thumb.webp",
+    "full": "/library/cb/cbb2d43ecc68d5f1ae364910795e0a74ec2b76a7a6b549f552641c95830409f6.webp"
+  },
+  {
+    "id": "235",
+    "category": "服装素材",
+    "description": "白色人台展示深蓝长袖交叉短上衣与灰色紧身长裤，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/de/de70d0e80fde90ef0a97edc6c4c4c777843ea91199b341bfaefba26a58670aeb-thumb.webp",
+    "full": "/library/de/de70d0e80fde90ef0a97edc6c4c4c777843ea91199b341bfaefba26a58670aeb.webp"
+  },
+  {
+    "id": "236",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；象牙白细肩带短连衣裙，垂褶领口、收腰及光泽面料。",
+    "origin": "generated",
+    "image": "/library/47/47d75235a085c0615f1c9788fd2b25f96a2be99a94d7c71b3f93c3a754fc943c-thumb.webp",
+    "full": "/library/47/47d75235a085c0615f1c9788fd2b25f96a2be99a94d7c71b3f93c3a754fc943c.webp"
+  },
+  {
+    "id": "237",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；米白色宽肩带修身短连衣裙，前圆领、后背低圆领。",
+    "origin": "generated",
+    "image": "/library/3b/3be9742ddb522920994204d53792dc6e9c63f98629d1e29054ebcaf77a2e8a04-thumb.webp",
+    "full": "/library/3b/3be9742ddb522920994204d53792dc6e9c63f98629d1e29054ebcaf77a2e8a04.webp"
+  },
+  {
+    "id": "238",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；白色短袖翻领短连衣裙，交叠前胸、蓬散裙摆，配宽黑腰带与金色项链。",
+    "origin": "generated",
+    "image": "/library/1e/1ec1f5d18f63cc73dae98a2eaec2633a8636123faf7dddb07fa9eb0adff0b7be-thumb.webp",
+    "full": "/library/1e/1ec1f5d18f63cc73dae98a2eaec2633a8636123faf7dddb07fa9eb0adff0b7be.webp"
+  },
+  {
+    "id": "239",
+    "category": "服装素材",
+    "description": "浅粉露肩短袖短裙配金色小手提包，在无脸人台上展示正面、侧面与背面。",
+    "origin": "generated",
+    "image": "/library/35/35caa2266da1e38da9ba7c8c4b2824a1df89e26b9a05cbe6ee4112ebaec3431a-thumb.webp",
+    "full": "/library/35/35caa2266da1e38da9ba7c8c4b2824a1df89e26b9a05cbe6ee4112ebaec3431a.webp"
+  },
+  {
+    "id": "240",
+    "category": "服装素材",
+    "description": "白色蕾丝短袖上衣搭配同色包臀短裙，腰部有层叠蕾丝饰边，人台三视图。",
+    "origin": "generated",
+    "image": "/library/4a/4a8fc101b67b9d1b821cfd86d710f61d2b2e4df3206b627a5265722d837a7f74-thumb.webp",
+    "full": "/library/4a/4a8fc101b67b9d1b821cfd86d710f61d2b2e4df3206b627a5265722d837a7f74.webp"
+  },
+  {
+    "id": "241",
+    "category": "服装素材",
+    "description": "粉白色蕾丝荷叶边短裙的人台三视，配小圆筒形浅色手袋。",
+    "origin": "generated",
+    "image": "/library/cb/cb4cdbe5b980a4b20243a27783eee56c005e8636e1f58cc8d670792f0065ed99-thumb.webp",
+    "full": "/library/cb/cb4cdbe5b980a4b20243a27783eee56c005e8636e1f58cc8d670792f0065ed99.webp"
+  },
+  {
+    "id": "242",
+    "category": "服装素材",
+    "description": "白色人台展示浅杏色花纹短裙套装，领口有结饰，含正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/e2/e28f63e440fe722e1dbb39ba61536a38e0a5f233ab47603414d6ff635dfbff79-thumb.webp",
+    "full": "/library/e2/e28f63e440fe722e1dbb39ba61536a38e0a5f233ab47603414d6ff635dfbff79.webp"
+  },
+  {
+    "id": "243",
+    "category": "服装素材",
+    "description": "白底人台正侧背三视图；玫瑰粉色吊带上衣配浅蓝色破洞毛边牛仔短裤，佩戴手表。",
+    "origin": "generated",
+    "image": "/library/77/77b94810890fa468ab3a0e94e61140fe15706e0b50d59be89453e7573970bbf9-thumb.webp",
+    "full": "/library/77/77b94810890fa468ab3a0e94e61140fe15706e0b50d59be89453e7573970bbf9.webp"
+  },
+  {
+    "id": "244",
+    "category": "服装素材",
+    "description": "白底人台三视图，米白蕾丝边吊带上衣配米色短裤、棕腰带和编织手包。",
+    "origin": "generated",
+    "image": "/library/8c/8c1ccbbcce6ce2ad7235ec0d5fc6cfeca0a7941636ff77a6101d1aa1f6366aa5-thumb.webp",
+    "full": "/library/8c/8c1ccbbcce6ce2ad7235ec0d5fc6cfeca0a7941636ff77a6101d1aa1f6366aa5.webp"
+  },
+  {
+    "id": "245",
+    "category": "服装素材",
+    "description": "酒红色蕾丝边挂脖短裙在人台上展示三视图，前方长镂空开口，背后有颈部蝴蝶结垂带。",
+    "origin": "generated",
+    "image": "/library/25/257eb65338c092c410083f49892b69b94a0e4ec725a258cd19fb052d4e9f4c2a-thumb.webp",
+    "full": "/library/25/257eb65338c092c410083f49892b69b94a0e4ec725a258cd19fb052d4e9f4c2a.webp"
+  },
+  {
+    "id": "246",
+    "category": "服装素材",
+    "description": "酒红色蕾丝边挂脖短裙展示在人台上，前方长镂空开口、分层裙摆及后颈垂带，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/2c/2c9bce3cd97e931b265b443b188ae7c523362327344c2642228288311d7c7ae5-thumb.webp",
+    "full": "/library/2c/2c9bce3cd97e931b265b443b188ae7c523362327344c2642228288311d7c7ae5.webp"
+  },
+  {
+    "id": "247",
+    "category": "服装素材",
+    "description": "黑色亮面挂脖修身短裙的人台三视，胸前与侧面带交叉系绳。",
+    "origin": "generated",
+    "image": "/library/d0/d097801669fe8db1d31fbd48713635a10eaf45529ea998c045190b29c656fff1-thumb.webp",
+    "full": "/library/d0/d097801669fe8db1d31fbd48713635a10eaf45529ea998c045190b29c656fff1.webp"
+  },
+  {
+    "id": "248",
+    "category": "服装素材",
+    "description": "深蓝色短袖上衣和包臀短裙的人台三视，配浅色领巾与金色边线。",
+    "origin": "generated",
+    "image": "/library/9e/9e5d222c4d5a0f48427c62db3d00f31f00dd7f8ec205869fe439b7a3bedd52f9-thumb.webp",
+    "full": "/library/9e/9e5d222c4d5a0f48427c62db3d00f31f00dd7f8ec205869fe439b7a3bedd52f9.webp"
+  },
+  {
+    "id": "249",
+    "category": "服装素材",
+    "description": "粉色短袖红十字制服和白色围裙的人台三视，配粉色手袋。",
+    "origin": "generated",
+    "image": "/library/b7/b77572908d5a8f457492523a79e1a3c381e1943410299282b8c150c816f13b6c-thumb.webp",
+    "full": "/library/b7/b77572908d5a8f457492523a79e1a3c381e1943410299282b8c150c816f13b6c.webp"
+  },
+  {
+    "id": "250",
+    "category": "服装素材",
+    "description": "白色红边短袖修身制服人台三视，胸前红十字图案，配白色长袜和高跟鞋。",
+    "origin": "generated",
+    "image": "/library/bd/bd0d05e9e2534a0448b481fb7e6ccd01de5d3126a329c49d88c45f3c8ddcd01b-thumb.webp",
+    "full": "/library/bd/bd0d05e9e2534a0448b481fb7e6ccd01de5d3126a329c49d88c45f3c8ddcd01b.webp"
+  },
+  {
+    "id": "251",
+    "category": "服装素材",
+    "description": "白色人台展示黑色短袖制服式短裙套装，腰带、手套和腿环，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/e6/e64498c77d912a0a1b693a6a7e679e26874337b2e2f6111d87f0ab0410baf3ae-thumb.webp",
+    "full": "/library/e6/e64498c77d912a0a1b693a6a7e679e26874337b2e2f6111d87f0ab0410baf3ae.webp"
+  },
+  {
+    "id": "252",
+    "category": "服装素材",
+    "description": "白色人台展示黑色短袖制服短裙套装，配手套、腰带、腿环和高跟鞋，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/f7/f7dd882eae9707cd94df27af6e5f3498a3e50b06cbeb2dfd391098bc4f65fbf8-thumb.webp",
+    "full": "/library/f7/f7dd882eae9707cd94df27af6e5f3498a3e50b06cbeb2dfd391098bc4f65fbf8.webp"
+  },
+  {
+    "id": "253",
+    "category": "服装素材",
+    "description": "黑色金边男式制服套装，搭配白衬衫、酒红领带、深灰马甲、黑长裤及皮鞋，人台三视图。",
+    "origin": "generated",
+    "image": "/library/38/38c704e1380e779a038e0e85c2e840be94853d485db2ac016616ceb4b09d6ea2-thumb.webp",
+    "full": "/library/38/38c704e1380e779a038e0e85c2e840be94853d485db2ac016616ceb4b09d6ea2.webp"
+  },
+  {
+    "id": "254",
+    "category": "服装素材",
+    "description": "黑色缎面系带浴袍在人台上展示正面、侧面和背面，衣襟及袖口有浅色滚边。",
+    "origin": "generated",
+    "image": "/library/0c/0c59c4805806d99e07caa0eb59b7cccf04af0ff65d4ce6f6b8f94800aa0f8810-thumb.webp",
+    "full": "/library/0c/0c59c4805806d99e07caa0eb59b7cccf04af0ff65d4ce6f6b8f94800aa0f8810.webp"
+  },
+  {
+    "id": "255",
+    "category": "服装素材",
+    "description": "黑色蕾丝边短睡裙配黑色系带短袍，在无脸人台上展示正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/43/43fe6275641f273d066e306a6d83ab10d09de6d35c4fa2b4cfc24a251f28653b-thumb.webp",
+    "full": "/library/43/43fe6275641f273d066e306a6d83ab10d09de6d35c4fa2b4cfc24a251f28653b.webp"
+  },
+  {
+    "id": "256",
+    "category": "服装素材",
+    "description": "白底人台浅粉色细肩带短裙三视图，裙面羽毛质感纹理，裙摆一圈蓬松羽毛。",
+    "origin": "generated",
+    "image": "/library/73/73580ea50ea912bcbebeae455552f6401f543d7273751b66f0310bcb552e2bd0-thumb.webp",
+    "full": "/library/73/73580ea50ea912bcbebeae455552f6401f543d7273751b66f0310bcb552e2bd0.webp"
+  },
+  {
+    "id": "257",
+    "category": "服装素材",
+    "description": "白底人台金色居家套装三视图，花纹系带长袍，内搭同色翻领上衣与长裤。",
+    "origin": "generated",
+    "image": "/library/87/876fb4b7e6589b662b12acc909fd631c84419e32e8fc64065712c3ed528d223c-thumb.webp",
+    "full": "/library/87/876fb4b7e6589b662b12acc909fd631c84419e32e8fc64065712c3ed528d223c.webp"
+  },
+  {
+    "id": "258",
+    "category": "服装素材",
+    "description": "米白色垂褶包裹式短裙搭配金色链饰、面部围巾与金色绑带高靴，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/1a/1a24e636b6b0eb1080f63809edf095a82ce9d16c862d1535f3de8a1d0b5e3198-thumb.webp",
+    "full": "/library/1a/1a24e636b6b0eb1080f63809edf095a82ce9d16c862d1535f3de8a1d0b5e3198.webp"
+  },
+  {
+    "id": "259",
+    "category": "服装素材",
+    "description": "米白色蕾丝短裙在无面部人台上展示正面、侧面与背面，带颈部系带和花饰。",
+    "origin": "generated",
+    "image": "/library/04/04c5e4ec9da68a1c524d71ef022e0a2170db6fc8021bf634682ec27f4d3c0dcc-thumb.webp",
+    "full": "/library/04/04c5e4ec9da68a1c524d71ef022e0a2170db6fc8021bf634682ec27f4d3c0dcc.webp"
+  },
+  {
+    "id": "260",
+    "category": "服装素材",
+    "description": "白色蕾丝拼接短袖修身短裙的人台三视，胸部与下摆有花纹边。",
+    "origin": "generated",
+    "image": "/library/ac/ac844574009b3259bbfc41cbf34dd04cab8dbbba5a8b48986f0e3016487f06a5-thumb.webp",
+    "full": "/library/ac/ac844574009b3259bbfc41cbf34dd04cab8dbbba5a8b48986f0e3016487f06a5.webp"
+  },
+  {
+    "id": "261",
+    "category": "服装素材",
+    "description": "粉色短袖制服配白色短围裙的人台三视，胸前红十字图案，配粉色帽与手袋。",
+    "origin": "generated",
+    "image": "/library/b0/b01d22fa0cc31eaab74b6a219926f74de95ef09ea9f14526b16b4e80cdc1cc59-thumb.webp",
+    "full": "/library/b0/b01d22fa0cc31eaab74b6a219926f74de95ef09ea9f14526b16b4e80cdc1cc59.webp"
+  },
+  {
+    "id": "262",
+    "category": "服装素材",
+    "description": "白底人台深蓝短制服三视图，短袖短上衣与包臀短裙，金色滚边、领巾和小帽。",
+    "origin": "generated",
+    "image": "/library/76/769556763dcc137cfa77958ad4a91f4dd71281e56818e962d14d264e5ceb8453-thumb.webp",
+    "full": "/library/76/769556763dcc137cfa77958ad4a91f4dd71281e56818e962d14d264e5ceb8453.webp"
+  },
+  {
+    "id": "263",
+    "category": "服装素材",
+    "description": "白色短袖衬衫配深蓝色包臀短裙的人台三视，搭蓝色小帽、领巾与白手套。",
+    "origin": "generated",
+    "image": "/library/ab/ab957e27394c6167699f58e3cfb2bc6be1c434c2f96053ff6a01be2b30eb472d-thumb.webp",
+    "full": "/library/ab/ab957e27394c6167699f58e3cfb2bc6be1c434c2f96053ff6a01be2b30eb472d.webp"
+  },
+  {
+    "id": "264",
+    "category": "服装素材",
+    "description": "白底人台三视图，黑色口罩，红色蕾丝七分袖上衣配黑皮短裙、黑丝袜和高跟鞋。",
+    "origin": "generated",
+    "image": "/library/8b/8be84bc6ed6c6fe958b44dd63e988c997e4f22081f09bead9d03f860195cca94-thumb.webp",
+    "full": "/library/8b/8be84bc6ed6c6fe958b44dd63e988c997e4f22081f09bead9d03f860195cca94.webp"
+  },
+  {
+    "id": "265",
+    "category": "服装素材",
+    "description": "白底人台三视图，条纹长袖白衬衫配黑色背带短裙、黑丝袜和胸前工牌。",
+    "origin": "generated",
+    "image": "/library/64/6484ef7ff6af64d5cd39a8f14eafa16ecaf43b0d45773651015985ef7b398e3c-thumb.webp",
+    "full": "/library/64/6484ef7ff6af64d5cd39a8f14eafa16ecaf43b0d45773651015985ef7b398e3c.webp"
+  },
+  {
+    "id": "266",
+    "category": "服装素材",
+    "description": "白色卷袖衬衫搭灰色短裙的人台三视，配浅色小手袋。",
+    "origin": "generated",
+    "image": "/library/96/96f605f33cad33db666f4dca2625eef9e770b0b665101cf8e6440ec3d4c0bbf6-thumb.webp",
+    "full": "/library/96/96f605f33cad33db666f4dca2625eef9e770b0b665101cf8e6440ec3d4c0bbf6.webp"
+  },
+  {
+    "id": "267",
+    "category": "服装素材",
+    "description": "黑色V领半袖上衣搭配酒红色紧身短裙与细腰带，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/35/35da7e5c7747428f9b1be3e467caf9c38881ab29095795bb0ef0f4954dd61249-thumb.webp",
+    "full": "/library/35/35da7e5c7747428f9b1be3e467caf9c38881ab29095795bb0ef0f4954dd61249.webp"
+  },
+  {
+    "id": "268",
+    "category": "服装素材",
+    "description": "驼色收腰短风衣配格纹短裙的人台三视，搭黑色长靴和小手袋。",
+    "origin": "generated",
+    "image": "/library/c7/c790020dfe91e834b7977be68573b720a70149262ddd253d5f621de8700a021d-thumb.webp",
+    "full": "/library/c7/c790020dfe91e834b7977be68573b720a70149262ddd253d5f621de8700a021d.webp"
+  },
+  {
+    "id": "269",
+    "category": "服装素材",
+    "description": "白底人台米白色套装三视图，长西装配马甲和蕾丝短裤，金色项链与链条小包。",
+    "origin": "generated",
+    "image": "/library/6d/6d0661f866ce4aab62b688f261f6fa848a935038bdc69f0aeac5d93ecb2d8427-thumb.webp",
+    "full": "/library/6d/6d0661f866ce4aab62b688f261f6fa848a935038bdc69f0aeac5d93ecb2d8427.webp"
+  },
+  {
+    "id": "270",
+    "category": "服装素材",
+    "description": "黑色长袖制服连身短装的人台三视，配黑帽、徽章、腰带与腿部束带。",
+    "origin": "generated",
+    "image": "/library/c5/c5b4a00b00100f97f7564b595170e7de2ff7f1b793f2f2c7f197f90a9bad9512-thumb.webp",
+    "full": "/library/c5/c5b4a00b00100f97f7564b595170e7de2ff7f1b793f2f2c7f197f90a9bad9512.webp"
+  },
+  {
+    "id": "271",
+    "category": "服装素材",
+    "description": "白色短袖衬衫搭黑色短裙和丝袜的人台三视，挂工作牌并拿文件夹。",
+    "origin": "generated",
+    "image": "/library/9c/9c675645e205da4de7dbd0661f1e45635d2cc0a47762de403f00ac6e5609b7be-thumb.webp",
+    "full": "/library/9c/9c675645e205da4de7dbd0661f1e45635d2cc0a47762de403f00ac6e5609b7be.webp"
+  },
+  {
+    "id": "272",
+    "category": "服装素材",
+    "description": "白色短袖衬衫搭黑色束腰短裙的人台三视，配黑色长袜与高跟鞋。",
+    "origin": "generated",
+    "image": "/library/a6/a61bd2400943603dae1857c1d18a2f5de46dbf87aae362002f1a96faa8ac5f5f-thumb.webp",
+    "full": "/library/a6/a61bd2400943603dae1857c1d18a2f5de46dbf87aae362002f1a96faa8ac5f5f.webp"
+  },
+  {
+    "id": "273",
+    "category": "服装素材",
+    "description": "白底人台米白色挂脖短裙三视图，前胸垂领、裙身横向褶皱，露背设计。",
+    "origin": "generated",
+    "image": "/library/6f/6fe6017cb673d1b658f78c02cbf88c2a350bcdf7c01bdf6734c398f7de240d16-thumb.webp",
+    "full": "/library/6f/6fe6017cb673d1b658f78c02cbf88c2a350bcdf7c01bdf6734c398f7de240d16.webp"
+  },
+  {
+    "id": "274",
+    "category": "服装素材",
+    "description": "香槟色亮片吊带开衩长礼服人台三视，配浅色小手袋与高跟鞋。",
+    "origin": "generated",
+    "image": "/library/bd/bd94732566695b689facdd6b41308b9559a2d0f2d16bf32d717442dcaafcf29f-thumb.webp",
+    "full": "/library/bd/bd94732566695b689facdd6b41308b9559a2d0f2d16bf32d717442dcaafcf29f.webp"
+  },
+  {
+    "id": "275",
+    "category": "服装素材",
+    "description": "香槟色露肩短裙，束身腰部与不对称垂布裙摆，配金色颈饰，人台三视图。",
+    "origin": "generated",
+    "image": "/library/3f/3f0e794415a9d51bc7bb5b148154b8935b6054a702d79df609a1d4b44ed483fd-thumb.webp",
+    "full": "/library/3f/3f0e794415a9d51bc7bb5b148154b8935b6054a702d79df609a1d4b44ed483fd.webp"
+  },
+  {
+    "id": "276",
+    "category": "服装素材",
+    "description": "米白色挂脖露背修身短裙的人台三视，配银色手袋与高跟鞋。",
+    "origin": "generated",
+    "image": "/library/b3/b30b61ac9338bb171046785f398245897e18202e414106937a4b6b1b413765a5-thumb.webp",
+    "full": "/library/b3/b30b61ac9338bb171046785f398245897e18202e414106937a4b6b1b413765a5.webp"
+  },
+  {
+    "id": "277",
+    "category": "服装素材",
+    "description": "银色亮面抹胸短裙配白色毛绒袖披和银色高跟鞋，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/2d/2d78fad0f4e18ad17354a8cecaed10c07da8cba8db4d47d5b0c4a3c042785597-thumb.webp",
+    "full": "/library/2d/2d78fad0f4e18ad17354a8cecaed10c07da8cba8db4d47d5b0c4a3c042785597.webp"
+  },
+  {
+    "id": "278",
+    "category": "服装素材",
+    "description": "米白色针织开衫和方领修身短裙的人台三视，搭配黑色小手袋。",
+    "origin": "generated",
+    "image": "/library/93/934a2dac57cfe8d13878ac74939c847c679db6dfb0cf30d4578bfc05013e6993-thumb.webp",
+    "full": "/library/93/934a2dac57cfe8d13878ac74939c847c679db6dfb0cf30d4578bfc05013e6993.webp"
+  },
+  {
+    "id": "279",
+    "category": "服装素材",
+    "description": "米金色露肩束腰短裙，带垂布裙摆与小手提包，佩戴项链耳饰的人台三视图。",
+    "origin": "generated",
+    "image": "/library/46/467743aa43d21ee0a145176b86e5cdf4784d999041def1e22e545f6f65494492-thumb.webp",
+    "full": "/library/46/467743aa43d21ee0a145176b86e5cdf4784d999041def1e22e545f6f65494492.webp"
+  },
+  {
+    "id": "280",
+    "category": "服装素材",
+    "description": "香槟色抹胸短礼服人台三视，腰部褶皱与花饰，佩戴金色项链。",
+    "origin": "generated",
+    "image": "/library/9d/9da44e1bc4a34499d487cbac5e10014e4ce89b56dc6b03df0752138e7945cfc8-thumb.webp",
+    "full": "/library/9d/9da44e1bc4a34499d487cbac5e10014e4ce89b56dc6b03df0752138e7945cfc8.webp"
+  },
+  {
+    "id": "281",
+    "category": "服装素材",
+    "description": "粉色波点束身上衣配黑色短外套、黑色分层短裙与蕾丝颈饰，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/07/071375afa1770c7f08254e8a04794e483ac9c7105f0d7655a512fbf71d403ae2-thumb.webp",
+    "full": "/library/07/071375afa1770c7f08254e8a04794e483ac9c7105f0d7655a512fbf71d403ae2.webp"
+  },
+  {
+    "id": "282",
+    "category": "服装素材",
+    "description": "浅粉露肩短袖连衣短裙搭配金色手提包与项链，在人台上展示正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/2f/2fb63980c17f1ad0f9e1f2274c071e690cdbfac9cd8657955b130938ac20910d-thumb.webp",
+    "full": "/library/2f/2fb63980c17f1ad0f9e1f2274c071e690cdbfac9cd8657955b130938ac20910d.webp"
+  },
+  {
+    "id": "283",
+    "category": "服装素材",
+    "description": "白底人台浅粉抹胸短裙三视图，紧身上身配后腰巨大蝴蝶结，裙身平直。",
+    "origin": "generated",
+    "image": "/library/81/819ead14d41d15c7e135355151bbd594cbf40cd798b3f41bfb81395987670328-thumb.webp",
+    "full": "/library/81/819ead14d41d15c7e135355151bbd594cbf40cd798b3f41bfb81395987670328.webp"
+  },
+  {
+    "id": "284",
+    "category": "服装素材",
+    "description": "粉白色蕾丝荷叶边短裙的人台三视，肩带花饰并配浅色小手袋。",
+    "origin": "generated",
+    "image": "/library/9d/9def0ae2702ac934eaf6c28395170d629a52abb1c750d51698764b30fba20b7c-thumb.webp",
+    "full": "/library/9d/9def0ae2702ac934eaf6c28395170d629a52abb1c750d51698764b30fba20b7c.webp"
+  },
+  {
+    "id": "285",
+    "category": "服装素材",
+    "description": "白底人台短裙三视图，黑色紧身抹胸配白色蕾丝边，粉白蓬裙和粉色手包。",
+    "origin": "generated",
+    "image": "/library/87/8761fc3711e05431c38c7f91513d6d909c6414cb1bf901ac459d47029c19830e-thumb.webp",
+    "full": "/library/87/8761fc3711e05431c38c7f91513d6d909c6414cb1bf901ac459d47029c19830e.webp"
+  },
+  {
+    "id": "286",
+    "category": "服装素材",
+    "description": "白色人台展示粉色细吊带分层短裙，配颈饰和手镯，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/ef/eff4c6c024792a709cd6e00b45d1b07ab2cd97abb631d421ed31c24b8abb828a-thumb.webp",
+    "full": "/library/ef/eff4c6c024792a709cd6e00b45d1b07ab2cd97abb631d421ed31c24b8abb828a.webp"
+  },
+  {
+    "id": "287",
+    "category": "服装素材",
+    "description": "淡黄色荷叶边短裙与白色小挎包，在人台上展示正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/08/089556d3747f0c748d51b5805807acff18bbd08dd80673942f7dffa91d9f000e-thumb.webp",
+    "full": "/library/08/089556d3747f0c748d51b5805807acff18bbd08dd80673942f7dffa91d9f000e.webp"
+  },
+  {
+    "id": "288",
+    "category": "服装素材",
+    "description": "浅蓝色抹胸蕾丝蓬裙人台三视，短裙下摆有白色多层荷叶边。",
+    "origin": "generated",
+    "image": "/library/a7/a71473f62a77b779344236ba7895a0a64e9637fc8b823fc4a336389cb9bdc8aa-thumb.webp",
+    "full": "/library/a7/a71473f62a77b779344236ba7895a0a64e9637fc8b823fc4a336389cb9bdc8aa.webp"
+  },
+  {
+    "id": "289",
+    "category": "服装素材",
+    "description": "白色人台展示粉色束腰式抹胸短裙，领前蝴蝶结及同色腕饰，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/f6/f636e9817724bff1713ebbe7599f1ca21d7eb3c09a27730273ba24a64291bc43-thumb.webp",
+    "full": "/library/f6/f636e9817724bff1713ebbe7599f1ca21d7eb3c09a27730273ba24a64291bc43.webp"
+  },
+  {
+    "id": "290",
+    "category": "服装素材",
+    "description": "白底人台米白色短礼服三视图，露肩花边、紧身束腰和多层荷叶裙摆，配珍珠链、小包及高跟鞋。",
+    "origin": "generated",
+    "image": "/library/91/917b65080fccc17abd8044368ed4fbd2f44722c4c6d2e6f30185131dbf94c623-thumb.webp",
+    "full": "/library/91/917b65080fccc17abd8044368ed4fbd2f44722c4c6d2e6f30185131dbf94c623.webp"
+  },
+  {
+    "id": "291",
+    "category": "服装素材",
+    "description": "白底人台黑色吊带短蓬裙三视图，链条肩带，配黑手套和银色小包。",
+    "origin": "generated",
+    "image": "/library/4c/4cce6d758ddf7cf380f5c4f34812f9a8ef52ef00cbeced847222de9df3b32fcf-thumb.webp",
+    "full": "/library/4c/4cce6d758ddf7cf380f5c4f34812f9a8ef52ef00cbeced847222de9df3b32fcf.webp"
+  },
+  {
+    "id": "292",
+    "category": "服装素材",
+    "description": "白底人台米白短裙三视图，胸腹处半透明紧身结构，配多层珍珠链和米色手包。",
+    "origin": "generated",
+    "image": "/library/58/5898cd828fa387cd38d4e7eb3142b827a02b7dce51462aa41332c93b69a2809a-thumb.webp",
+    "full": "/library/58/5898cd828fa387cd38d4e7eb3142b827a02b7dce51462aa41332c93b69a2809a.webp"
+  },
+  {
+    "id": "293",
+    "category": "服装素材",
+    "description": "白底人台淡紫色贴身短裙三视图，横向褶皱、露肩长袖，裙长至大腿。",
+    "origin": "generated",
+    "image": "/library/54/54a2b8ad0f5ca925edfcbb37fd057c17b7b9857cd7fc2615281eade43c9a826a-thumb.webp",
+    "full": "/library/54/54a2b8ad0f5ca925edfcbb37fd057c17b7b9857cd7fc2615281eade43c9a826a.webp"
+  },
+  {
+    "id": "294",
+    "category": "服装素材",
+    "description": "白色人台展示浅粉短袖低领上衣与白色高腰短裤，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/fb/fb629888d98d9925d80e26b93f3cbcc9a3a2e95812a9ac6abd7d87a0e5bb1996-thumb.webp",
+    "full": "/library/fb/fb629888d98d9925d80e26b93f3cbcc9a3a2e95812a9ac6abd7d87a0e5bb1996.webp"
+  },
+  {
+    "id": "295",
+    "category": "服装素材",
+    "description": "白底人台日常装三视图，米白短袖短上衣配蓝绿牛仔短裙，佩吊坠项链。",
+    "origin": "generated",
+    "image": "/library/71/713abe92f166fbb16440124a2054b716dd1d27e72bcce81a31c73a98a574bd7b-thumb.webp",
+    "full": "/library/71/713abe92f166fbb16440124a2054b716dd1d27e72bcce81a31c73a98a574bd7b.webp"
+  },
+  {
+    "id": "296",
+    "category": "服装素材",
+    "description": "白色人台展示酒红露肩上衣、黑色高腰短裤、黑色包和高跟凉鞋，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/e9/e90a84662058984b4d40b8fc70b580da48204214b0fab4a6ccf222b77829d752-thumb.webp",
+    "full": "/library/e9/e90a84662058984b4d40b8fc70b580da48204214b0fab4a6ccf222b77829d752.webp"
+  },
+  {
+    "id": "297",
+    "category": "服装素材",
+    "description": "淡粉色交叠领长袖上衣搭配白色蕾丝边短裙和浅色肩包，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/29/29ca48d92543084df59b2b2ab5b94ce0e59ab172dd7f906a38db0b27051df9cd-thumb.webp",
+    "full": "/library/29/29ca48d92543084df59b2b2ab5b94ce0e59ab172dd7f906a38db0b27051df9cd.webp"
+  },
+  {
+    "id": "298",
+    "category": "服装素材",
+    "description": "白底人台运动装三视图，深蓝交叉V领长袖短上衣与灰蓝色高腰紧身长裤。",
+    "origin": "generated",
+    "image": "/library/7c/7c9ed9ab8db9a38ebe0f2231604baf6f7334599c5131296b176a953e11a6d4f9-thumb.webp",
+    "full": "/library/7c/7c9ed9ab8db9a38ebe0f2231604baf6f7334599c5131296b176a953e11a6d4f9.webp"
+  },
+  {
+    "id": "299",
+    "category": "服装素材",
+    "description": "酒红色露肩长袖上衣搭配黑色褶皱短裙、黑丝袜及颈部系带，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/27/27d04bb90896138e9e30b03fcf9014b9e9530216487fb68eddee1b5a1e1384f8-thumb.webp",
+    "full": "/library/27/27d04bb90896138e9e30b03fcf9014b9e9530216487fb68eddee1b5a1e1384f8.webp"
+  },
+  {
+    "id": "300",
+    "category": "服装素材",
+    "description": "白底人台香槟金色吊带短裙三视图，缎面裙摆和蕾丝紧身腰部，配细项链。",
+    "origin": "generated",
+    "image": "/library/60/6024f8df652de52f61ef2de514e7ab6827aae6ebbe5b5b51f81ac1aa8f148a9e-thumb.webp",
+    "full": "/library/60/6024f8df652de52f61ef2de514e7ab6827aae6ebbe5b5b51f81ac1aa8f148a9e.webp"
+  },
+  {
+    "id": "301",
+    "category": "服装素材",
+    "description": "灰色细肩带针织长裙人台三视，腰部有细腰带，下摆侧开衩。",
+    "origin": "generated",
+    "image": "/library/cb/cba0cf18be5bfe2a121f6e662267771784b3a3f3c96e020c8175ccc34fa672f9-thumb.webp",
+    "full": "/library/cb/cba0cf18be5bfe2a121f6e662267771784b3a3f3c96e020c8175ccc34fa672f9.webp"
+  },
+  {
+    "id": "302",
+    "category": "服装素材",
+    "description": "黑色皮质短夹克搭高腰短裤的人台三视，配黑丝袜和细高跟鞋。",
+    "origin": "generated",
+    "image": "/library/d5/d59891177e27995f928ae1a00e09c9ad544f3b159562b654ac0232448081a980-thumb.webp",
+    "full": "/library/d5/d59891177e27995f928ae1a00e09c9ad544f3b159562b654ac0232448081a980.webp"
+  },
+  {
+    "id": "303",
+    "category": "服装素材",
+    "description": "黑色皮夹克、白色短上衣、黑短裤、黑色厚底长靴及肩包在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/2f/2f0bc062aba87056f95deed163c2809e96e9b63fcbf0e8ab901c1dce82731290-thumb.webp",
+    "full": "/library/2f/2f0bc062aba87056f95deed163c2809e96e9b63fcbf0e8ab901c1dce82731290.webp"
+  },
+  {
+    "id": "304",
+    "category": "服装素材",
+    "description": "白底人台黑色服装三视图，短皮衣配黑色短连体衣、宽腰带、过膝长靴和黑色手包。",
+    "origin": "generated",
+    "image": "/library/83/83f40dcd18d181a52802659009be3b62bb765b2d16617e35a2e93506b1621eca-thumb.webp",
+    "full": "/library/83/83f40dcd18d181a52802659009be3b62bb765b2d16617e35a2e93506b1621eca.webp"
+  },
+  {
+    "id": "305",
+    "category": "服装素材",
+    "description": "白色人台展示棕灰色短西装和包臀短裙，黑色丝袜及花纹高跟鞋，含正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/ee/ee553b8854ccd6a1c46c880fba5ab3611f7d7c5ce3042f8b5e94becdbd9134a6-thumb.webp",
+    "full": "/library/ee/ee553b8854ccd6a1c46c880fba5ab3611f7d7c5ce3042f8b5e94becdbd9134a6.webp"
+  },
+  {
+    "id": "306",
+    "category": "服装素材",
+    "description": "白色人台展示浅杏色前结抹胸上衣和白色短裤，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/e1/e189e61c4baaca9043b133d9b22a39990a8d5ab74bf0edfc5613e117bfadcb70-thumb.webp",
+    "full": "/library/e1/e189e61c4baaca9043b133d9b22a39990a8d5ab74bf0edfc5613e117bfadcb70.webp"
+  },
+  {
+    "id": "307",
+    "category": "服装素材",
+    "description": "白底人台三视图，浅桃色系带上衣与长袖开衫，白色短裤，配米白手包。",
+    "origin": "generated",
+    "image": "/library/56/569dbbceafdffa2e99e0ea1e4b5d4715a42c04d04a7419afb66338d93c4bf092-thumb.webp",
+    "full": "/library/56/569dbbceafdffa2e99e0ea1e4b5d4715a42c04d04a7419afb66338d93c4bf092.webp"
+  },
+  {
+    "id": "308",
+    "category": "服装素材",
+    "description": "白底人台三视图，浅粉长袖系带领衬衫配米白色包臀短裙。",
+    "origin": "generated",
+    "image": "/library/55/555b7530e604556a2e59316dee0dbce134315e4d9b9cf9e323bc98b93f1fc629-thumb.webp",
+    "full": "/library/55/555b7530e604556a2e59316dee0dbce134315e4d9b9cf9e323bc98b93f1fc629.webp"
+  },
+  {
+    "id": "309",
+    "category": "服装素材",
+    "description": "紫红色长袖衬衫搭配黑色短裙、颈圈和黑色手提包，在白色人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/05/05e11d65a227c795a501ce610bcc3c415693365630642cc2f8d4d2f7e4bd9afb-thumb.webp",
+    "full": "/library/05/05e11d65a227c795a501ce610bcc3c415693365630642cc2f8d4d2f7e4bd9afb.webp"
+  },
+  {
+    "id": "310",
+    "category": "服装素材",
+    "description": "白色人台展示红棕色西装马甲短裙套装，配黑色小包和高跟鞋，正侧背三视图。",
+    "origin": "generated",
+    "image": "/library/f6/f6ce4295431d7cf2163a0597d208878b494742d1e951f395dd7ceeac74b91fa4-thumb.webp",
+    "full": "/library/f6/f6ce4295431d7cf2163a0597d208878b494742d1e951f395dd7ceeac74b91fa4.webp"
+  },
+  {
+    "id": "311",
+    "category": "服装素材",
+    "description": "米白短袖水手领上衣搭配红色领结、深蓝百褶短裙和白色长袜，在人台上展示三视图。",
+    "origin": "generated",
+    "image": "/library/2c/2cd782a5eefc59412f5f61fc3f1b734b81e797c331590a1338e8b1669cddae71-thumb.webp",
+    "full": "/library/2c/2cd782a5eefc59412f5f61fc3f1b734b81e797c331590a1338e8b1669cddae71.webp"
+  },
+  {
+    "id": "312",
+    "category": "服装素材",
+    "description": "白底人台学院风服装三视图，白长袖海军领上衣配红领结、黑色短褶裙与银色小包。",
+    "origin": "generated",
+    "image": "/library/91/914fa9cf6016a9181e9d3fa9c1d9537451b1dce5c3fc8cdc355193f20ed4202b-thumb.webp",
+    "full": "/library/91/914fa9cf6016a9181e9d3fa9c1d9537451b1dce5c3fc8cdc355193f20ed4202b.webp"
+  },
+  {
+    "id": "313",
+    "category": "服装素材",
+    "description": "红色皮质外套搭黑短裙与黑色过膝高跟靴的人台三视。",
+    "origin": "generated",
+    "image": "/library/a2/a2829aace8528b5b0e7b6f64cc76ec1eb05ef8c50887d96d360b0a05d30e7968-thumb.webp",
+    "full": "/library/a2/a2829aace8528b5b0e7b6f64cc76ec1eb05ef8c50887d96d360b0a05d30e7968.webp"
+  },
+  {
+    "id": "314",
+    "category": "服装素材",
+    "description": "白底人台三视图，黑色皮质短外套配红色高领上衣、黑色铆钉短裙和黑手包。",
+    "origin": "generated",
+    "image": "/library/77/77b83a3457fd57e9f70ef0525fd405c48590f77355950d42f0a1dbb72610a322-thumb.webp",
+    "full": "/library/77/77b83a3457fd57e9f70ef0525fd405c48590f77355950d42f0a1dbb72610a322.webp"
+  },
+  {
+    "id": "315",
+    "category": "服装素材",
+    "description": "黑色露肩镂空长袖上衣搭黑色皱褶皮短裙的人台三视。",
+    "origin": "generated",
+    "image": "/library/d9/d9e8982bd18b3d13a2325c2a3dcb801da6751fac8cd0df25556fb685e72b99f4-thumb.webp",
+    "full": "/library/d9/d9e8982bd18b3d13a2325c2a3dcb801da6751fac8cd0df25556fb685e72b99f4.webp"
+  },
+  {
+    "id": "316",
+    "category": "场景素材",
+    "description": "学院办公室黄昏：深木书桌、黑色皮椅、双客椅、书架、奖杯柜、百叶高窗，主墙为蓝金校徽和证书。",
+    "origin": "reference",
+    "image": "/library/e4/e47c1ea72831fbf90deb02414e658ab2170ed0d8af82a3f389d89bed5e20c666-thumb.webp",
+    "full": "/library/e4/e47c1ea72831fbf90deb02414e658ab2170ed0d8af82a3f389d89bed5e20c666.webp"
+  },
+  {
+    "id": "317",
+    "category": "场景素材",
+    "description": "学院办公室黄昏：深木书桌、黑色皮椅、双客椅、书架与奖杯柜，主墙改为建筑风景画和植物挂画。",
+    "origin": "reference",
+    "image": "/library/7d/7dd87b207e8b5a61ec4678efd532a75f9139114f5772f1ae65ec912eabbe0942-thumb.webp",
+    "full": "/library/7d/7dd87b207e8b5a61ec4678efd532a75f9139114f5772f1ae65ec912eabbe0942.webp"
+  },
+  {
+    "id": "318",
+    "category": "场景素材",
+    "description": "深木学院会客室黄昏：黑色皮沙发围绕石材茶几，蓝金校徽挂画、徽章靠垫、球形道具、书架及侧柜。",
+    "origin": "reference",
+    "image": "/library/ae/ae8c1f8fb1ea9fd10a7f17800e5891316853d84136fad0510d7f9cd014c57dd9-thumb.webp",
+    "full": "/library/ae/ae8c1f8fb1ea9fd10a7f17800e5891316853d84136fad0510d7f9cd014c57dd9.webp"
+  },
+  {
+    "id": "319",
+    "category": "场景素材",
+    "description": "深木会客室黄昏：黑色皮沙发、亮面石材茶几、黄铜灯具与书架，主墙为金线抽象画及建筑照片。",
+    "origin": "reference",
+    "image": "/library/68/68219dec6b1369df787e63c68122f477574400aafdf2b971ac279f1c0e65a16b-thumb.webp",
+    "full": "/library/68/68219dec6b1369df787e63c68122f477574400aafdf2b971ac279f1c0e65a16b.webp"
+  },
+  {
+    "id": "320",
+    "category": "场景素材",
+    "description": "紧凑校园行政办公室黄昏：木书桌、黑色办公椅、双访客椅、灰色文件柜、公告板、书架与磨砂玻璃门。",
+    "origin": "reference",
+    "image": "/library/18/187f8dc25f0af9e5903f4bba11fb8b8a03ea500823e715ef2b9d84f4d9ec4b6b-thumb.webp",
+    "full": "/library/18/187f8dc25f0af9e5903f4bba11fb8b8a03ea500823e715ef2b9d84f4d9ec4b6b.webp"
+  },
+  {
+    "id": "321",
+    "category": "场景素材",
+    "description": "现代卧室黄昏：软包双人床、粉藕色织物、床尾凳、梳妆镜与抽屉柜，开门可见石材卫浴，窗外晚霞。",
+    "origin": "reference",
+    "image": "/library/ef/ef205fc650cbdd97257dfe7496e2fe1b89075e41693762466ffcf03cb8460ab6-thumb.webp",
+    "full": "/library/ef/ef205fc650cbdd97257dfe7496e2fe1b89075e41693762466ffcf03cb8460ab6.webp"
+  },
+  {
+    "id": "322",
+    "category": "场景素材",
+    "description": "红黑金双层夜间会所：中央舞台与立杆、红色帷幕和玫瑰标识，左侧长吧台、楼梯、二层栏杆及悬吊鸟笼造型装饰。",
+    "origin": "reference",
+    "image": "/library/e9/e9218e1d808c9ee602fb8ab7f6b518f27e8c64c7c37cde00ad46ddcef2f882b3-thumb.webp",
+    "full": "/library/e9/e9218e1d808c9ee602fb8ab7f6b518f27e8c64c7c37cde00ad46ddcef2f882b3.webp"
+  },
+  {
+    "id": "323",
+    "category": "场景素材",
+    "description": "红黑金夜间包间：黑色皮沙发、深红靠垫、亮面石材茶几、酒具与金属灯；大玻璃窗俯看会所大厅，右侧黑金门带键盘面板。",
+    "origin": "reference",
+    "image": "/library/94/94f4b45094c30bcec06501bcba73874ce5439ea5518f00b9669200db23faf6c3-thumb.webp",
+    "full": "/library/94/94f4b45094c30bcec06501bcba73874ce5439ea5518f00b9669200db23faf6c3.webp"
+  },
+  {
+    "id": "324",
+    "category": "场景素材",
+    "description": "学院走廊黄昏：深蓝储物柜、木护墙、玻璃木门、吊灯、公告栏和长凳，端窗暖阳在亮面地砖形成纵深光影。",
+    "origin": "reference",
+    "image": "/library/fe/feea0511c2daad9856ae61eb318952f2353efde34961ad8255bf34082297cacd-thumb.webp",
+    "full": "/library/fe/feea0511c2daad9856ae61eb318952f2353efde34961ad8255bf34082297cacd.webp"
+  },
+  {
+    "id": "325",
+    "category": "场景素材",
+    "description": "现代教室夕阳：成排浅木课桌配黑椅，白板、吊装投影机、讲台和低柜，右侧通高窗引入橙色夕照；下方三幅不同方向视图。",
+    "origin": "reference",
+    "image": "/library/ed/eda06903681d3f68d2b99c0a057b2a3fed8dedb487979084f64e494d19c51ebe-thumb.webp",
+    "full": "/library/ed/eda06903681d3f68d2b99c0a057b2a3fed8dedb487979084f64e494d19c51ebe.webp"
+  },
+  {
+    "id": "326",
+    "category": "场景素材",
+    "description": "古典餐厅夜景广角：深木长餐桌配米白高背椅、花瓶餐具，矩形吊灯与壁灯照亮石材地面和雕花墙柱。",
+    "origin": "reference",
+    "image": "/library/35/3596c6e2c31cb0a78f0143c01535d1611dc00a1c01266a40903aa18905405ab7-thumb.webp",
+    "full": "/library/35/3596c6e2c31cb0a78f0143c01535d1611dc00a1c01266a40903aa18905405ab7.webp"
+  },
+  {
+    "id": "327",
+    "category": "场景素材",
+    "description": "古典卧室夜景广角，米色大床和床尾软凳居中，水晶吊灯、床头灯、落地帘及雕花墙面，窗外深色。",
+    "origin": "reference",
+    "image": "/library/53/538eeba5939834b5f3af5738bc4116f60f959d0aa9310866a9d84da4c831d451-thumb.webp",
+    "full": "/library/53/538eeba5939834b5f3af5738bc4116f60f959d0aa9310866a9d84da4c831d451.webp"
+  },
+  {
+    "id": "328",
+    "category": "场景素材",
+    "description": "白昼高层休闲空间，靠城市景观落地窗摆双扶手椅和圆桌，左侧吧台与球形吊灯，木地板有斜照阳光。",
+    "origin": "reference",
+    "image": "/library/7e/7e0f4dee21cd4aa16361423980a142619a2b2aa4552bea1d77d723eabb7d06fa-thumb.webp",
+    "full": "/library/7e/7e0f4dee21cd4aa16361423980a142619a2b2aa4552bea1d77d723eabb7d06fa.webp"
+  },
+  {
+    "id": "329",
+    "category": "场景素材",
+    "description": "白昼城市大堂广角，高挑玻璃穹顶与通高落地窗、金属环形吊饰、吧台及排队人群，光亮石材地面反射室内。",
+    "origin": "reference",
+    "image": "/library/1d/1d93064c319f56f4d4d7bf6664bf1307179026ef86646f06efcba04173ec71dd-thumb.webp",
+    "full": "/library/1d/1d93064c319f56f4d4d7bf6664bf1307179026ef86646f06efcba04173ec71dd.webp"
+  },
+  {
+    "id": "330",
+    "category": "场景素材",
+    "description": "白昼双层古典客厅，成组米白沙发与雕花茶几、壁炉和大型吊灯，左侧楼梯、右侧通高窗映出蓝天山景。",
+    "origin": "reference",
+    "image": "/library/a1/a1959140eee3fb262f02adfb019fb13c03d8d033b5974bd5713c048fd5696592-thumb.webp",
+    "full": "/library/a1/a1959140eee3fb262f02adfb019fb13c03d8d033b5974bd5713c048fd5696592.webp"
+  },
+  {
+    "id": "331",
+    "category": "场景素材",
+    "description": "深木书房夜景，中央书桌与转椅面对整墙书柜，桌灯和墙灯发暖光，左侧单椅，地毯与窗外树影可见。",
+    "origin": "reference",
+    "image": "/library/b6/b6117e0149b9091e80929eaf4c07275e1386113cc5876775eab714f488bb28a4-thumb.webp",
+    "full": "/library/b6/b6117e0149b9091e80929eaf4c07275e1386113cc5876775eab714f488bb28a4.webp"
+  },
+  {
+    "id": "332",
+    "category": "场景素材",
+    "description": "古典宴会厅夜景全景，多组着礼服人物围站于圆桌旁，水晶吊灯、拱形高窗、墙柱与反光石材地面。",
+    "origin": "reference",
+    "image": "/library/f3/f31d5be687a5f7623404301d21d7a0ab8a554ea094942e46c2266bc67a139b73-thumb.webp",
+    "full": "/library/f3/f31d5be687a5f7623404301d21d7a0ab8a554ea094942e46c2266bc67a139b73.webp"
+  },
+  {
+    "id": "333",
+    "category": "场景素材",
+    "description": "现代卧室夜景，米色双人床和大地毯、两侧床头灯、圆形顶灯，木地板延伸至落地窗，窗外深蓝与树影。",
+    "origin": "reference",
+    "image": "/library/11/1197844a7610c02c1f92212b3f371e025e4c84836e2a9369174ca3395d0f3861-thumb.webp",
+    "full": "/library/11/1197844a7610c02c1f92212b3f371e025e4c84836e2a9369174ca3395d0f3861.webp"
+  },
+  {
+    "id": "334",
+    "category": "场景素材",
+    "description": "白墙古典餐厅夜景，深色长餐桌摆餐具与花束，米白高背椅、矩形吊灯和壁灯，窗外深蓝，地面亮面反射。",
+    "origin": "reference",
+    "image": "/library/f3/f36bcb57852906bef4b633bb0f7386b001903c25356cfbab401256b55e759b6f-thumb.webp",
+    "full": "/library/f3/f36bcb57852906bef4b633bb0f7386b001903c25356cfbab401256b55e759b6f.webp"
+  },
+  {
+    "id": "335",
+    "category": "场景素材",
+    "description": "白昼咖啡馆广角，中央圆桌与两把软椅，后方吧台、瓶罐货架和工作人员，左侧客人，右侧玻璃门通向街道。",
+    "origin": "reference",
+    "image": "/library/87/8737ade822b795cf17b3549c0cae39dc2fa2a3899948b47f61e5db9a3deba640-thumb.webp",
+    "full": "/library/87/8737ade822b795cf17b3549c0cae39dc2fa2a3899948b47f61e5db9a3deba640.webp"
+  },
+  {
+    "id": "336",
+    "category": "场景素材",
+    "description": "红棕色低照度休闲房间多角度板，包含软包长椅、矮桌、墙面画和球形灯。",
+    "origin": "generated",
+    "image": "/library/e9/e9bb5a49bf33e3b2a89334befc82531177a45cbe5596a8e30dcf6099f2d51522-thumb.webp",
+    "full": "/library/e9/e9bb5a49bf33e3b2a89334befc82531177a45cbe5596a8e30dcf6099f2d51522.webp"
+  },
+  {
+    "id": "337",
+    "category": "场景素材",
+    "description": "现代长桌会议室多角度场景板，落地窗、吊顶灯带、皮椅与墙面屏幕。",
+    "origin": "generated",
+    "image": "/library/a4/a41149656d184e1d2154039c0976f9747b36b1c6a3c2409980db5aba4b5f1c44-thumb.webp",
+    "full": "/library/a4/a41149656d184e1d2154039c0976f9747b36b1c6a3c2409980db5aba4b5f1c44.webp"
+  },
+  {
+    "id": "338",
+    "category": "场景素材",
+    "description": "办公室设定板，木办公桌、座椅、文件柜与墙面公告板，夜色窗景和暖台灯，含多视角与布局。",
+    "origin": "reference",
+    "image": "/library/89/89b63b2e92592914f47da451879328b472f20513c46aa31b926e252a06d18f47-thumb.webp",
+    "full": "/library/89/89b63b2e92592914f47da451879328b472f20513c46aa31b926e252a06d18f47.webp"
+  },
+  {
+    "id": "339",
+    "category": "场景素材",
+    "description": "木质办公书房多角度板，书柜、办公桌、会客椅和可见城市景观的大窗。",
+    "origin": "reference",
+    "image": "/library/e2/e232dbeb4f093891f6423a0823b3265f8f493e36d211f256e5e245f703e42adb-thumb.webp",
+    "full": "/library/e2/e232dbeb4f093891f6423a0823b3265f8f493e36d211f256e5e245f703e42adb.webp"
+  },
+  {
+    "id": "340",
+    "category": "场景素材",
+    "description": "深色现代办公室多角度板，整面城市窗景、办公桌、沙发和金属圆球装饰。",
+    "origin": "generated",
+    "image": "/library/ee/eeb43fe218d055ffb4240d6b45394f887b1b9cd7292660f772abd288f08ca6f7-thumb.webp",
+    "full": "/library/ee/eeb43fe218d055ffb4240d6b45394f887b1b9cd7292660f772abd288f08ca6f7.webp"
+  },
+  {
+    "id": "341",
+    "category": "场景素材",
+    "description": "卧室多视角场景板，米色大床、床头灯、深色木地板，床尾休闲椅及墙面挂画。",
+    "origin": "reference",
+    "image": "/library/73/7311cd28b085acf31a2d405bb36d6315f284c5c0fc49448485fb745041e4256b-thumb.webp",
+    "full": "/library/73/7311cd28b085acf31a2d405bb36d6315f284c5c0fc49448485fb745041e4256b.webp"
+  },
+  {
+    "id": "342",
+    "category": "场景素材",
+    "description": "城市夜景卧室多角度板，大床、沙发、电视和落地窗，暖色室内灯光。",
+    "origin": "generated",
+    "image": "/library/c1/c13d1aa9477af1844fcd8fb204da2f317bc6709d5f5eea971d9e3805a988a5d6-thumb.webp",
+    "full": "/library/c1/c13d1aa9477af1844fcd8fb204da2f317bc6709d5f5eea971d9e3805a988a5d6.webp"
+  },
+  {
+    "id": "343",
+    "category": "场景素材",
+    "description": "暖色现代卧室多角度板，深色床品、大落地窗、沙发与墙面电视。",
+    "origin": "reference",
+    "image": "/library/c4/c466e9195b025cd833328c0cf299d71146b5e8da42540d1715d4a086c99a5edb-thumb.webp",
+    "full": "/library/c4/c466e9195b025cd833328c0cf299d71146b5e8da42540d1715d4a086c99a5edb.webp"
+  },
+  {
+    "id": "344",
+    "category": "场景素材",
+    "description": "暖棕色现代卧室多角度板，含大床、长凳、沙发、落地窗及夜景。",
+    "origin": "reference",
+    "image": "/library/de/de082833228214caa60707d2c8372b65484bc129dcdcac5928bd53ac7dae9027-thumb.webp",
+    "full": "/library/de/de082833228214caa60707d2c8372b65484bc129dcdcac5928bd53ac7dae9027.webp"
+  },
+  {
+    "id": "345",
+    "category": "场景素材",
+    "description": "暖色卧室多角度板，双人床、床尾长凳、落地窗帘和墙面装饰。",
+    "origin": "reference",
+    "image": "/library/de/de4f74a9c3f80f18deff057e7979eb967b4c7521a7dbffde3eb30be02820e726-thumb.webp",
+    "full": "/library/de/de4f74a9c3f80f18deff057e7979eb967b4c7521a7dbffde3eb30be02820e726.webp"
+  },
+  {
+    "id": "346",
+    "category": "场景素材",
+    "description": "白昼古典长廊，木地板铺长条花纹地毯，左侧黑金栏杆与吊灯，右侧高窗斜射光，墙面雕花及壁灯。",
+    "origin": "reference",
+    "image": "/library/e8/e89f569e0adf8903795a1751391ddb0da2cd86cfb22b7cee598dbdbfa73da889-thumb.webp",
+    "full": "/library/e8/e89f569e0adf8903795a1751391ddb0da2cd86cfb22b7cee598dbdbfa73da889.webp"
+  },
+  {
+    "id": "347",
+    "category": "场景素材",
+    "description": "白色双层古典客厅广角，米白沙发围绕雕花桌、远端壁炉，左侧楼梯、吊灯层叠，通高窗外见蓝天远景。",
+    "origin": "reference",
+    "image": "/library/e3/e345f341dcd875ec8dc1e9f00b6120f868f81b1e7c9160627093d29f0bc6e4b2-thumb.webp",
+    "full": "/library/e3/e345f341dcd875ec8dc1e9f00b6120f868f81b1e7c9160627093d29f0bc6e4b2.webp"
+  },
+  {
+    "id": "348",
+    "category": "场景素材",
+    "description": "明亮实验室多角度场景板，木色实验台、凳子、玻璃器皿与仪器排列在窗边。",
+    "origin": "generated",
+    "image": "/library/19/19d8d3171acb6f78bf0fa65a64aa01593159e5b42d93d08ffb88a883ad6ca7b1-thumb.webp",
+    "full": "/library/19/19d8d3171acb6f78bf0fa65a64aa01593159e5b42d93d08ffb88a883ad6ca7b1.webp"
+  },
+  {
+    "id": "349",
+    "category": "场景素材",
+    "description": "夜间阶梯教室式室内多视角板，前方大屏幕和讲台，周围玻璃陈列柜，成排座椅与反光地面。",
+    "origin": "reference",
+    "image": "/library/8a/8afefb9785939615b13c39b6c816a319efa4e0fdf08b35e2934c122ff09678d5-thumb.webp",
+    "full": "/library/8a/8afefb9785939615b13c39b6c816a319efa4e0fdf08b35e2934c122ff09678d5.webp"
+  },
+  {
+    "id": "350",
+    "category": "场景素材",
+    "description": "温暖住宅客厅多角度场景板，有布艺沙发、圆茶几、单人椅、书架及大窗。",
+    "origin": "reference",
+    "image": "/library/0e/0ec957473aa083ae95d9bd557a2c97dc6685f237a83d39aa8a25628b7c49e0b4-thumb.webp",
+    "full": "/library/0e/0ec957473aa083ae95d9bd557a2c97dc6685f237a83d39aa8a25628b7c49e0b4.webp"
+  },
+  {
+    "id": "351",
+    "category": "场景素材",
+    "description": "夜景挑高客厅多角度板，大落地窗、沙发、楼梯与暖色灯带。",
+    "origin": "generated",
+    "image": "/library/a2/a23e38ec5bb657fe03a2143b513eaa20c04e61ce5c1304d9ef0459f989cb0f1e-thumb.webp",
+    "full": "/library/a2/a23e38ec5bb657fe03a2143b513eaa20c04e61ce5c1304d9ef0459f989cb0f1e.webp"
+  },
+  {
+    "id": "352",
+    "category": "场景素材",
+    "description": "城市夜景客厅四角度板，深色沙发、茶几、落地灯与窗外高楼灯光。",
+    "origin": "reference",
+    "image": "/library/d8/d8c4e1a1fa919c89e63ef8ca57373a6fed66af0c0dd97b90b5a4ab230bdcbee1-thumb.webp",
+    "full": "/library/d8/d8c4e1a1fa919c89e63ef8ca57373a6fed66af0c0dd97b90b5a4ab230bdcbee1.webp"
+  },
+  {
+    "id": "353",
+    "category": "场景素材",
+    "description": "暖色豪华宴会厅多角度场景板，圆桌、吊灯、高窗与深木色墙面。",
+    "origin": "generated",
+    "image": "/library/bc/bcd8adf6eae3d5167d86897f2e99b87057b50875f4110baf14e19862100895fd-thumb.webp",
+    "full": "/library/bc/bcd8adf6eae3d5167d86897f2e99b87057b50875f4110baf14e19862100895fd.webp"
+  },
+  {
+    "id": "354",
+    "category": "场景素材",
+    "description": "卧室多角度场景板，单人床、木桌、衣柜、黑椅与窗外日景，墙面有照片及软木板。",
+    "origin": "reference",
+    "image": "/library/4b/4b9d3a68a08ea8f4e09abf1efba66b3db6b5269d2efe2d5bb4832cbd892fe8aa-thumb.webp",
+    "full": "/library/4b/4b9d3a68a08ea8f4e09abf1efba66b3db6b5269d2efe2d5bb4832cbd892fe8aa.webp"
+  },
+  {
+    "id": "355",
+    "category": "场景素材",
+    "description": "日光卧室多角度板，床铺、书桌、墙面照片和木制衣柜，窗外有城市建筑。",
+    "origin": "reference",
+    "image": "/library/e6/e64518bc53b0772f25eb85ac1fc10a0db69d0248168ca67dd7db80013e809dc0-thumb.webp",
+    "full": "/library/e6/e64518bc53b0772f25eb85ac1fc10a0db69d0248168ca67dd7db80013e809dc0.webp"
+  },
+  {
+    "id": "356",
+    "category": "场景素材",
+    "description": "现代教室四视角场景板，黑色课桌椅排列整齐，前方投影幕，侧面大窗透入日光。",
+    "origin": "reference",
+    "image": "/library/15/15874f3ebb4b36924b23805ca561bebe47511a51e71671b02c6f185a280329e5-thumb.webp",
+    "full": "/library/15/15874f3ebb4b36924b23805ca561bebe47511a51e71671b02c6f185a280329e5.webp"
+  },
+  {
+    "id": "357",
+    "category": "场景素材",
+    "description": "教室场景设定板，主图呈木桌椅、黑板与夕阳高窗，下方含多视角、局部和布局小图。",
+    "origin": "reference",
+    "image": "/library/78/7880bc9d16e31ae50da5b158a3dec897b2e8f332f2ef9b00b6e4d81d398a954f-thumb.webp",
+    "full": "/library/78/7880bc9d16e31ae50da5b158a3dec897b2e8f332f2ef9b00b6e4d81d398a954f.webp"
+  },
+  {
+    "id": "358",
+    "category": "场景素材",
+    "description": "日光教室多角度板，多排桌椅、前方白板、吊装设备和一侧大窗。",
+    "origin": "reference",
+    "image": "/library/fd/fdfa63a58770643f1b1cac8bedd304c321a7b6c46a5d4691531b3fd6d6f39554-thumb.webp",
+    "full": "/library/fd/fdfa63a58770643f1b1cac8bedd304c321a7b6c46a5d4691531b3fd6d6f39554.webp"
+  },
+  {
+    "id": "359",
+    "category": "场景素材",
+    "description": "红黑色大厅设定板，含中央高台、楼层栏杆、楼梯、细部与平面图。",
+    "origin": "reference",
+    "image": "/library/9f/9f23c1cc098a24841172111e0fa7451d1413b47f862f30406bd96aecd13a924e-thumb.webp",
+    "full": "/library/9f/9f23c1cc098a24841172111e0fa7451d1413b47f862f30406bd96aecd13a924e.webp"
+  },
+  {
+    "id": "360",
+    "category": "场景素材",
+    "description": "昏暖住宅玄关与楼梯多视角场景板，石材墙、内嵌壁龛、边柜与盆栽形成简洁空间。",
+    "origin": "generated",
+    "image": "/library/28/28150a7ee7a7a872f9568f083a55566d100d0c4d40bf571967211ff5bd4b8e76-thumb.webp",
+    "full": "/library/28/28150a7ee7a7a872f9568f083a55566d100d0c4d40bf571967211ff5bd4b8e76.webp"
+  },
+  {
+    "id": "361",
+    "category": "场景素材",
+    "description": "四格夜间室内游泳池场景板，蓝色池水、泳道线、池边扶手和湿润反光地面。",
+    "origin": "reference",
+    "image": "/library/7e/7e4454bec07977e2f9482cc47e120ca3904df169f02438a50ad234297df86114-thumb.webp",
+    "full": "/library/7e/7e4454bec07977e2f9482cc47e120ca3904df169f02438a50ad234297df86114.webp"
+  },
+  {
+    "id": "362",
+    "category": "场景素材",
+    "description": "夜间室内泳池多角度板，玻璃屋顶、池边植物与暖色灯光，旁边有小型水池。",
+    "origin": "generated",
+    "image": "/library/fc/fc4e970ef169a73cbf4b9f3af55a7f58a34d7a16625252a6231f05a3a40fc352-thumb.webp",
+    "full": "/library/fc/fc4e970ef169a73cbf4b9f3af55a7f58a34d7a16625252a6231f05a3a40fc352.webp"
+  },
+  {
+    "id": "363",
+    "category": "场景素材",
+    "description": "暖光浴室多角度场景板，石材双洗手台、镜面、玻璃淋浴隔断和毛巾架并列展示。",
+    "origin": "reference",
+    "image": "/library/12/12ad3d53a85c1f8f91c31a597aca6169a4a36a84501a78c9922b2a749ad8507a-thumb.webp",
+    "full": "/library/12/12ad3d53a85c1f8f91c31a597aca6169a4a36a84501a78c9922b2a749ad8507a.webp"
+  },
+  {
+    "id": "364",
+    "category": "场景素材",
+    "description": "暗暖色浴室四视角场景板，玻璃淋浴间、木质洗手台、壁灯和湿亮反光地面。",
+    "origin": "reference",
+    "image": "/library/44/4491c24c49a0350d31105e30fcd2f2cd8b8505281ef8e2dc22031bb08e771784-thumb.webp",
+    "full": "/library/44/4491c24c49a0350d31105e30fcd2f2cd8b8505281ef8e2dc22031bb08e771784.webp"
+  },
+  {
+    "id": "365",
+    "category": "场景素材",
+    "description": "深色现代浴室多角度板，白色浴缸、玻璃淋浴区和双洗手台，暖色灯光。",
+    "origin": "generated",
+    "image": "/library/e5/e59f8032a2c60c41a10c74abef42e9c9a3ece662b4e05d3c2dd8abb362acc64d-thumb.webp",
+    "full": "/library/e5/e59f8032a2c60c41a10c74abef42e9c9a3ece662b4e05d3c2dd8abb362acc64d.webp"
+  },
+  {
+    "id": "366",
+    "category": "场景素材",
+    "description": "更衣室多视角场景板，环绕木质开放衣柜，中央金色矮柜和浅色长凳，水晶吊灯与花纹地毯。",
+    "origin": "generated",
+    "image": "/library/78/781285150195e2d43de96cc1fca2a9753bb390bad44aee47a11736acfe14e953-thumb.webp",
+    "full": "/library/78/781285150195e2d43de96cc1fca2a9753bb390bad44aee47a11736acfe14e953.webp"
+  },
+  {
+    "id": "367",
+    "category": "场景素材",
+    "description": "四格暗红木走廊场景板，砖墙与木门，暖壁灯、台灯和反光地面。",
+    "origin": "reference",
+    "image": "/library/71/710310fa047f002121955fad47c416e8b9a16a9719a1dd25911e5d5047cbf966-thumb.webp",
+    "full": "/library/71/710310fa047f002121955fad47c416e8b9a16a9719a1dd25911e5d5047cbf966.webp"
+  },
+  {
+    "id": "368",
+    "category": "场景素材",
+    "description": "夕阳下走廊多视角场景板，木色储物柜、窗户、教室门，灰色地面反射橙色日光。",
+    "origin": "reference",
+    "image": "/library/79/798304ab68005b7b8213baf9d0a4aa998e6cd9b54c678b4543fe4d4b0d48210b-thumb.webp",
+    "full": "/library/79/798304ab68005b7b8213baf9d0a4aa998e6cd9b54c678b4543fe4d4b0d48210b.webp"
+  },
+  {
+    "id": "369",
+    "category": "场景素材",
+    "description": "窄长暗色走廊，左侧深木格栅、右侧暖亮半透明板，灰色地面和线性顶棚向远端延伸。",
+    "origin": "generated",
+    "image": "/library/87/87514cae92dafa6f24961a8e97fc6e0b24d836fa3904f1e90871b437dab91a3f-thumb.webp",
+    "full": "/library/87/87514cae92dafa6f24961a8e97fc6e0b24d836fa3904f1e90871b437dab91a3f.webp"
+  },
+  {
+    "id": "370",
+    "category": "场景素材",
+    "description": "学校式走廊多角度场景板，木门、公告栏、饮水台与反光地面。",
+    "origin": "reference",
+    "image": "/library/bb/bb3a31da32891c385d627fedd24f0ed472c4b5bc7d0223e56a278291082cd7ac-thumb.webp",
+    "full": "/library/bb/bb3a31da32891c385d627fedd24f0ed472c4b5bc7d0223e56a278291082cd7ac.webp"
+  },
+  {
+    "id": "371",
+    "category": "场景素材",
+    "description": "红黑金色豪华大厅单幅场景，光亮地面、柱子、栏杆与红色灯光。",
+    "origin": "reference",
+    "image": "/library/d6/d67c753e1e7ad69d155011c31094edcf5a6f9d77bfd9ec648537c717c9e01cca-thumb.webp",
+    "full": "/library/d6/d67c753e1e7ad69d155011c31094edcf5a6f9d77bfd9ec648537c717c9e01cca.webp"
+  },
+  {
+    "id": "372",
+    "category": "场景素材",
+    "description": "四格夜间汽车内景板，黑色皮质座椅和车门，车窗外城市灯光，含前排中控。",
+    "origin": "reference",
+    "image": "/library/72/72169e14461cf41343e54a099c2e382287ee6e6ec6d3721bbcc58cd15bb39cf6-thumb.webp",
+    "full": "/library/72/72169e14461cf41343e54a099c2e382287ee6e6ec6d3721bbcc58cd15bb39cf6.webp"
+  },
+  {
+    "id": "373",
+    "category": "场景素材",
+    "description": "现代汽车维修车库多角度场景板，设有嵌地汽车举升机、维修工具墙、工作台、赛车线路显示屏及大型车库门。",
+    "origin": "reference",
+    "image": "/library/c9/c97b38d20949f8d8c5877e44f5b53a2bddaa74fa257f3da514848077ecc046fb-thumb.webp",
+    "full": "/library/c9/c97b38d20949f8d8c5877e44f5b53a2bddaa74fa257f3da514848077ecc046fb.webp"
+  },
+  {
+    "id": "374",
+    "category": "场景素材",
+    "description": "金色阳光照入双层古典客厅，米白沙发、雕花茶几与壁炉，吊灯、金色栏杆及落地窗形成通高空间。",
+    "origin": "reference",
+    "image": "/library/ca/ca4cb8b86be3012cc36f6902feb4a2543ccc4f23c9ce6ba289ef0c5a39c3fab2-thumb.webp",
+    "full": "/library/ca/ca4cb8b86be3012cc36f6902feb4a2543ccc4f23c9ce6ba289ef0c5a39c3fab2.webp"
+  },
+  {
+    "id": "375",
+    "category": "场景素材",
+    "description": "暖阳古典走廊，黑金栏杆、木地板与长条地毯并列，墙面壁灯亮起，高窗光影斜落地面，远端摆花瓶。",
+    "origin": "reference",
+    "image": "/library/e7/e7858a1b4c19f865504b4c49e4ddfa8ea7255df96225fcc4bf60b6a7c81d4e58-thumb.webp",
+    "full": "/library/e7/e7858a1b4c19f865504b4c49e4ddfa8ea7255df96225fcc4bf60b6a7c81d4e58.webp"
+  },
+  {
+    "id": "376",
+    "category": "场景素材",
+    "description": "晴天雪山石屋庭院，石板路通向木门，石墙与花坛覆雪，左侧木椅和檐下灯，远处蓝天山峰与松树。",
+    "origin": "reference",
+    "image": "/library/dd/ddf3c2313942211c73aab2e89763e9788205f4a252ff14eedd098ff385855c77-thumb.webp",
+    "full": "/library/dd/ddf3c2313942211c73aab2e89763e9788205f4a252ff14eedd098ff385855c77.webp"
+  },
+  {
+    "id": "377",
+    "category": "场景素材",
+    "description": "阴天积雪关卡街景，粗石堡墙与跨街高桥居中，人物站在木箱和岗亭旁，远处雪山从门洞露出。",
+    "origin": "reference",
+    "image": "/library/9e/9e2ed814d1563ec6ce2deb271ea9bf9f06ddb76772ec9d2379e25ce064ccf501-thumb.webp",
+    "full": "/library/9e/9e2ed814d1563ec6ce2deb271ea9bf9f06ddb76772ec9d2379e25ce064ccf501.webp"
+  },
+  {
+    "id": "378",
+    "category": "场景素材",
+    "description": "雨夜城市公寓门口与街道的多角度场景板，湿路面反射暖色灯光。",
+    "origin": "reference",
+    "image": "/library/96/96527838b839354c7219a2b4b45a60d4d06241ec00ff1cbcaa22a2e2cc71a670-thumb.webp",
+    "full": "/library/96/96527838b839354c7219a2b4b45a60d4d06241ec00ff1cbcaa22a2e2cc71a670.webp"
+  },
+  {
+    "id": "379",
+    "category": "场景素材",
+    "description": "黄色跑车停在夜间山路的多角度画面，湿地反光，远处城市灯光与月亮。",
+    "origin": "reference",
+    "image": "/library/c1/c19d87a42b394837ba2234eda61d706c7ac8efbc33c3978c94b42978bfe848e3-thumb.webp",
+    "full": "/library/c1/c19d87a42b394837ba2234eda61d706c7ac8efbc33c3978c94b42978bfe848e3.webp"
+  },
+  {
+    "id": "380",
+    "category": "场景素材",
+    "description": "林荫小径多视角场景板，地面落叶、大树树根、灌木与红砖建筑外墙可见。",
+    "origin": "reference",
+    "image": "/library/37/37c001fc6f3c2422508236eb9eb23d313d86d5f223d83920cd33587a9c15f71b-thumb.webp",
+    "full": "/library/37/37c001fc6f3c2422508236eb9eb23d313d86d5f223d83920cd33587a9c15f71b.webp"
+  },
+  {
+    "id": "381",
+    "category": "场景素材",
+    "description": "红砖建筑外景多视角板，石砌门廊和台阶，绿树、草坪、长椅及自行车架。",
+    "origin": "reference",
+    "image": "/library/6a/6af0bb65f9699a917c9d4c09721cbb00fdfb7257a905d578e1b303edff79dd85-thumb.webp",
+    "full": "/library/6a/6af0bb65f9699a917c9d4c09721cbb00fdfb7257a905d578e1b303edff79dd85.webp"
+  },
+  {
+    "id": "382",
+    "category": "场景素材",
+    "description": "城市滨水大道夜景多角度板，含高楼天际线、车流、路灯与水面。",
+    "origin": "generated",
+    "image": "/library/cf/cf87bfac202ebe39c80e51220bc8c3d755a7628a7227f7a4c445dac20a397c33-thumb.webp",
+    "full": "/library/cf/cf87bfac202ebe39c80e51220bc8c3d755a7628a7227f7a4c445dac20a397c33.webp"
+  },
+  {
+    "id": "383",
+    "category": "场景素材",
+    "description": "阴天雪山小镇街道，银色餐车开亮灯售餐窗口，顾客站在车旁，积雪路面有汽车、木屋和远处雪山。",
+    "origin": "reference",
+    "image": "/library/69/6906643eb009176a7aec094017e0b04affe6222d59ddfbd4793b848276f8f0a1-thumb.webp",
+    "full": "/library/69/6906643eb009176a7aec094017e0b04affe6222d59ddfbd4793b848276f8f0a1.webp"
   }
 ]
