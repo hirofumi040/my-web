@@ -7,3 +7,5 @@ dist/
 *.log
 *.zip
 oss-upload-root/
+
+.vercel/
